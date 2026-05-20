@@ -1,169 +1,143 @@
-import sys
-import tweepy
-import simplejson as json
-import cPickle as pickle
+import collections
 import datetime
+import json
+import os
+import pickle
+import sys
+
 import spotipy
 import spotipy.util as util
-import pprint
-import os
-import collections
+
+import config
 
 
-user = 'plamere'
-scope = 'playlist-modify-public'
-tweet_testing = True
-cur_feed = None
+class Notifier:
+    def __init__(self, debug=False):
+        self.debug = debug
 
-feeds = {
-    '5' : {
-        'years': 5,
-        'title': '5 Years Ago in Music',
-        'playlist_uri':'spotify:user:plamere:playlist:4VNzdtsvmHz31W3H6eDSEF',
-        'playlist_url':'https://open.spotify.com/user/plamere/playlist/4VNzdtsvmHz31W3H6eDSEF',
-        'twitter_consumer_key':'0918eqwf81vmYWWhRguLIwiTC',
-        'twitter_consumer_secret':'W1ZcAqZu0gNAFwN7YD3TtvnrKyGZva4WiAr1P3g3cXnu9WmMWi',
-        'twitter_access_token':'3155979951-9bUjBJfXzKSVYzoM5kQ8OS4AeVEymsB5VyICL72',
-        'twitter_access_token_secret':'Go1SMwNOMHALuENMQkgjmUjgVl0SBNvrAaGmDRS2mKT4D',
-    },
-    '10' : {
-        'years': 10,
-        'title': '10 Years Ago in Music',
-        'playlist_uri':'spotify:user:plamere:playlist:4VNzdtsvmHz31W3H6eDSEF',
-        'playlist_url':'https://open.spotify.com/user/plamere/playlist/4VNzdtsvmHz31W3H6eDSEF',
-        'twitter_consumer_key':'0918eqwf81vmYWWhRguLIwiTC',
-        'twitter_consumer_secret':'W1ZcAqZu0gNAFwN7YD3TtvnrKyGZva4WiAr1P3g3cXnu9WmMWi',
-        'twitter_access_token':'3155979951-9bUjBJfXzKSVYzoM5kQ8OS4AeVEymsB5VyICL72',
-        'twitter_access_token_secret':'Go1SMwNOMHALuENMQkgjmUjgVl0SBNvrAaGmDRS2mKT4D',
-    },
-    '20' : {
-        'years': 20,
-        'title': '20 Years Ago in Music',
-        'playlist_uri':'spotify:user:plamere:playlist:1HnmSGLvzXQejvcsgob208',
-        'playlist_url':'https://open.spotify.com/user/plamere/playlist/1HnmSGLvzXQejvcsgob208',
-        'twitter_consumer_key':'0918eqwf81vmYWWhRguLIwiTC',
-        'twitter_consumer_secret':'W1ZcAqZu0gNAFwN7YD3TtvnrKyGZva4WiAr1P3g3cXnu9WmMWi',
-        'twitter_access_token':'3155979951-9bUjBJfXzKSVYzoM5kQ8OS4AeVEymsB5VyICL72',
-        'twitter_access_token_secret':'Go1SMwNOMHALuENMQkgjmUjgVl0SBNvrAaGmDRS2mKT4D',
-    },
-    '30' : {
-        'years': 30,
-        'title': '30 Years Ago in Music',
-        'playlist_uri':'spotify:user:plamere:playlist:7tsCIT87Be5AP0eaJe1lY7',
-        'playlist_url':'https://open.spotify.com/user/plamere/playlist/7tsCIT87Be5AP0eaJe1lY7',
-        'twitter_consumer_key':'0918eqwf81vmYWWhRguLIwiTC',
-        'twitter_consumer_secret':'W1ZcAqZu0gNAFwN7YD3TtvnrKyGZva4WiAr1P3g3cXnu9WmMWi',
-        'twitter_access_token':'3155979951-9bUjBJfXzKSVYzoM5kQ8OS4AeVEymsB5VyICL72',
-        'twitter_access_token_secret':'Go1SMwNOMHALuENMQkgjmUjgVl0SBNvrAaGmDRS2mKT4D',
-    },
-    '40' : {
-        'years': 40,
-        'title': '40 Years Ago in Music',
-        'playlist_uri':'spotify:user:plamere:playlist:3N26XDqRfWT1DpXFBT2MlE',
-        'playlist_url':'https://open.spotify.com/user/plamere/playlist/3N26XDqRfWT1DpXFBT2MlE',
-        'twitter_consumer_key':'0918eqwf81vmYWWhRguLIwiTC',
-        'twitter_consumer_secret':'W1ZcAqZu0gNAFwN7YD3TtvnrKyGZva4WiAr1P3g3cXnu9WmMWi',
-        'twitter_access_token':'3155979951-9bUjBJfXzKSVYzoM5kQ8OS4AeVEymsB5VyICL72',
-        'twitter_access_token_secret':'Go1SMwNOMHALuENMQkgjmUjgVl0SBNvrAaGmDRS2mKT4D',
-    },
-    '50' : {
-        'years': 50,
-        'title': '50 Years Ago in Music',
-        'playlist_uri':'spotify:user:plamere:playlist:20MRgCn9dwNPeGhNBGAlZZ',
-        'playlist_url':'http://open.spotify.com/user/plamere/playlist/20MRgCn9dwNPeGhNBGAlZZ',
-        'twitter_consumer_key':'0918eqwf81vmYWWhRguLIwiTC',
-        'twitter_consumer_secret':'W1ZcAqZu0gNAFwN7YD3TtvnrKyGZva4WiAr1P3g3cXnu9WmMWi',
-        'twitter_access_token':'3155979951-9bUjBJfXzKSVYzoM5kQ8OS4AeVEymsB5VyICL72',
-        'twitter_access_token_secret':'Go1SMwNOMHALuENMQkgjmUjgVl0SBNvrAaGmDRS2mKT4D',
-    },
-}
+    def post(self, text):
+        print(f"[Notifier] {text}")
 
-def authenticate():
-    consumer_key = cur_feed['twitter_consumer_key']
-    consumer_secret = cur_feed['twitter_consumer_secret']
-    access_token = cur_feed['twitter_access_token']
-    access_token_secret = cur_feed['twitter_access_token_secret']
 
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_token, access_token_secret)
-    api = tweepy.API(auth)
-    return api
+def load_charts():
+    # Attempt to load from pickle first
+    charts = None
 
-def twitter_post(text):
-    if tweet_testing:
-        print text
-    else:
-        api.update_status(text)
+    # Try custom data path first, then fallback
+    data_path = config.CHART_DATA_PATH
+    if not os.path.exists(data_path) and os.path.exists(
+        config.CHART_DATA_FALLBACK_PATH
+    ):
+        data_path = config.CHART_DATA_FALLBACK_PATH
 
-def load_js():
-    f = open('chart_details.js')
-    js = f.read()
-    f.close()
+    # If it ends with .pkl, load as pickle
+    if data_path.endswith(".pkl"):
+        try:
+            with open(data_path, "rb") as f:
+                charts = pickle.load(f, encoding="latin1")
+                return charts
+        except Exception as e:
+            print(
+                f"Failed to load pickle: {e}. Trying JSON fallback.",
+                file=sys.stderr,
+            )
+            # Try switching path to .js / .json
+            data_path = data_path.replace(".pkl", ".js")
 
-    obj = json.loads(js)
-    return obj
+    # Load as JSON
+    if os.path.exists(data_path):
+        try:
+            with open(data_path, encoding="utf-8") as f:
+                charts = json.load(f)
+                return charts
+        except Exception as e:
+            print(f"Failed to load JSON data from {data_path}: {e}", file=sys.stderr)
 
-def save_pickle(charts):
-    f = open('chart_details.pkl', 'w')
-    pickle.dump(charts, f, -1)
-    f.close()
+    # Try original JSON fallback if custom not found
+    if data_path != config.CHART_DATA_FALLBACK_PATH and os.path.exists(
+        config.CHART_DATA_FALLBACK_PATH
+    ):
+        try:
+            with open(config.CHART_DATA_FALLBACK_PATH, encoding="utf-8") as f:
+                charts = json.load(f)
+                return charts
+        except Exception as e:
+            print(f"Failed to load fallback JSON data: {e}", file=sys.stderr)
 
-def load_pickle():
-    f = open('chart_details.pkl')
-    chart = pickle.load(f)
-    f.close()
-    return chart
+    raise FileNotFoundError("Could not load chart database (neither pickle nor JSON).")
 
-def convert_charts_to_pickle():
-    data = load_js()
-    save_pickle(data)
 
 def parse_date(dstring):
-    date = datetime.datetime.strptime(dstring, '%Y-%m-%d').date()
-    return date
+    return datetime.datetime.strptime(dstring, "%Y-%m-%d").date()
 
-def show_songs(song_ids):
-    for i, id in enumerate(song_ids):
-        if id and str(id) in charts['songs']:
-            song = charts['songs'][str(id)]
-            print i, song['title'], song['artist']
 
-def show_week(date):
-    if date in charts['charts']:
-        week = charts['charts'][date]
-        show_songs(week)
+def show_songs(charts, song_ids):
+    for i, sid in enumerate(song_ids):
+        if sid and str(sid) in charts["songs"]:
+            song = charts["songs"][str(sid)]
+            print(i, song["title"], song["artist"])
+
+
+def show_week(charts, date):
+    if date in charts["charts"]:
+        week = charts["charts"][date]
+        show_songs(charts, week)
+
 
 def prep_charts(charts):
     scharts = []
-    for date_string,sids in charts['charts'].items():
+    for date_string, sids in charts["charts"].items():
         date = parse_date(date_string)
-        scharts.append( (date, sids) )
+        scharts.append((date, sids))
     scharts.sort()
-    charts['scharts'] = scharts
+    charts["scharts"] = scharts
 
 
-def get_best_match_for_date(sdate):
-    for i, (date, sids) in enumerate(charts['scharts'][:-1]):
-        ndate, nsids = charts['scharts'][i + 1]
+def get_best_match_for_date(charts, sdate):
+    if not charts.get("scharts"):
+        prep_charts(charts)
+    for i, (date, sids) in enumerate(charts["scharts"][:-1]):
+        ndate, _ = charts["scharts"][i + 1]
         if sdate >= date and sdate < ndate:
             return date, sids
+    # Fallback to the last one if it's past or equal
+    if charts["scharts"] and sdate >= charts["scharts"][-1][0]:
+        return charts["scharts"][-1][0], charts["scharts"][-1][1]
     return sdate, None
-        
 
-def save_to_playlist(sids):
+
+def save_to_playlist(sp, charts, playlist_uri, sids):
     uris = []
-    for i, id in enumerate(sids):
-        if id and str(id) in charts['songs']:
-            song = charts['songs'][str(id)]
-            if 'uri' in song:
-                uri = song['uri']
-                uris.append(uri)
+    for sid in sids:
+        if sid and str(sid) in charts["songs"]:
+            song = charts["songs"][str(sid)]
+            if "uri" in song:
+                uris.append(song["uri"])
 
-    return sp.user_playlist_replace_tracks(user, cur_feed['playlist_uri'], uris)
+    # Spotipy replace tracks requires split into chunks of 100
+    chunk_size = 100
+    results = []
+    for i in range(0, len(uris), chunk_size):
+        chunk = uris[i : i + chunk_size]
+        if i == 0:
+            res = sp.user_playlist_replace_tracks(
+                config.SPOTIFY_USER, playlist_uri, chunk
+            )
+        else:
+            res = sp.user_playlist_add_tracks(config.SPOTIFY_USER, playlist_uri, chunk)
+        results.append(res)
+    return results
 
 
-def fun_facts(date, sids):
-    sdate = date.strftime('%Y-%m-%d')
+def fix_name(name):
+    if name.endswith(", The"):
+        return "The " + name.replace(", The", "")
+    else:
+        return name
+
+
+def fun_facts(charts, date, sids):
+    sdate = date.strftime("%Y-%m-%d")
     facts = []
     artists = collections.Counter()
     shortest = None
@@ -171,140 +145,191 @@ def fun_facts(date, sids):
     year = str(date.year)
 
     def add_fact(score, txt):
-        facts.append( (score, txt) )
+        facts.append((score, txt))
 
     def fn(song):
-        return song['title'] + ' by ' + fix_name(song['artist'])
+        return song["title"] + " by " + fix_name(song["artist"])
 
     def fp(p):
-        return  "#" + str(p)
+        return str(p)
 
     def intro():
-        return 'This week in ' + year + ' '
-        #return 'On ' + sdate + ' '
+        return config.get_text("this_week_in", year=year)
 
-    for i, id in enumerate(sids):
-        if id and str(id) in charts['songs']:
-            song = charts['songs'][str(id)]
-            artist = fix_name(song['artist'])
+    for i, sid in enumerate(sids):
+        if sid and str(sid) in charts["songs"]:
+            song = charts["songs"][str(sid)]
+            artist = fix_name(song["artist"])
             artists[artist] += 1
             if i == 0:
-                add_fact(1, intro() + 'the #1 song was ' + fn(song))
-            if song['peak_week'] == sdate:
+                add_fact(1, intro() + config.get_text("no_1_song_was", song=fn(song)))
+            if song.get("peak_week") == sdate:
                 score = 6 - i / 100.0
-                add_fact(score, intro() + fn(song) +' reached its peak at ' + fp(i + 1))
-            if song['entered'] == sdate:
+                add_fact(
+                    score,
+                    intro()
+                    + config.get_text("reached_peak_at", song=fn(song), peak=fp(i + 1)),
+                )
+            if song.get("entered") == sdate:
                 score = 5 - i / 100.0
-                add_fact(score, intro() + fn(song) +' entered the charts at ' + fp(i + 1))
+                add_fact(
+                    score,
+                    intro()
+                    + config.get_text(
+                        "entered_charts_at", song=fn(song), rank=fp(i + 1)
+                    ),
+                )
 
-            wc = song['weeks_charted']
-            if shortest == None or wc < shortest['weeks_charted']:
+            wc = song.get("weeks_charted", 0)
+            if shortest is None or wc < shortest.get("weeks_charted", 0):
                 shortest = song
-            if longest == None or wc > longest['weeks_charted']:
+            if longest is None or wc > longest.get("weeks_charted", 0):
                 longest = song
 
-            if song['yearly_rank'] < 10:
-                score = 2 - i / 100.
-                add_fact(score, intro() + 'top 10 song of ' + year + ' ' \
-                    + fn(song) + 'was at ' + fp(i + 1))
+            yearly_rank = song.get("yearly_rank")
+            if yearly_rank is not None and yearly_rank < 10:
+                score = 2 - i / 100.0
+                add_fact(
+                    score,
+                    intro()
+                    + config.get_text(
+                        "top_10_song", year=year, song=fn(song), rank=fp(i + 1)
+                    ),
+                )
 
-    for i, (a, c) in enumerate(artists.most_common(3)):
+    for a, c in artists.most_common(3):
         score = 5 + c
         if c > 2:
-            add_fact(score + c, intro()  + a + ' appears on the chart ' + str(c) + ' times.')
+            add_fact(
+                score + c,
+                intro() + config.get_text("appears_n_times", artist=a, count=c),
+            )
 
-    add_fact(5, fn(shortest) + ' was only on the charts for ' + \
-        str(shortest['weeks_charted']) + ' weeks.')
-    add_fact(2, fn(longest) + ' was on the charts for ' + \
-        str(longest['weeks_charted']) + ' weeks.')
+    if shortest and shortest.get("weeks_charted"):
+        add_fact(
+            5,
+            config.get_text(
+                "only_on_charts", song=fn(shortest), weeks=shortest["weeks_charted"]
+            ),
+        )
+    if longest and longest.get("weeks_charted"):
+        add_fact(
+            2,
+            config.get_text(
+                "on_charts_for", song=fn(longest), weeks=longest["weeks_charted"]
+            ),
+        )
+
     facts.sort(reverse=True)
     return facts
 
 
 def show_fun_facts(facts):
     for score, txt in facts:
-        print score, txt
+        print(score, txt)
 
 
-def fix_name(name):
-    if name.endswith(', The'):
-        return 'The ' + name.replace(', The', '')
-    else:
-        return name
+def send_notification(notifier, feed, txt):
+    msg = txt + " " + feed["playlist_url"]
+    notifier.post(msg)
 
 
-def create_tweet(txt):
-    msg = txt + ' ' + cur_feed['playlist_url']
-    twitter_post(msg)
-
-
-def tweet_fun_fact(facts, which):
+def notify_fun_fact(notifier, feed, facts, which):
     if len(facts) > 0:
         idx = which % len(facts)
-        score, tweet = facts[idx]
-        create_tweet(tweet)
+        _, fact_text = facts[idx]
+        send_notification(notifier, feed, fact_text)
 
 
 def get_tweet_count():
     tweets_per_day = 3
     today = datetime.datetime.now()
     day_of_week = today.weekday()
-    hc = int(today.hour / (24. / tweets_per_day))
+    hc = int(today.hour / (24.0 / tweets_per_day))
     tweet_count = day_of_week * tweets_per_day + hc
     return int(tweet_count)
 
-    
-if __name__ == '__main__':
+
+def get_target_date(today, years):
+    try:
+        sdate = datetime.date(today.year - years, today.month, today.day)
+    except ValueError:
+        # leap year w00t
+        delta = int(years * 0.2425)
+        sdate = today - datetime.timedelta(365 * years + delta)
+    return sdate
+
+
+if __name__ == "__main__":
     save = True
     just_tweet = False
     tweet_count = 0
     sdate = None
 
+    if len(sys.argv) < 2:
+        print(
+            "Usage: python radio.py [feed_key] "
+            "[--tweet [tweet_count]] [--date YYYY-MM-DD]"
+        )
+        sys.exit(1)
+
     which = sys.argv[1]
-    if which in feeds:
-        cur_feed = feeds[which]
-        years = cur_feed['years']
-    else:
-        print 'unknown feed', which
-        sys.exit(0)
+    feed_config = config.get_feed_config(which)
+    if not feed_config:
+        print(f"Unknown feed key: {which}")
+        sys.exit(1)
+
+    years = feed_config["years"]
 
     if len(sys.argv) > 2:
-        if sys.argv[2] == '--tweet':
+        if sys.argv[2] == "--tweet":
             just_tweet = True
             save = False
             if len(sys.argv) > 3:
                 tweet_count = int(sys.argv[3])
             else:
                 tweet_count = get_tweet_count()
-        elif sys.argv[2] == '--date':
+        elif sys.argv[2] == "--date":
             sdate = parse_date(sys.argv[3])
 
-    if sdate == None:
+    if sdate is None:
         today = datetime.datetime.now().date()
-        try:
-            sdate = datetime.date(today.year - years, today.month, today.day)
-        except ValueError:
-            # leap year w00t
-            delta = int(years * .2425)
-            sdate = today - datetime.timedelta(365 * years + delta)
+        sdate = get_target_date(today, years)
 
-    api = authenticate()
-    token = util.prompt_for_user_token(user, scope)
+    notifier = Notifier()
+    scope = "playlist-modify-public"
+    token = util.prompt_for_user_token(config.SPOTIFY_USER, scope)
+
     if token:
         sp = spotipy.Spotify(auth=token)
-        charts = load_pickle()
-        prep_charts(charts)
-        date, sids = get_best_match_for_date(sdate)
+        try:
+            charts = load_charts()
+        except Exception as e:
+            print(f"Error loading charts: {e}")
+            sys.exit(1)
+
+        date, sids = get_best_match_for_date(charts, sdate)
         if sids:
             if save:
-                response = save_to_playlist(sids)
-                if not response:
-                    create_tweet('The ' + cur_feed['title']  + ' playlist has just been updated.')
+                if feed_config["playlist_uri"]:
+                    save_to_playlist(sp, charts, feed_config["playlist_uri"], sids)
+                    send_notification(
+                        notifier,
+                        feed_config,
+                        config.get_text(
+                            "update_message_simple", title=feed_config["title"]
+                        ),
+                    )
+                else:
+                    print("No playlist URI configured, skipping Spotify update.")
+                    facts = fun_facts(charts, date, sids)
+                    if facts:
+                        print("Fun facts for this week:")
+                        show_fun_facts(facts)
             else:
-                facts = fun_facts(date, sids)
-                tweet_fun_fact(facts, tweet_count)
+                facts = fun_facts(charts, date, sids)
+                notify_fun_fact(notifier, feed_config, facts, tweet_count)
         else:
-            print 'no chart found for ', sdate
+            print(config.get_text("no_chart_found", date=sdate))
     else:
-        print "can't connect to spotify"
-
+        print(config.get_text("cannot_authenticate"))
