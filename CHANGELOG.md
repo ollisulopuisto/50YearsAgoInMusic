@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Calendar Versioning (CalVer) `vYY.MM.DD.N` where N is the total commit count.
 
+## [v26.05.20.11] - 2026-05-20
+
+### Added
+- Data sources section in README crediting Timo's blogs ([Suomen radiolistat](https://suomenradiolistat.blogspot.com/), [Listablogi](https://listablogi.blogspot.com/)).
+
+### Changed
+- Updated `chart_details_fi.js` and `chart_details_fi.pkl` with latest Spotify URI resolutions (~1200/3500 tracks identified).
+
 ## [v26.05.20.10] - 2026-05-20
 
 ### Added
