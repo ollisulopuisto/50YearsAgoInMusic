@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Calendar Versioning (CalVer) `vYY.MM.DD.N` where N is the total commit count.
 
+## [v26.05.20.8] - 2026-05-20
+
+### Changed
+- Rewrote `README.md` to reflect current project state (Finnish playlists, uv, GitHub Actions, no Twitter).
+- Removed legacy `get_tweet_count()` function and `--tweet` CLI mode from `radio.py`.
+
+### Removed
+- All Twitter/tweepy references from codebase and documentation.
+
 ## [v26.05.20.7] - 2026-05-20
 
 ### Added

@@ -241,15 +241,6 @@ def notify_fun_fact(notifier, feed, facts, which):
         send_notification(notifier, feed, fact_text)
 
 
-def get_tweet_count():
-    tweets_per_day = 3
-    today = datetime.datetime.now()
-    day_of_week = today.weekday()
-    hc = int(today.hour / (24.0 / tweets_per_day))
-    tweet_count = day_of_week * tweets_per_day + hc
-    return int(tweet_count)
-
-
 def get_target_date(today, years):
     try:
         sdate = datetime.date(today.year - years, today.month, today.day)
@@ -262,15 +253,10 @@ def get_target_date(today, years):
 
 if __name__ == "__main__":
     save = True
-    just_tweet = False
-    tweet_count = 0
     sdate = None
 
     if len(sys.argv) < 2:
-        print(
-            "Usage: python radio.py [feed_key] "
-            "[--tweet [tweet_count]] [--date YYYY-MM-DD]"
-        )
+        print("Usage: python radio.py [feed_key] [--date YYYY-MM-DD]")
         sys.exit(1)
 
     which = sys.argv[1]
@@ -281,16 +267,8 @@ if __name__ == "__main__":
 
     years = feed_config["years"]
 
-    if len(sys.argv) > 2:
-        if sys.argv[2] == "--tweet":
-            just_tweet = True
-            save = False
-            if len(sys.argv) > 3:
-                tweet_count = int(sys.argv[3])
-            else:
-                tweet_count = get_tweet_count()
-        elif sys.argv[2] == "--date":
-            sdate = parse_date(sys.argv[3])
+    if len(sys.argv) > 2 and sys.argv[2] == "--date":
+        sdate = parse_date(sys.argv[3])
 
     if sdate is None:
         today = datetime.datetime.now().date()
@@ -310,25 +288,21 @@ if __name__ == "__main__":
 
         date, sids = get_best_match_for_date(charts, sdate)
         if sids:
-            if save:
-                if feed_config["playlist_uri"]:
-                    save_to_playlist(sp, charts, feed_config["playlist_uri"], sids)
-                    send_notification(
-                        notifier,
-                        feed_config,
-                        config.get_text(
-                            "update_message_simple", title=feed_config["title"]
-                        ),
-                    )
-                else:
-                    print("No playlist URI configured, skipping Spotify update.")
-                    facts = fun_facts(charts, date, sids)
-                    if facts:
-                        print("Fun facts for this week:")
-                        show_fun_facts(facts)
+            if feed_config["playlist_uri"]:
+                save_to_playlist(sp, charts, feed_config["playlist_uri"], sids)
+                send_notification(
+                    notifier,
+                    feed_config,
+                    config.get_text(
+                        "update_message_simple", title=feed_config["title"]
+                    ),
+                )
             else:
+                print("No playlist URI configured, skipping Spotify update.")
                 facts = fun_facts(charts, date, sids)
-                notify_fun_fact(notifier, feed_config, facts, tweet_count)
+                if facts:
+                    print("Fun facts for this week:")
+                    show_fun_facts(facts)
         else:
             print(config.get_text("no_chart_found", date=sdate))
     else:

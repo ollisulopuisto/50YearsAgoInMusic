@@ -108,7 +108,7 @@ wheels = [
 
 [[package]]
 name = "fifty-years-ago-in-music"
-version = "26.5.20.6"
+version = "26.5.20.7"
 source = { virtual = "." }
 dependencies = [
     { name = "beautifulsoup4" },

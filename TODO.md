@@ -3,7 +3,7 @@
 Projektin tavoite- ja edistymisseuranta.
 Versiointi: CalVer `vYY.MM.DD.N` (N = kokonaiscommitmäärä).
 
-**Nykyinen versio**: v26.05.20.7
+**Nykyinen versio**: v26.05.20.8
 
 ---
 
@@ -60,8 +60,8 @@ Suomalainen data kattaa **1988–2013**. Vuonna 2026 toimivat intervallit:
 ## Vaihe 5: Notifikaatiot ja julkaisu
 
 - [ ] Korvaa Notifier-stub oikealla ilmoitusjärjestelmällä (esim. Slack, Mastodon, RSS)
-- [ ] Päivitä README.md vastaamaan nykytilaa
-- [ ] Poista vanhat Twitter-viittaukset
+- [x] Päivitä README.md vastaamaan nykytilaa
+- [x] Poista vanhat Twitter-viittaukset
 
 ---
 

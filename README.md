@@ -1,43 +1,70 @@
-50Year Radio
-============
-This is the source for 50 Year Radio, a python app that updates a set of Spotify playlists with the top tracks from the past.  
+# 50 Year Radio 🎵
 
-The script is intended to be run once a week (crontab for the win). It currently updates the following playlists:
+Spotify-soittolistoja, jotka päivittyvät viikoittain menneisyyden hittilistoille.
+Suomalainen listatietokanta (1988–2013) ja kansainvälinen data (Whitburn Project).
 
-   + 50 Years Ago in Music
-   + 40 Years Ago in Music
-   + 30 Years Ago in Music
-   + 20 Years Ago in Music
-   + 10 Years Ago in Music
-   + 5 Years Ago in Music
-   
-It also tweets info about the updated playlists to a twitter account.
+## Aktiiviset soittolistat (fi)
 
-The chart data is derived from [The Whitburn Project](http://waxy.org/2008/05/the_whitburn_project/).
+| Soittolista | Intervalli | Spotify |
+|---|---|---|
+| Suomen top-listat 15 vuotta sitten | 15 v. | [Avaa](https://open.spotify.com/playlist/54i05jCvdR9mrpOn2YPyr1) |
+| Suomen top-listat 20 vuotta sitten | 20 v. | [Avaa](https://open.spotify.com/playlist/48smGZScf4kG6uMC0wdX09) |
+| Suomen top-listat 25 vuotta sitten | 25 v. | [Avaa](https://open.spotify.com/playlist/40LO5PadayvxBkTE6rdqj1) |
+| Suomen top-listat 30 vuotta sitten | 30 v. | [Avaa](https://open.spotify.com/playlist/4IfVQrggAfv95jBWmXkrXA) |
 
-The app uses the Spotify API to create the playlists and the Twitter API to tweet the tweets.
+Soittolistat päivitetään automaattisesti joka maanantai klo 12:00 EET (GitHub Actions).
 
-Usage
-====
+## Käyttö
 
-    % python update_radio.py [year]
-    
- or more typically as a crontab entry:
- 
-    0 9 * * 1  /path/to/app/go
+```bash
+# Asenna riippuvuudet
+uv sync --all-groups
 
- to run the script a 9AM every monday
- 
-Dependencies
-------------
-The script uses *spotipy* and *tweepy*
+# Tarkista datan saatavuus
+LOCALE=fi uv run python update_radio.py --check-data
 
-The script looks for credentials in environment variables (which are not maintained in the repo for obvious reasons). The following ENV variables should be set:
+# Kuivaharjoitus (ei kirjoita Spotifyyn)
+LOCALE=fi uv run python update_radio.py --dry-run
 
- - export SPOTIPY_CLIENT_ID='xxx'
- - export SPOTIPY_CLIENT_SECRET='xxx'
- - export SPOTIPY_REDIRECT_URI='https://xxx/yyy'
- - export twitter_consumer_key='xxx'
- - export twitter_consumer_secret='xxx'
- - export twitter_access_token='xxx'
- - export twitter_access_token_secret='xxx'
+# Päivitä kaikki soittolistat
+LOCALE=fi uv run python update_radio.py
+
+# Päivitä yksittäinen intervalli
+LOCALE=fi uv run python update_radio.py 20
+```
+
+## Listatietokanta
+
+Suomalainen data on peräisin Suomen virallisista singlelista-arkistoista ja kattaa vuodet **1988–2013**.
+Kansainvälinen data perustuu [The Whitburn Project](http://waxy.org/2008/05/the_whitburn_project/) -tietokantaan.
+
+## Automaatio
+
+- **CI**: Ruff-lintteri + pytest jokaisella pushilla (`ci.yml`)
+- **Viikoittainen päivitys**: GitHub Actions cron maanantaisin (`update_playlists.yml`)
+
+## Ympäristömuuttujat
+
+Luo `.env`-tiedosto (ks. `.env.example`):
+
+```
+SPOTIPY_CLIENT_ID=xxx
+SPOTIPY_CLIENT_SECRET=xxx
+SPOTIPY_REDIRECT_URI=https://xxx/yyy
+SPOTIFY_USER=käyttäjätunnus
+LOCALE=fi
+```
+
+## Riippuvuudet
+
+- Python 3.12+
+- [spotipy](https://spotipy.readthedocs.io/) — Spotify Web API
+- [uv](https://docs.astral.sh/uv/) — projektinhallinta
+
+## Versiointi
+
+CalVer: `vYY.MM.DD.N` (N = kokonaiscommitmäärä).
+
+## Lisenssi
+
+MIT
