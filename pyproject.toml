@@ -1,12 +1,13 @@
 [project]
 name = "fifty-years-ago-in-music"
-version = "26.05.20.4"
+version = "26.05.20.5"
 description = "Updates Spotify playlists with top tracks from the past, localized for Finnish."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.14.3",
     "spotipy>=2.24.0",
+    "python-dotenv>=1.0.1",
 ]
 
 [dependency-groups]

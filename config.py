@@ -1,8 +1,13 @@
 import os
 
+import dotenv
+
+# Load environment variables from .env file
+dotenv.load_dotenv()
+
 # Set defaults
 LOCALE = os.environ.get("LOCALE", "en").lower()  # 'en' or 'fi'
-SPOTIFY_USER = os.environ.get("SPOTIFY_USER", "plamere")
+SPOTIFY_USER = os.environ.get("SPOTIFY_USER", "dst")
 
 # Chart Data configuration
 CHART_DATA_PATH = os.environ.get(
@@ -71,9 +76,21 @@ DEFAULT_PLAYLISTS = {
         "fi_uri": "",
         "fi_url": "",
     },
+    "15": {
+        "en_uri": "",
+        "en_url": "",
+        "fi_uri": "",
+        "fi_url": "",
+    },
     "20": {
         "en_uri": "spotify:user:plamere:playlist:1HnmSGLvzXQejvcsgob208",
         "en_url": "https://open.spotify.com/user/plamere/playlist/1HnmSGLvzXQejvcsgob208",
+        "fi_uri": "",
+        "fi_url": "",
+    },
+    "25": {
+        "en_uri": "",
+        "en_url": "",
         "fi_uri": "",
         "fi_url": "",
     },
@@ -132,3 +149,28 @@ def get_all_feeds():
         if cfg:
             feeds[years_str] = cfg
     return feeds
+
+
+def get_available_feeds(charts):
+    """Return only feeds that have chart data available.
+
+    Checks each configured interval against the loaded chart
+    database and returns only those with matching data.
+    """
+    import datetime
+
+    # Import here to avoid circular dependency at module level
+    from radio import get_best_match_for_date, get_target_date, prep_charts
+
+    if not charts.get("scharts"):
+        prep_charts(charts)
+
+    today = datetime.datetime.now().date()
+    max_gap = datetime.timedelta(days=90)
+    available = {}
+    for years_str, cfg in get_all_feeds().items():
+        target = get_target_date(today, cfg["years"])
+        matched_date, sids = get_best_match_for_date(charts, target)
+        if sids is not None and abs(matched_date - target) <= max_gap:
+            available[years_str] = cfg
+    return available

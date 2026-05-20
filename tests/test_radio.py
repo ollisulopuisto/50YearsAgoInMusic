@@ -180,3 +180,82 @@ def test_save_to_playlist():
     sp.user_playlist_replace_tracks.assert_called_once_with(
         "test-user", "spotify:playlist:abc", ["spotify:track:111", "spotify:track:222"]
     )
+
+
+def test_new_intervals_configured():
+    """Intervals 15 and 25 must exist in DEFAULT_PLAYLISTS."""
+    assert "15" in config.DEFAULT_PLAYLISTS
+    assert "25" in config.DEFAULT_PLAYLISTS
+
+    cfg_15 = config.get_feed_config("15")
+    assert cfg_15 is not None
+    assert cfg_15["years"] == 15
+
+    cfg_25 = config.get_feed_config("25")
+    assert cfg_25 is not None
+    assert cfg_25["years"] == 25
+
+
+def test_all_feeds_includes_new_intervals():
+    """get_all_feeds should return configs for 15 and 25."""
+    feeds = config.get_all_feeds()
+    assert "15" in feeds
+    assert "25" in feeds
+    assert feeds["15"]["years"] == 15
+    assert feeds["25"]["years"] == 25
+
+
+def test_get_available_feeds_filters_by_data():
+    """get_available_feeds returns only intervals with chart data."""
+    # Charts covering 2006-2011 → supports 15yr (2011) and 20yr (2006)
+    # from reference date 2026, but NOT 5yr (2021)
+    mock_charts = {
+        "charts": {
+            "2006-05-15": [1, 2],
+            "2006-05-22": [3, 4],
+            "2011-05-16": [5, 6],
+            "2011-05-23": [7, 8],
+        }
+    }
+
+    available = config.get_available_feeds(mock_charts)
+
+    # Should include 15 and 20 (data exists)
+    assert "15" in available
+    assert "20" in available
+
+    # Should NOT include intervals without data
+    assert "5" not in available
+    assert "40" not in available
+    assert "50" not in available
+
+
+def test_interval_titles_fi():
+    """Finnish titles for new intervals are correctly formatted."""
+    config.LOCALE = "fi"
+    assert (
+        config.get_text("playlist_title_pattern", years="15")
+        == "15 vuotta sitten musiikissa"
+    )
+    assert (
+        config.get_text("playlist_title_pattern", years="25")
+        == "25 vuotta sitten musiikissa"
+    )
+
+
+def test_interval_titles_en():
+    """English titles for new intervals are correctly formatted."""
+    config.LOCALE = "en"
+    assert (
+        config.get_text("playlist_title_pattern", years="15") == "15 Years Ago in Music"
+    )
+    assert (
+        config.get_text("playlist_title_pattern", years="25") == "25 Years Ago in Music"
+    )
+
+
+def test_get_target_date_new_intervals():
+    """Target date calculation works for 15 and 25 year intervals."""
+    today = datetime.date(2026, 5, 20)
+    assert radio.get_target_date(today, 15) == datetime.date(2011, 5, 20)
+    assert radio.get_target_date(today, 25) == datetime.date(2001, 5, 20)
