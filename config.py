@@ -38,7 +38,7 @@ LOCALIZED_STRINGS = {
         "cannot_authenticate": "can't authenticate for spotify",
     },
     "fi": {
-        "playlist_title_pattern": "{years} vuotta sitten musiikissa",
+        "playlist_title_pattern": "Suomen top-listat {years} vuotta sitten",
         "update_message": "Soittolista {title} on päivitetty viikolle {date}. {url}",
         "update_message_simple": "Soittolista {title} on juuri päivitetty.",
         "this_week_in": "Tällä viikolla vuonna {year} ",
