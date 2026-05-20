@@ -24576,7 +24576,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6gyxAPdkCJI9lj3J1IhW5z"
     },
     "100001": {
       "id": 100001,
@@ -24588,7 +24588,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5gU8aFW16Ji0JPWscAL8kR"
     },
     "100002": {
       "id": 100002,
@@ -24600,7 +24600,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5YwQi4PLA13cMhji9sxlnD"
     },
     "100003": {
       "id": 100003,
@@ -24612,7 +24612,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6sFIyFQnjx2jSFXZAfYBkX"
     },
     "100004": {
       "id": 100004,
@@ -24624,7 +24624,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:40ay0VMg01sF2trze2DrNL"
     },
     "100005": {
       "id": 100005,
@@ -24636,7 +24636,7 @@
       "weeks_charted": 4,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5lqs3i63lEnS9cEdHsfy3W"
     },
     "100006": {
       "id": 100006,
@@ -24648,7 +24648,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0RggFSMfsJvAsrI4itTIzr"
     },
     "100007": {
       "id": 100007,
@@ -24660,7 +24660,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2UqsbwMI3FHfi2aVai1gxE"
     },
     "100008": {
       "id": 100008,
@@ -24672,7 +24672,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5L9tyysb9fckYrZYYB9LpZ"
     },
     "100009": {
       "id": 100009,
@@ -24684,7 +24684,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2kn3eSJopzLDcSGMnmbmmr"
     },
     "100010": {
       "id": 100010,
@@ -24696,7 +24696,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3h5Fbd4MOua1EnlQQMs8q4"
     },
     "100011": {
       "id": 100011,
@@ -24708,7 +24708,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3cnEiT1LymYNblEfUcEcSB"
     },
     "100012": {
       "id": 100012,
@@ -24720,7 +24720,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6qwTCkJ7red7bQsPxvgHaD"
     },
     "100013": {
       "id": 100013,
@@ -24732,7 +24732,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3y2Y3Bc6GDxAWAMIpbW7RU"
     },
     "100014": {
       "id": 100014,
@@ -24744,7 +24744,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:61cDBHAZv06xivbMB1H2Br"
     },
     "100015": {
       "id": 100015,
@@ -24756,7 +24756,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7hsOcTJHQS6BxxPIyaNlvw"
     },
     "100016": {
       "id": 100016,
@@ -24768,7 +24768,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ZqGaV6I9FgRureoCBPzuF"
     },
     "100017": {
       "id": 100017,
@@ -24780,7 +24780,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2rvu6wbqndU9H7OQY8ev90"
     },
     "100018": {
       "id": 100018,
@@ -24792,7 +24792,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "100019": {
       "id": 100019,
@@ -24804,7 +24804,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5buhpy2MHdaQL5nCiO0mcV"
     },
     "100020": {
       "id": 100020,
@@ -24816,7 +24816,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4xO76sGfU4CQmohfKcN1Fl"
     },
     "100021": {
       "id": 100021,
@@ -24828,7 +24828,7 @@
       "weeks_charted": 4,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7H5wXDPwWMUeRuW4HJn04t"
     },
     "100022": {
       "id": 100022,
@@ -24840,7 +24840,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5OYuw6jFVJxn71yPXFxWoQ"
     },
     "100023": {
       "id": 100023,
@@ -24852,7 +24852,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:398YId5WQ4fTmBPmAXlTYz"
     },
     "100024": {
       "id": 100024,
@@ -24864,7 +24864,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5PDb9uJLdMZsQ8UD88hJ54"
     },
     "100025": {
       "id": 100025,
@@ -24876,7 +24876,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3fEX9NgOeklq816Fw00uoo"
     },
     "100026": {
       "id": 100026,
@@ -24888,7 +24888,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:05gthcfKbcbJqWrq4HtgAp"
     },
     "100027": {
       "id": 100027,
@@ -24900,7 +24900,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0bKJvobHkOTC2xt5TUQRDG"
     },
     "100028": {
       "id": 100028,
@@ -24912,7 +24912,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7gzHCx0puxEtebNSKbymW5"
     },
     "100029": {
       "id": 100029,
@@ -24924,7 +24924,7 @@
       "weeks_charted": 7,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3iB8eciGU9vZkaDYkz7Ir9"
     },
     "100030": {
       "id": 100030,
@@ -24936,7 +24936,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1jbfZb6gZ6LsHVhrPGOT2w"
     },
     "100031": {
       "id": 100031,
@@ -24948,7 +24948,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3rzN3O311ouznyzpucLts4"
     },
     "100032": {
       "id": 100032,
@@ -24960,7 +24960,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:03W7QB91mlP5Bsa3amzTDt"
     },
     "100033": {
       "id": 100033,
@@ -24972,7 +24972,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2lo4K69IJbu6dzOUYehLKb"
     },
     "100034": {
       "id": 100034,
@@ -24984,7 +24984,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1KzCATN8iC273qKcvIlfjn"
     },
     "100035": {
       "id": 100035,
@@ -24996,7 +24996,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5KLVG0lcPjhRE20httdNn9"
     },
     "100036": {
       "id": 100036,
@@ -25008,7 +25008,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:07l7uTmQB9Xw4ebbdKAzpy"
     },
     "100037": {
       "id": 100037,
@@ -25020,7 +25020,7 @@
       "weeks_charted": 9,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1ixuJ9Jg2lNNJQtAmKSKvb"
     },
     "100038": {
       "id": 100038,
@@ -25032,7 +25032,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:65S3Jr7FYWZS1LTj3ab6so"
     },
     "100039": {
       "id": 100039,
@@ -25044,7 +25044,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2nzPzkGP9QSZ1lqvXTfyzT"
     },
     "100040": {
       "id": 100040,
@@ -25056,7 +25056,7 @@
       "weeks_charted": 4,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ttikma4b5vtwAj3AWpjJI"
     },
     "100041": {
       "id": 100041,
@@ -25068,7 +25068,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2gcs3MuFkhKMbHUyF2aMdW"
     },
     "100042": {
       "id": 100042,
@@ -25080,7 +25080,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4hKKF2NbXt1dQVtR1LX3Qo"
     },
     "100043": {
       "id": 100043,
@@ -25092,7 +25092,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5YvYab292zD0StMLW6JLSc"
     },
     "100044": {
       "id": 100044,
@@ -25104,7 +25104,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:16CMI1nFFCkqIif9jzp5ic"
     },
     "100045": {
       "id": 100045,
@@ -25116,7 +25116,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1fUl0jZAnH3oWVqAcQfPNc"
     },
     "100046": {
       "id": 100046,
@@ -25128,7 +25128,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2hBR3npBmnfr1VWB3O64Jt"
     },
     "100047": {
       "id": 100047,
@@ -25140,7 +25140,7 @@
       "weeks_charted": 9,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4wbGQ1FE0WZSmLT3mqgcSj"
     },
     "100048": {
       "id": 100048,
@@ -25152,7 +25152,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6MWBR1nfeqvXv4xsgrFEqp"
     },
     "100049": {
       "id": 100049,
@@ -25164,7 +25164,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:06h2heAWR52fzHO583udzd"
     },
     "100050": {
       "id": 100050,
@@ -25176,7 +25176,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6w7ThRnsg0yGfgR7BFbvjg"
     },
     "100051": {
       "id": 100051,
@@ -25188,7 +25188,7 @@
       "weeks_charted": 6,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6VT4Vnbtr5uIpsvQIxcHnz"
     },
     "100052": {
       "id": 100052,
@@ -25200,7 +25200,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4mVLzFbc3gaCoWCEENLouc"
     },
     "100053": {
       "id": 100053,
@@ -25212,7 +25212,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4D01oA1mGouaAT7fubvKRT"
     },
     "100054": {
       "id": 100054,
@@ -25224,7 +25224,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:019idzgPu9rb4422DjQcnO"
     },
     "100055": {
       "id": 100055,
@@ -25236,7 +25236,7 @@
       "weeks_charted": 4,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ECqOuPCCIEmV2EzTRCoeu"
     },
     "100056": {
       "id": 100056,
@@ -25248,7 +25248,7 @@
       "weeks_charted": 4,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:430U2ppKExmRDRnK0A8Ohl"
     },
     "100057": {
       "id": 100057,
@@ -25260,7 +25260,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0sRaIp06gw4ZOt5VevOKnf"
     },
     "100058": {
       "id": 100058,
@@ -25272,7 +25272,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5uheTR30TlwwbfMvb5gS9d"
     },
     "100059": {
       "id": 100059,
@@ -25284,7 +25284,7 @@
       "weeks_charted": 6,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5lqs3i63lEnS9cEdHsfy3W"
     },
     "100060": {
       "id": 100060,
@@ -25296,7 +25296,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5add4ZhuYUOZaFLt5whAch"
     },
     "100061": {
       "id": 100061,
@@ -25308,7 +25308,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0jhYF9SBDDM3oZlBlBRueQ"
     },
     "100062": {
       "id": 100062,
@@ -25320,7 +25320,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7kLPneqbC8gCeVOEQIbnHa"
     },
     "100063": {
       "id": 100063,
@@ -25332,7 +25332,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5OPWXiqD6Xvub53lZxklXC"
     },
     "100064": {
       "id": 100064,
@@ -25344,7 +25344,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Gx48oGSIttJtkqBYdOrZc"
     },
     "100065": {
       "id": 100065,
@@ -25356,7 +25356,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:49OUgl0kju0sw6OHpwisiQ"
     },
     "100066": {
       "id": 100066,
@@ -25368,7 +25368,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4v52HuhZqVV0eNpP6vzH5I"
     },
     "100067": {
       "id": 100067,
@@ -25380,7 +25380,7 @@
       "weeks_charted": 3,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5uheTR30TlwwbfMvb5gS9d"
     },
     "100068": {
       "id": 100068,
@@ -25392,7 +25392,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7iBav4v8maicL8cWKGxFhQ"
     },
     "100069": {
       "id": 100069,
@@ -25404,7 +25404,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0F7WSerHoVMdt6Sb3bcy46"
     },
     "100070": {
       "id": 100070,
@@ -25416,7 +25416,7 @@
       "weeks_charted": 1,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1G0ku3TLCGwrAHj9WPudKX"
     },
     "100071": {
       "id": 100071,
@@ -25428,7 +25428,7 @@
       "weeks_charted": 2,
       "year": 1988,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:63iZTcMhI8iacQqQytff5N"
     },
     "100072": {
       "id": 100072,
@@ -25440,7 +25440,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1ixuJ9Jg2lNNJQtAmKSKvb"
     },
     "100073": {
       "id": 100073,
@@ -25452,7 +25452,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:551YXEcYVmQer6htNRyUVk"
     },
     "100074": {
       "id": 100074,
@@ -25464,7 +25464,7 @@
       "weeks_charted": 5,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1bYFGETEbAge4TDk4Nyq95"
     },
     "100075": {
       "id": 100075,
@@ -25476,7 +25476,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0SPLxH3N3QvySRQyUR04qX"
     },
     "100076": {
       "id": 100076,
@@ -25488,7 +25488,7 @@
       "weeks_charted": 8,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0RteYQqW1AOq3JNL0yMWYt"
     },
     "100077": {
       "id": 100077,
@@ -25500,7 +25500,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2UqT6jwOkekpsjguzvQMKE"
     },
     "100078": {
       "id": 100078,
@@ -25512,7 +25512,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2qHxqKDhe8GMeUfnmTQyLg"
     },
     "100079": {
       "id": 100079,
@@ -25524,7 +25524,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:04c7miOQqGx8o9yMhOOx1f"
     },
     "100080": {
       "id": 100080,
@@ -25536,7 +25536,7 @@
       "weeks_charted": 4,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2IWYi4NJyJvhpJVjVs2pm8"
     },
     "100081": {
       "id": 100081,
@@ -25548,7 +25548,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4HSkgkIlbz1tCAP4XRmn1B"
     },
     "100082": {
       "id": 100082,
@@ -25560,7 +25560,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7LyDOtpInc32fL8RmdArCt"
     },
     "100083": {
       "id": 100083,
@@ -25572,7 +25572,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0fpdLfBVnIkQWiCJq5joFC"
     },
     "100084": {
       "id": 100084,
@@ -25584,7 +25584,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:651In9fY9BregQWY0cF7l2"
     },
     "100085": {
       "id": 100085,
@@ -25596,7 +25596,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Pkj4nv5K53i64cLVgkVyY"
     },
     "100086": {
       "id": 100086,
@@ -25608,7 +25608,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2pkK22oEV80wedzpovceTl"
     },
     "100087": {
       "id": 100087,
@@ -25620,7 +25620,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6pJSulm9EBmsYGnp3uaEFl"
     },
     "100088": {
       "id": 100088,
@@ -25632,7 +25632,7 @@
       "weeks_charted": 4,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0va0ueYyqrqeojl2TkyI4g"
     },
     "100089": {
       "id": 100089,
@@ -25644,7 +25644,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1w9jdbOzhj0LkQmnfCgoBT"
     },
     "100090": {
       "id": 100090,
@@ -25656,7 +25656,7 @@
       "weeks_charted": 5,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Pf6bdSTw4EpyDY9H5I2Eg"
     },
     "100091": {
       "id": 100091,
@@ -25668,7 +25668,7 @@
       "weeks_charted": 5,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0YMF9Q65Z0myMhyWYSSkA8"
     },
     "100092": {
       "id": 100092,
@@ -25680,7 +25680,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Jz9zjUdBm1wof9kQZKoqs"
     },
     "100093": {
       "id": 100093,
@@ -25692,7 +25692,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6F0ZE7M9uAUMRI8bqcrZys"
     },
     "100094": {
       "id": 100094,
@@ -25704,7 +25704,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1mAgmS2n6SoOJowZSZYulj"
     },
     "100095": {
       "id": 100095,
@@ -25716,7 +25716,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:23gbvghoYva757mghpQ9PW"
     },
     "100096": {
       "id": 100096,
@@ -25728,7 +25728,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3TRL96bOlWGVbYA9rjzB7X"
     },
     "100097": {
       "id": 100097,
@@ -25740,7 +25740,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2UDADgwsXreo0c6ylxzb2Y"
     },
     "100098": {
       "id": 100098,
@@ -25752,7 +25752,7 @@
       "weeks_charted": 7,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:32e5EBfzytemglctNzuXgt"
     },
     "100099": {
       "id": 100099,
@@ -25764,7 +25764,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7FMXSSzIRW8aJwUPfzXsa2"
     },
     "100100": {
       "id": 100100,
@@ -25776,7 +25776,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7iPEjm9SVnC9ZV4N1wwgm9"
     },
     "100101": {
       "id": 100101,
@@ -25788,7 +25788,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3hgcfNQI4jOIqjhI13im4E"
     },
     "100102": {
       "id": 100102,
@@ -25800,7 +25800,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0MFEyNAn08HvzfbteolLWT"
     },
     "100103": {
       "id": 100103,
@@ -25812,7 +25812,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0bn5pVj10J5qSC8ncTs14m"
     },
     "100104": {
       "id": 100104,
@@ -25824,7 +25824,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3pS5eiuBPsQn5ID6RElg9G"
     },
     "100105": {
       "id": 100105,
@@ -25836,7 +25836,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Oe834mWzRPF9piimRPvGa"
     },
     "100106": {
       "id": 100106,
@@ -25848,7 +25848,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6KHkMGRiTqcJdklETeyXA5"
     },
     "100107": {
       "id": 100107,
@@ -25860,7 +25860,7 @@
       "weeks_charted": 5,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4TaJa7pIKy0FNFTVv5PlaT"
     },
     "100108": {
       "id": 100108,
@@ -25872,7 +25872,7 @@
       "weeks_charted": 4,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3JkLjrE2EsQO0hX3pnSRow"
     },
     "100109": {
       "id": 100109,
@@ -25884,7 +25884,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3EI5hlhiwCAW0L158OT0L8"
     },
     "100110": {
       "id": 100110,
@@ -25896,7 +25896,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ZI6c6IMIZ5jIQY08dggXi"
     },
     "100111": {
       "id": 100111,
@@ -25908,7 +25908,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4DbUk1qwcz9KKcUY4t8f8u"
     },
     "100112": {
       "id": 100112,
@@ -25920,7 +25920,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:02seOlojDJFPnmh6FWWD00"
     },
     "100113": {
       "id": 100113,
@@ -25932,7 +25932,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4jYK4mboRsiReCpieL3uwZ"
     },
     "100114": {
       "id": 100114,
@@ -25944,7 +25944,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7fynk53byKTLGaTcnk09fn"
     },
     "100115": {
       "id": 100115,
@@ -25956,7 +25956,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0GG3ZFQP7W9Dou8SiXxRsa"
     },
     "100116": {
       "id": 100116,
@@ -25968,7 +25968,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4lFOsbtmkjS1fbxHs22Je4"
     },
     "100117": {
       "id": 100117,
@@ -25980,7 +25980,7 @@
       "weeks_charted": 4,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0YmnVO7SlOPzP0oocavLT0"
     },
     "100118": {
       "id": 100118,
@@ -25992,7 +25992,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0fonScmHUzC0MglSLn9saA"
     },
     "100119": {
       "id": 100119,
@@ -26004,7 +26004,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2fWnZDYEyXYeO8sxqTJiaZ"
     },
     "100120": {
       "id": 100120,
@@ -26016,7 +26016,7 @@
       "weeks_charted": 8,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3DSqdI5ENfG7FYNDE8WLVG"
     },
     "100121": {
       "id": 100121,
@@ -26028,7 +26028,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6MrF6I5nd6hodjmReJLS2d"
     },
     "100122": {
       "id": 100122,
@@ -26040,7 +26040,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4jh9olf0OKCokpzxSyLeJx"
     },
     "100123": {
       "id": 100123,
@@ -26052,7 +26052,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:18m5yIqbGyubiQvuHwV8dt"
     },
     "100124": {
       "id": 100124,
@@ -26064,7 +26064,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6QXS9EAqNTavk2cGYsRtqN"
     },
     "100125": {
       "id": 100125,
@@ -26076,7 +26076,7 @@
       "weeks_charted": 8,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6xepovPqjvrkEw9Y5AMmTm"
     },
     "100126": {
       "id": 100126,
@@ -26088,7 +26088,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2loMPlz3JWjFGF6fPoiSoo"
     },
     "100127": {
       "id": 100127,
@@ -26100,7 +26100,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5NFbzd8K2VHwrydjKVetIv"
     },
     "100128": {
       "id": 100128,
@@ -26112,7 +26112,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7L8PjpJLUE6UIAzrnyRYvg"
     },
     "100129": {
       "id": 100129,
@@ -26124,7 +26124,7 @@
       "weeks_charted": 8,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6pPWRBubXOBAHnjl5ZIujB"
     },
     "100130": {
       "id": 100130,
@@ -26136,7 +26136,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1bg4TFmjrr6psfjY6gHK08"
     },
     "100131": {
       "id": 100131,
@@ -26148,7 +26148,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3yBSUmybghLfSFq7uEFXMk"
     },
     "100132": {
       "id": 100132,
@@ -26160,7 +26160,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6fKQblT3h0U2ydiDbnsyfa"
     },
     "100133": {
       "id": 100133,
@@ -26172,7 +26172,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Aimpqxpvmz7jhJlNnEd5c"
     },
     "100134": {
       "id": 100134,
@@ -26184,7 +26184,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3QRl4ptEPRTCNkJDrQpUYP"
     },
     "100135": {
       "id": 100135,
@@ -26196,7 +26196,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0TJ3Hjk5hrfSYKpECneCxO"
     },
     "100136": {
       "id": 100136,
@@ -26208,7 +26208,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6ZE3tqO2xDeEmpXfMlOxnx"
     },
     "100137": {
       "id": 100137,
@@ -26220,7 +26220,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0hBadZ9k3YKD1CxC8kkjmu"
     },
     "100138": {
       "id": 100138,
@@ -26232,7 +26232,7 @@
       "weeks_charted": 6,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:40riOy7x9W7GXjyGp4pjAv"
     },
     "100139": {
       "id": 100139,
@@ -26244,7 +26244,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0vrS1PYZ9tIM3vHon7ojpe"
     },
     "100140": {
       "id": 100140,
@@ -26256,7 +26256,7 @@
       "weeks_charted": 6,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Erk8d21l4l2OtiYi0Rnb4"
     },
     "100141": {
       "id": 100141,
@@ -26268,7 +26268,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1xmQbQfkzGWH7FBryirzhB"
     },
     "100142": {
       "id": 100142,
@@ -26280,7 +26280,7 @@
       "weeks_charted": 8,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4VIqiStZOgKApjIv7PlshB"
     },
     "100143": {
       "id": 100143,
@@ -26292,7 +26292,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5EKvUVgCpQKVyvB9gWDP7s"
     },
     "100144": {
       "id": 100144,
@@ -26304,7 +26304,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5XcZRgJv3zMhTqCyESjQrF"
     },
     "100145": {
       "id": 100145,
@@ -26316,7 +26316,7 @@
       "weeks_charted": 4,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4VnbhCj4w6oTFeN9EPfztP"
     },
     "100146": {
       "id": 100146,
@@ -26328,7 +26328,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3lGyt8enqenwyqXihI6AVr"
     },
     "100147": {
       "id": 100147,
@@ -26340,7 +26340,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2MaBAGBIttgv86bYytdx1f"
     },
     "100148": {
       "id": 100148,
@@ -26352,7 +26352,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:01ANsQiZq0LI6LWDQUDoTl"
     },
     "100149": {
       "id": 100149,
@@ -26364,7 +26364,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ZEL6qDCBlbiwe6y8wAfM8"
     },
     "100150": {
       "id": 100150,
@@ -26376,7 +26376,7 @@
       "weeks_charted": 1,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:35AA8Ln61aERHHg8FFfsls"
     },
     "100151": {
       "id": 100151,
@@ -26388,7 +26388,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0fhZb6at4adIGdJYLb3vHp"
     },
     "100152": {
       "id": 100152,
@@ -26400,7 +26400,7 @@
       "weeks_charted": 7,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1NCuYqMc8hKMb4cpNTcJbD"
     },
     "100153": {
       "id": 100153,
@@ -26412,7 +26412,7 @@
       "weeks_charted": 5,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0piPn2zyL4Yi60ml53qNXE"
     },
     "100154": {
       "id": 100154,
@@ -26424,7 +26424,7 @@
       "weeks_charted": 3,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:21qnJAMtzC6S5SESuqQLEK"
     },
     "100155": {
       "id": 100155,
@@ -26436,7 +26436,7 @@
       "weeks_charted": 2,
       "year": 1989,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3dYmruq1HiKJeOQ8h1OEfz"
     },
     "100156": {
       "id": 100156,
@@ -26448,7 +26448,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6ctHYNffV3aPxg0UWk8k9l"
     },
     "100157": {
       "id": 100157,
@@ -26460,7 +26460,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1ifBzipOu0qQGVtpMDRQKw"
     },
     "100158": {
       "id": 100158,
@@ -26472,7 +26472,7 @@
       "weeks_charted": 4,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6ROXQmq2c1WroAvwmYKTuO"
     },
     "100159": {
       "id": 100159,
@@ -26484,7 +26484,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7KxgFP7YSKYO3IQY7OngLr"
     },
     "100160": {
       "id": 100160,
@@ -26496,7 +26496,7 @@
       "weeks_charted": 4,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0HHxB3NKquQl226pQ7fRsn"
     },
     "100161": {
       "id": 100161,
@@ -26508,7 +26508,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2wkhoTEgoJr2JOAiY29EAx"
     },
     "100162": {
       "id": 100162,
@@ -26520,7 +26520,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0XPPvCHEe0BrxYJ1pV4Vnn"
     },
     "100163": {
       "id": 100163,
@@ -26532,7 +26532,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2uyI9lEfjMOTySTUIyqQKv"
     },
     "100164": {
       "id": 100164,
@@ -26544,7 +26544,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6NTHvLMVUUjGD01ektytkN"
     },
     "100165": {
       "id": 100165,
@@ -26556,7 +26556,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4F2t297QK40XFcIHqkmLHs"
     },
     "100166": {
       "id": 100166,
@@ -26568,7 +26568,7 @@
       "weeks_charted": 7,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0nPNQ84kh7WJtoyW1PyHPN"
     },
     "100167": {
       "id": 100167,
@@ -26580,7 +26580,7 @@
       "weeks_charted": 4,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3SLNqdTI858EzfZPfXLEsA"
     },
     "100168": {
       "id": 100168,
@@ -26592,7 +26592,7 @@
       "weeks_charted": 6,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5GHY1DFWKz3Prg2V0Iodqo"
     },
     "100169": {
       "id": 100169,
@@ -26604,7 +26604,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5GZsocaxQTjCImB8eHYEKP"
     },
     "100170": {
       "id": 100170,
@@ -26616,7 +26616,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6abGhmG3EL3ZIpplUmo3qR"
     },
     "100171": {
       "id": 100171,
@@ -26628,7 +26628,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0SVPH3rz7zpyldw4F9i9yZ"
     },
     "100172": {
       "id": 100172,
@@ -26640,7 +26640,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1bGHR1VtBqUZR4qxhkjs90"
     },
     "100173": {
       "id": 100173,
@@ -26652,7 +26652,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Lcm5347ZcwXlMmMX2P5T2"
     },
     "100174": {
       "id": 100174,
@@ -26664,7 +26664,7 @@
       "weeks_charted": 8,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0H44ogAblREdb0vZsOwkfU"
     },
     "100175": {
       "id": 100175,
@@ -26676,7 +26676,7 @@
       "weeks_charted": 9,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2fRlviN4vuf2fehVqOoccC"
     },
     "100176": {
       "id": 100176,
@@ -26688,7 +26688,7 @@
       "weeks_charted": 7,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7bxqGR9KYYYr4kh3VVoMHJ"
     },
     "100177": {
       "id": 100177,
@@ -26700,7 +26700,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6BB3HpVXHCnqMHEn2EV7Y1"
     },
     "100178": {
       "id": 100178,
@@ -26712,7 +26712,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1aMuAhMxvO4zsPN2DuLxJq"
     },
     "100179": {
       "id": 100179,
@@ -26724,7 +26724,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7EU3nYKQ3uBNQ0hUAZR02z"
     },
     "100180": {
       "id": 100180,
@@ -26736,7 +26736,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4FDVgYuo6QoB5ABWCMVpp2"
     },
     "100181": {
       "id": 100181,
@@ -26748,7 +26748,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:36LcHuyNI5eUHFjtpPzTJA"
     },
     "100182": {
       "id": 100182,
@@ -26760,7 +26760,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6DK6i8W5BNJP9hZwexaXus"
     },
     "100183": {
       "id": 100183,
@@ -26772,7 +26772,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2qg2Kvj9uwAZXSq5oUMocq"
     },
     "100184": {
       "id": 100184,
@@ -26784,7 +26784,7 @@
       "weeks_charted": 5,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4yjq6ABrdGjvvNpv4mlA36"
     },
     "100185": {
       "id": 100185,
@@ -26796,7 +26796,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7dttjgw2KfWg82JTAltBQ1"
     },
     "100186": {
       "id": 100186,
@@ -26808,7 +26808,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Fe15E4PcN0mPHgKn83jYh"
     },
     "100187": {
       "id": 100187,
@@ -26820,7 +26820,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Y9RQsJyDLXJ0zg5Od5Xd1"
     },
     "100188": {
       "id": 100188,
@@ -26832,7 +26832,7 @@
       "weeks_charted": 4,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6267OfWoT0vKitiRBkghCM"
     },
     "100189": {
       "id": 100189,
@@ -26844,7 +26844,7 @@
       "weeks_charted": 7,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Phy3qS90Q5I8DGcTxmSIL"
     },
     "100190": {
       "id": 100190,
@@ -26856,7 +26856,7 @@
       "weeks_charted": 11,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5H4UwGPAAOeVgNkKmJ0u08"
     },
     "100191": {
       "id": 100191,
@@ -26868,7 +26868,7 @@
       "weeks_charted": 5,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:40Swuw1MUsSoCnkDE2vwuE"
     },
     "100192": {
       "id": 100192,
@@ -26880,7 +26880,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0KI1jb0XohT9LRhtXIamyr"
     },
     "100193": {
       "id": 100193,
@@ -26892,7 +26892,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:44noNMO0iv87Tds7dwcpQU"
     },
     "100194": {
       "id": 100194,
@@ -26904,7 +26904,7 @@
       "weeks_charted": 4,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Yov2p6U1bBzm4Rp3wUJ4H"
     },
     "100195": {
       "id": 100195,
@@ -26916,7 +26916,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4LC6SBaaDKNcyCg66vnU3T"
     },
     "100196": {
       "id": 100196,
@@ -26928,7 +26928,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7un79lWFkxhmCltOZN2WVA"
     },
     "100197": {
       "id": 100197,
@@ -26940,7 +26940,7 @@
       "weeks_charted": 5,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:00rR30YGyTIZnHbkeJvUhm"
     },
     "100198": {
       "id": 100198,
@@ -26952,7 +26952,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3gMCo1KWoU0wxFHjOjlDUo"
     },
     "100199": {
       "id": 100199,
@@ -26964,7 +26964,7 @@
       "weeks_charted": 4,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0TtjIsd6WB3hzFu0ra8g8p"
     },
     "100200": {
       "id": 100200,
@@ -26976,7 +26976,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6kvoHl80mfCVTv7XnZkjQn"
     },
     "100201": {
       "id": 100201,
@@ -26988,7 +26988,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3vEf1KETGaVpaRAYS37NCo"
     },
     "100202": {
       "id": 100202,
@@ -27000,7 +27000,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1rV8BXAA1yGPpPzsnP1iyP"
     },
     "100203": {
       "id": 100203,
@@ -27012,7 +27012,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ZZCDg52LIMMLXch7IaYDO"
     },
     "100204": {
       "id": 100204,
@@ -27024,7 +27024,7 @@
       "weeks_charted": 5,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5pDRkv3YI2wtavHaJgSHzj"
     },
     "100205": {
       "id": 100205,
@@ -27036,7 +27036,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4s30uyA9sYqMinHirnrkhw"
     },
     "100206": {
       "id": 100206,
@@ -27048,7 +27048,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0EsZCvZu2wQljl0qKgXWZh"
     },
     "100207": {
       "id": 100207,
@@ -27060,7 +27060,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0DnGfA1r8pAssJCuq4ojla"
     },
     "100208": {
       "id": 100208,
@@ -27072,7 +27072,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5dhIKYqtgrfolkTtnSN5qd"
     },
     "100209": {
       "id": 100209,
@@ -27084,7 +27084,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3IYb8pVjQG77awbkC4CuBV"
     },
     "100210": {
       "id": 100210,
@@ -27096,7 +27096,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:33ezwwAummI5vN1hFABJ7h"
     },
     "100211": {
       "id": 100211,
@@ -27108,7 +27108,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1fX0h6SaZBXwmr4haRvirQ"
     },
     "100212": {
       "id": 100212,
@@ -27120,7 +27120,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ey413hGS7hUSLyWKEmQoA"
     },
     "100213": {
       "id": 100213,
@@ -27132,7 +27132,7 @@
       "weeks_charted": 9,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2lnkVXQrvNBcglSSjKwEAw"
     },
     "100214": {
       "id": 100214,
@@ -27144,7 +27144,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0gLQ6jhJsyYfl7PrD1RZ7X"
     },
     "100215": {
       "id": 100215,
@@ -27156,7 +27156,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3jRnLjpcscyIfB2hTy3TQ9"
     },
     "100216": {
       "id": 100216,
@@ -27168,7 +27168,7 @@
       "weeks_charted": 6,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:50PeqUz1BjMw9ayNTk5O4d"
     },
     "100217": {
       "id": 100217,
@@ -27180,7 +27180,7 @@
       "weeks_charted": 5,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0epLxgp77Iwd2cl7dREKhU"
     },
     "100218": {
       "id": 100218,
@@ -27192,7 +27192,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:78oC9jzd9352FJT9jKAIb7"
     },
     "100219": {
       "id": 100219,
@@ -27204,7 +27204,7 @@
       "weeks_charted": 5,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3SmPl0CGxvvkQCrTv7edEE"
     },
     "100220": {
       "id": 100220,
@@ -27216,7 +27216,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3u1k5YYTYiYUJ0wkyAHMCN"
     },
     "100221": {
       "id": 100221,
@@ -27228,7 +27228,7 @@
       "weeks_charted": 6,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:09N1DHqs4fCCp5FgAuR5iI"
     },
     "100222": {
       "id": 100222,
@@ -27240,7 +27240,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2loqaxrCXju4edDKxxtCeM"
     },
     "100223": {
       "id": 100223,
@@ -27252,7 +27252,7 @@
       "weeks_charted": 7,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0pbqTQtskfYacCPpqnzWEp"
     },
     "100224": {
       "id": 100224,
@@ -27264,7 +27264,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:215xoOlTSJ9lzECdDUG8PS"
     },
     "100225": {
       "id": 100225,
@@ -27276,7 +27276,7 @@
       "weeks_charted": 4,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2XyZ5Y4DdYpF8xZ3jIvqSD"
     },
     "100226": {
       "id": 100226,
@@ -27288,7 +27288,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:14RWSCy9Ec9UvApW0JqjQ0"
     },
     "100227": {
       "id": 100227,
@@ -27300,7 +27300,7 @@
       "weeks_charted": 9,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0ES2ehCCYwGLoLQruQp2IB"
     },
     "100228": {
       "id": 100228,
@@ -27312,7 +27312,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3n9iHt0l9JysSrUuh41ook"
     },
     "100229": {
       "id": 100229,
@@ -27324,7 +27324,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:31S4uzSnlyUl0BKPaFHPvE"
     },
     "100230": {
       "id": 100230,
@@ -27336,7 +27336,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6J4V0DEmJrsS6uP5SUcBED"
     },
     "100231": {
       "id": 100231,
@@ -27348,7 +27348,7 @@
       "weeks_charted": 3,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0H44ogAblREdb0vZsOwkfU"
     },
     "100232": {
       "id": 100232,
@@ -27360,7 +27360,7 @@
       "weeks_charted": 2,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6NBGabiAuQklrfkufcOqlN"
     },
     "100233": {
       "id": 100233,
@@ -27372,7 +27372,7 @@
       "weeks_charted": 4,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2AZbhp2CmKx62va1PoaaVf"
     },
     "100234": {
       "id": 100234,
@@ -27384,7 +27384,7 @@
       "weeks_charted": 1,
       "year": 1990,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3UFAu2hht2Xw8HGL1xPTss"
     },
     "100235": {
       "id": 100235,
@@ -27396,7 +27396,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:505MTNh5kvgYCmroWGCTTF"
     },
     "100236": {
       "id": 100236,
@@ -27408,7 +27408,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7adHwT2AE6Ygfs8qhpkAV3"
     },
     "100237": {
       "id": 100237,
@@ -27420,7 +27420,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:07M76e7IXxYdnC1BBiJxEX"
     },
     "100238": {
       "id": 100238,
@@ -27432,7 +27432,7 @@
       "weeks_charted": 5,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7w5AOd6HrDIHewHfpABEss"
     },
     "100239": {
       "id": 100239,
@@ -27444,7 +27444,7 @@
       "weeks_charted": 5,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:14mUKa5uIP5wD8SmJbX8ZD"
     },
     "100240": {
       "id": 100240,
@@ -27456,7 +27456,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5I6RAgP8zr0k5ybhwRmBYC"
     },
     "100241": {
       "id": 100241,
@@ -27468,7 +27468,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5i5faM8GRV5FLJAbPZMxF6"
     },
     "100242": {
       "id": 100242,
@@ -27480,7 +27480,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:36bIUOEon8OUE7zX6jPxDh"
     },
     "100243": {
       "id": 100243,
@@ -27492,7 +27492,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1aGK0ORqyiarwJlgcShHbe"
     },
     "100244": {
       "id": 100244,
@@ -27504,7 +27504,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6k0xFeNF5UOeO0xHwZ9A8o"
     },
     "100245": {
       "id": 100245,
@@ -27516,7 +27516,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3MVm36ouM56jbP5rORxbVy"
     },
     "100246": {
       "id": 100246,
@@ -27528,7 +27528,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7pHYg5ROhYetbv6NAWEnkh"
     },
     "100247": {
       "id": 100247,
@@ -27540,7 +27540,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6lFVP0FgrvrI7MDantrw7t"
     },
     "100248": {
       "id": 100248,
@@ -27552,7 +27552,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ZcqmSxXo29PlYaRH4hNFK"
     },
     "100249": {
       "id": 100249,
@@ -27564,7 +27564,7 @@
       "weeks_charted": 8,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5byJFBUgJ9Uf0KElvz1WJW"
     },
     "100250": {
       "id": 100250,
@@ -27576,7 +27576,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0DxIiRzbrevCMTLsHAknE7"
     },
     "100251": {
       "id": 100251,
@@ -27588,7 +27588,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0n8sO6vHx3SkVEn2pjaqV9"
     },
     "100252": {
       "id": 100252,
@@ -27600,7 +27600,7 @@
       "weeks_charted": 4,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0s9ZJN4jMCzQ3L2FtW0NdX"
     },
     "100253": {
       "id": 100253,
@@ -27612,7 +27612,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:38usKnGF506ZGxW1hw5wNk"
     },
     "100254": {
       "id": 100254,
@@ -27624,7 +27624,7 @@
       "weeks_charted": 9,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7D7p0S1fe0ZKTzULZ4syef"
     },
     "100255": {
       "id": 100255,
@@ -27636,7 +27636,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7tlbHVveasgXlT0HmHXm5Y"
     },
     "100256": {
       "id": 100256,
@@ -27648,7 +27648,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6OdPM6e1iVU2vllqlYKcvX"
     },
     "100257": {
       "id": 100257,
@@ -27660,7 +27660,7 @@
       "weeks_charted": 7,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0BoIGJWuxaJFi61IowRqRr"
     },
     "100258": {
       "id": 100258,
@@ -27672,7 +27672,7 @@
       "weeks_charted": 6,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1HEUukHlDevLC6jwwln7KC"
     },
     "100259": {
       "id": 100259,
@@ -27684,7 +27684,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Pr1RudJiuBnsCbHfuHDll"
     },
     "100260": {
       "id": 100260,
@@ -27696,7 +27696,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1a0QY2BRjWyFfsZSTRF0Pa"
     },
     "100261": {
       "id": 100261,
@@ -27708,7 +27708,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0OGSWVc1T0inl2KwUUjztF"
     },
     "100262": {
       "id": 100262,
@@ -27720,7 +27720,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1RIRWQXuPUGXgFmrZIU0l4"
     },
     "100263": {
       "id": 100263,
@@ -27732,7 +27732,7 @@
       "weeks_charted": 5,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7lMGVp49BU4MS0bJq6nFUu"
     },
     "100264": {
       "id": 100264,
@@ -27744,7 +27744,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5HBrljcrz9LTH4l1LwVdbF"
     },
     "100265": {
       "id": 100265,
@@ -27756,7 +27756,7 @@
       "weeks_charted": 4,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:24X6skOxIuY0NcY59SyHOr"
     },
     "100266": {
       "id": 100266,
@@ -27768,7 +27768,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6w0qer9Niba9MPpvCkw46B"
     },
     "100267": {
       "id": 100267,
@@ -27780,7 +27780,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Onsfb61bmdiOErEWIczQR"
     },
     "100268": {
       "id": 100268,
@@ -27792,7 +27792,7 @@
       "weeks_charted": 4,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0fidEA5UBDFDa1fR4cnzup"
     },
     "100269": {
       "id": 100269,
@@ -27804,7 +27804,7 @@
       "weeks_charted": 7,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:55kwHA4qdGx6xyuWkwcI3f"
     },
     "100270": {
       "id": 100270,
@@ -27816,7 +27816,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0STIV4K7EZkp2YHAyyu5em"
     },
     "100271": {
       "id": 100271,
@@ -27828,7 +27828,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3bYl0tJxTBb0SKmRYjtOmT"
     },
     "100272": {
       "id": 100272,
@@ -27840,7 +27840,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3KVVNOqDPAUoE4y8ofRn4E"
     },
     "100273": {
       "id": 100273,
@@ -27852,7 +27852,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1zRW3vr3uw0tdG7iLWUZpn"
     },
     "100274": {
       "id": 100274,
@@ -27864,7 +27864,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3itMuOb6szZGLu8Cvcb4i0"
     },
     "100275": {
       "id": 100275,
@@ -27876,7 +27876,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:32TrzfWW2vc8b1QZDLDhFk"
     },
     "100276": {
       "id": 100276,
@@ -27888,7 +27888,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:52cJO9pleFQAZZuCtdvwOC"
     },
     "100277": {
       "id": 100277,
@@ -27900,7 +27900,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6MEe4uPc7dODGpT1DlU1BO"
     },
     "100278": {
       "id": 100278,
@@ -27912,7 +27912,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5IzQrPIRU0tvPuQRWXMvf6"
     },
     "100279": {
       "id": 100279,
@@ -27924,7 +27924,7 @@
       "weeks_charted": 7,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Eb90nmqTrxylKFhcUzW8P"
     },
     "100280": {
       "id": 100280,
@@ -27936,7 +27936,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0EDEqLUMslZm6k7ZYiRGpr"
     },
     "100281": {
       "id": 100281,
@@ -27948,7 +27948,7 @@
       "weeks_charted": 4,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6ip57blIAhqXWUzZgw2Dvp"
     },
     "100282": {
       "id": 100282,
@@ -27960,7 +27960,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2FmBnZbBD65a6hLz5vfA7t"
     },
     "100283": {
       "id": 100283,
@@ -27972,7 +27972,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0iqF085pqK8rzehFjIGdaq"
     },
     "100284": {
       "id": 100284,
@@ -27984,7 +27984,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Ck6fZWvZllPPp6dlQQNlm"
     },
     "100285": {
       "id": 100285,
@@ -27996,7 +27996,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:25VMT8juE0YylNAEBuDK7v"
     },
     "100286": {
       "id": 100286,
@@ -28008,7 +28008,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "100287": {
       "id": 100287,
@@ -28020,7 +28020,7 @@
       "weeks_charted": 4,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1tdMTimRrcZ9MZCi2lrUPQ"
     },
     "100288": {
       "id": 100288,
@@ -28032,7 +28032,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ovjw5HZZv43SxTwApooCM"
     },
     "100289": {
       "id": 100289,
@@ -28044,7 +28044,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0UstVnjmGYaY3xwkONRbSI"
     },
     "100290": {
       "id": 100290,
@@ -28056,7 +28056,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5g6o2ZEegnAI3MczbwZaTZ"
     },
     "100291": {
       "id": 100291,
@@ -28068,7 +28068,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6cRgV0wZ9rovpMnjGAdHFa"
     },
     "100292": {
       "id": 100292,
@@ -28080,7 +28080,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4e80zUwo7YuhNHs9OokSG0"
     },
     "100293": {
       "id": 100293,
@@ -28092,7 +28092,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5vNtkMs4L5WAi2A9xjKrni"
     },
     "100294": {
       "id": 100294,
@@ -28104,7 +28104,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:45m4bXiALwUUiVblHtjLEx"
     },
     "100295": {
       "id": 100295,
@@ -28116,7 +28116,7 @@
       "weeks_charted": 6,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2vv4A2yL07lVmoApWI0OLk"
     },
     "100296": {
       "id": 100296,
@@ -28128,7 +28128,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1fUpH1DSIM9NBcE6OhGgrm"
     },
     "100297": {
       "id": 100297,
@@ -28140,7 +28140,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5WDiPd1EhnXVbT1BvasmqC"
     },
     "100298": {
       "id": 100298,
@@ -28152,7 +28152,7 @@
       "weeks_charted": 7,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1afeCSYjSprxqKNEo1SHEe"
     },
     "100299": {
       "id": 100299,
@@ -28164,7 +28164,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4UbD4qpHlEwNbkC0zC6Xib"
     },
     "100300": {
       "id": 100300,
@@ -28176,7 +28176,7 @@
       "weeks_charted": 4,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6YsCavQbx3YITYsnIKvF3j"
     },
     "100301": {
       "id": 100301,
@@ -28188,7 +28188,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6T2Fs4K64W6zBuomzsLrE8"
     },
     "100302": {
       "id": 100302,
@@ -28200,7 +28200,7 @@
       "weeks_charted": 7,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7EsjkelQuoUlJXEw7SeVV4"
     },
     "100303": {
       "id": 100303,
@@ -28212,7 +28212,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3a4ENvlQFfdc0xx12F41zW"
     },
     "100304": {
       "id": 100304,
@@ -28224,7 +28224,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6pBocwn73enW3TCxlNKk7b"
     },
     "100305": {
       "id": 100305,
@@ -28236,7 +28236,7 @@
       "weeks_charted": 2,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1uxqYL628dqrL6dTt98Gcb"
     },
     "100306": {
       "id": 100306,
@@ -28248,7 +28248,7 @@
       "weeks_charted": 5,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:53qXir2gH0G5Q2kHo0nnjV"
     },
     "100307": {
       "id": 100307,
@@ -28260,7 +28260,7 @@
       "weeks_charted": 5,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:68csmCJEoVEPeNHawNJpfJ"
     },
     "100308": {
       "id": 100308,
@@ -28272,7 +28272,7 @@
       "weeks_charted": 3,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7atdJXnC3W4RzugzwEcJcs"
     },
     "100309": {
       "id": 100309,
@@ -28284,7 +28284,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1nMQIvpesuj57aG7j0I3Yn"
     },
     "100310": {
       "id": 100310,
@@ -28296,7 +28296,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4mfyehYgUP2V8jsjW9UzYj"
     },
     "100311": {
       "id": 100311,
@@ -28308,7 +28308,7 @@
       "weeks_charted": 6,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5n6RDaGFSN88oRWuGtYAIN"
     },
     "100312": {
       "id": 100312,
@@ -28320,7 +28320,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4tJAO4Xy8CJSU3lj18nXlz"
     },
     "100313": {
       "id": 100313,
@@ -28332,7 +28332,7 @@
       "weeks_charted": 1,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1TOTD0EtlxIzkKuUJtHFLC"
     },
     "100314": {
       "id": 100314,
@@ -28344,7 +28344,7 @@
       "weeks_charted": 4,
       "year": 1991,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7wmXnx7AgiAXPm9gPGz0hH"
     },
     "100315": {
       "id": 100315,
@@ -28356,7 +28356,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2tXBpHz7uJwp4wCZSlUEiy"
     },
     "100316": {
       "id": 100316,
@@ -28368,7 +28368,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4B3bZvuuxBWX5SWkENDBMK"
     },
     "100317": {
       "id": 100317,
@@ -28380,7 +28380,7 @@
       "weeks_charted": 7,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0faITIHzoidxYDFLlMUGOH"
     },
     "100318": {
       "id": 100318,
@@ -28392,7 +28392,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:63vHtACIH29QGSURNamPPT"
     },
     "100319": {
       "id": 100319,
@@ -28404,7 +28404,7 @@
       "weeks_charted": 9,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6lbme14HiDWYmGiw1I2Dv6"
     },
     "100320": {
       "id": 100320,
@@ -28416,7 +28416,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6lfjSrcI3orUsTdD9OtCZB"
     },
     "100321": {
       "id": 100321,
@@ -28428,7 +28428,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:45qQELejnSpKYkHYGwt0lg"
     },
     "100322": {
       "id": 100322,
@@ -28440,7 +28440,7 @@
       "weeks_charted": 7,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2JQlsdVy9bB9Otx8lxsFKn"
     },
     "100323": {
       "id": 100323,
@@ -28452,7 +28452,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1tNpfYaU0LNwTU7BOxQOjB"
     },
     "100324": {
       "id": 100324,
@@ -28464,7 +28464,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7x96AGg9vZQIO6i1k5iw66"
     },
     "100325": {
       "id": 100325,
@@ -28476,7 +28476,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7n8kufUqtu43lEtL0wi5PO"
     },
     "100326": {
       "id": 100326,
@@ -28488,7 +28488,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4jnFqNWeJCeCRHc4HCdxfd"
     },
     "100327": {
       "id": 100327,
@@ -28500,7 +28500,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:29LnlJhRVdxBnlnz19lMJI"
     },
     "100328": {
       "id": 100328,
@@ -28512,7 +28512,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1HCINH6oZA8O2XcQKjheNl"
     },
     "100329": {
       "id": 100329,
@@ -28524,7 +28524,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1o53HbxmOy5TzThJdBaDZb"
     },
     "100330": {
       "id": 100330,
@@ -28536,7 +28536,7 @@
       "weeks_charted": 5,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7pCRUG04xC9PvR0trYjZNl"
     },
     "100331": {
       "id": 100331,
@@ -28548,7 +28548,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6jhp9XE0orvh99i5pb6F61"
     },
     "100332": {
       "id": 100332,
@@ -28560,7 +28560,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6a8aig0BQiwfnNaw6C5A6a"
     },
     "100333": {
       "id": 100333,
@@ -28572,7 +28572,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2yeGJMWwNqZJFngSeEQkQd"
     },
     "100334": {
       "id": 100334,
@@ -28584,7 +28584,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6SOI2hhXgF8vNpj93qSPmw"
     },
     "100335": {
       "id": 100335,
@@ -28596,7 +28596,7 @@
       "weeks_charted": 5,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5AP9YK5ehznG55aAe8PrKm"
     },
     "100336": {
       "id": 100336,
@@ -28608,7 +28608,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3yfme8m6hPvl5wkNi53Itr"
     },
     "100337": {
       "id": 100337,
@@ -28620,7 +28620,7 @@
       "weeks_charted": 7,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3NyFc37QvMQrncwUGm1Pif"
     },
     "100338": {
       "id": 100338,
@@ -28632,7 +28632,7 @@
       "weeks_charted": 4,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0zZ6NYUgYCmFIh2Y8VLVqG"
     },
     "100339": {
       "id": 100339,
@@ -28644,7 +28644,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0eifvmNPHWaSh4IKNR4Xva"
     },
     "100340": {
       "id": 100340,
@@ -28656,7 +28656,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2fYYmPNwDaNpw1KRSxpQ5H"
     },
     "100341": {
       "id": 100341,
@@ -28668,7 +28668,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "100342": {
       "id": 100342,
@@ -28680,7 +28680,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4l9pGHDI9AdHPZDL7h0XyG"
     },
     "100343": {
       "id": 100343,
@@ -28692,7 +28692,7 @@
       "weeks_charted": 6,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4TOGkYS141L15SkVosAp7Z"
     },
     "100344": {
       "id": 100344,
@@ -28704,7 +28704,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ZKXJZtKyxcLdZMmsGKYXs"
     },
     "100345": {
       "id": 100345,
@@ -28716,7 +28716,7 @@
       "weeks_charted": 9,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0nXvluarmBhKf0jXmzz2vB"
     },
     "100346": {
       "id": 100346,
@@ -28728,7 +28728,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:70xWUlsh7lZIsmvE3TkkNN"
     },
     "100347": {
       "id": 100347,
@@ -28740,7 +28740,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6xZNVDHtFmj3b6erVrgRV3"
     },
     "100348": {
       "id": 100348,
@@ -28752,7 +28752,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4m1NSWAYuuqyAnkiRMUXe2"
     },
     "100349": {
       "id": 100349,
@@ -28764,7 +28764,7 @@
       "weeks_charted": 5,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1OrT4UVkCnCDSO6sD2o3f2"
     },
     "100350": {
       "id": 100350,
@@ -28776,7 +28776,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0XOkGK5r5j5eizioipascd"
     },
     "100351": {
       "id": 100351,
@@ -28788,7 +28788,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3S4zxAElFRl6Ma9aXEQEPT"
     },
     "100352": {
       "id": 100352,
@@ -28800,7 +28800,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1xbgpwUUiIVbdMsmX0ybW1"
     },
     "100353": {
       "id": 100353,
@@ -28812,7 +28812,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6KhQGItsYILxBgMfVKpfDr"
     },
     "100354": {
       "id": 100354,
@@ -28824,7 +28824,7 @@
       "weeks_charted": 6,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6TGzMB9MRv1naS8CkNrBgV"
     },
     "100355": {
       "id": 100355,
@@ -28836,7 +28836,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5J4eMV2885cWvQpi4lklJ4"
     },
     "100356": {
       "id": 100356,
@@ -28848,7 +28848,7 @@
       "weeks_charted": 5,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1hoj6tVV6esn5WsA2ynuHW"
     },
     "100357": {
       "id": 100357,
@@ -28860,7 +28860,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:77QkdxNwhH9zKBI3abmQs2"
     },
     "100358": {
       "id": 100358,
@@ -28872,7 +28872,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2JfIb4QpeivMl1woYt7YZX"
     },
     "100359": {
       "id": 100359,
@@ -28884,7 +28884,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1nXTM2CVdaoCySSD5kgt3J"
     },
     "100360": {
       "id": 100360,
@@ -28896,7 +28896,7 @@
       "weeks_charted": 4,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3dfAmpb1yk2yAIvfvxYTEq"
     },
     "100361": {
       "id": 100361,
@@ -28908,7 +28908,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7HxmE61xD9PkdpFS1prZON"
     },
     "100362": {
       "id": 100362,
@@ -28920,7 +28920,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3btffp8dvKYn7zQ96Q6XW4"
     },
     "100363": {
       "id": 100363,
@@ -28932,7 +28932,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4bK2vKMdkS0rNhbzRqAZe0"
     },
     "100364": {
       "id": 100364,
@@ -28944,7 +28944,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "100365": {
       "id": 100365,
@@ -28956,7 +28956,7 @@
       "weeks_charted": 4,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6XedFkT4Fd8ZQetUvjlZrP"
     },
     "100366": {
       "id": 100366,
@@ -28968,7 +28968,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:69ROc1YuE3YSyVj5Uf9s4i"
     },
     "100367": {
       "id": 100367,
@@ -28980,7 +28980,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2YB8yLFUNd6tnt94jK5mWW"
     },
     "100368": {
       "id": 100368,
@@ -28992,7 +28992,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3AnTh8ZOJYWjLf9f3IILIm"
     },
     "100369": {
       "id": 100369,
@@ -29004,7 +29004,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4gnawKL75N1mZ99YJVyTya"
     },
     "100370": {
       "id": 100370,
@@ -29016,7 +29016,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5t5FRWb33aJzfBcvDcxO5e"
     },
     "100371": {
       "id": 100371,
@@ -29028,7 +29028,7 @@
       "weeks_charted": 5,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3lZoMzUnl3VDVfvPawQPmR"
     },
     "100372": {
       "id": 100372,
@@ -29040,7 +29040,7 @@
       "weeks_charted": 4,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4aUtQeepbOmrpF3sEiyt94"
     },
     "100373": {
       "id": 100373,
@@ -29052,7 +29052,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7GxPS6dVVMMXANLnClWvVw"
     },
     "100374": {
       "id": 100374,
@@ -29064,7 +29064,7 @@
       "weeks_charted": 12,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ZUrgr2gflglu0VQ8biBJW"
     },
     "100375": {
       "id": 100375,
@@ -29076,7 +29076,7 @@
       "weeks_charted": 4,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4xvEIxDfd0MPZoKbmY6HbU"
     },
     "100376": {
       "id": 100376,
@@ -29088,7 +29088,7 @@
       "weeks_charted": 4,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Ef1iHRLQBOk3b1SGoORwA"
     },
     "100377": {
       "id": 100377,
@@ -29100,7 +29100,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5QehEg8FZkKQtb55EVOWpm"
     },
     "100378": {
       "id": 100378,
@@ -29112,7 +29112,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1wqHYPboU9l2pBUFFiuXjE"
     },
     "100379": {
       "id": 100379,
@@ -29124,7 +29124,7 @@
       "weeks_charted": 4,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0FWnZO87meHDxcJZyKsmgO"
     },
     "100380": {
       "id": 100380,
@@ -29136,7 +29136,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6VwYKqtvY5PWwlSahrqdE0"
     },
     "100381": {
       "id": 100381,
@@ -29148,7 +29148,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:20EHUGurifOIN8ehDhgweP"
     },
     "100382": {
       "id": 100382,
@@ -29160,7 +29160,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3geRffSf6eAruhg23RkpKV"
     },
     "100383": {
       "id": 100383,
@@ -29172,7 +29172,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4eMLyB1mc7onYLdoG8YSXG"
     },
     "100384": {
       "id": 100384,
@@ -29184,7 +29184,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4BuFq4KRMaBmOpsxhjHZBK"
     },
     "100385": {
       "id": 100385,
@@ -29196,7 +29196,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6psCU1jYnZ271htFqWJuI7"
     },
     "100386": {
       "id": 100386,
@@ -29208,7 +29208,7 @@
       "weeks_charted": 2,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Ygiq6N37MKMgtHcve8MRq"
     },
     "100387": {
       "id": 100387,
@@ -29220,7 +29220,7 @@
       "weeks_charted": 5,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:58kNf8YrkZ98JkohUo2Jeq"
     },
     "100388": {
       "id": 100388,
@@ -29232,7 +29232,7 @@
       "weeks_charted": 4,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4MxJvj1DXGBeATGamBRwoZ"
     },
     "100389": {
       "id": 100389,
@@ -29244,7 +29244,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1oaaSrDJimABpOdCEbw2DJ"
     },
     "100390": {
       "id": 100390,
@@ -29256,7 +29256,7 @@
       "weeks_charted": 3,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0UKwf5g6nrWQCCkIyHgCTt"
     },
     "100391": {
       "id": 100391,
@@ -29268,7 +29268,7 @@
       "weeks_charted": 1,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Rc6fFbiyrsiuHKcI2gKus"
     },
     "100392": {
       "id": 100392,
@@ -29280,7 +29280,7 @@
       "weeks_charted": 6,
       "year": 1992,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1vNxKNOnFnk1bYdenmA58t"
     },
     "100393": {
       "id": 100393,
@@ -29292,7 +29292,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2QmJHaVKgTRq1dqdcSnFDc"
     },
     "100394": {
       "id": 100394,
@@ -29304,7 +29304,7 @@
       "weeks_charted": 3,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6KU8g98m1tcrUXRNjPQeOI"
     },
     "100395": {
       "id": 100395,
@@ -29316,7 +29316,7 @@
       "weeks_charted": 7,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0BsbPzgtF3Ljzgtp5WmvwO"
     },
     "100396": {
       "id": 100396,
@@ -29328,7 +29328,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2nyVzFIFaR7lHjlNH2JyWR"
     },
     "100397": {
       "id": 100397,
@@ -29340,7 +29340,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0kTlUYh397A1AMLQHOfAAr"
     },
     "100398": {
       "id": 100398,
@@ -29352,7 +29352,7 @@
       "weeks_charted": 3,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3CNUwLJld7mzp3JMbLR1kG"
     },
     "100399": {
       "id": 100399,
@@ -29364,7 +29364,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4RhkLF7D9fXIxnHNz1x77l"
     },
     "100400": {
       "id": 100400,
@@ -29376,7 +29376,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7woW97CfcWaKtuC6W5BP2K"
     },
     "100401": {
       "id": 100401,
@@ -29388,7 +29388,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:30Ycic1p43sN4KlzK9MX4G"
     },
     "100402": {
       "id": 100402,
@@ -29400,7 +29400,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2AAbeO39EoRDvWNuG3mxPB"
     },
     "100403": {
       "id": 100403,
@@ -29412,7 +29412,7 @@
       "weeks_charted": 4,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1A3slZQBuaNkgkj6Qiua2d"
     },
     "100404": {
       "id": 100404,
@@ -29424,7 +29424,7 @@
       "weeks_charted": 5,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Vaxvjt9cLnYmeeaH4S30I"
     },
     "100405": {
       "id": 100405,
@@ -29436,7 +29436,7 @@
       "weeks_charted": 3,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Il5D5QEz5nwYObTTq2Zmx"
     },
     "100406": {
       "id": 100406,
@@ -29448,7 +29448,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5PMRnopks4tmX7RIw6asI8"
     },
     "100407": {
       "id": 100407,
@@ -29460,7 +29460,7 @@
       "weeks_charted": 3,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "100408": {
       "id": 100408,
@@ -29472,7 +29472,7 @@
       "weeks_charted": 13,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0udpxtljzxLpsqkeMgiLTM"
     },
     "100409": {
       "id": 100409,
@@ -29484,7 +29484,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2cNQ3DaFdO2lM3kBST37cU"
     },
     "100410": {
       "id": 100410,
@@ -29496,7 +29496,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Juh7SkEwkBsJK7LnLkOVI"
     },
     "100411": {
       "id": 100411,
@@ -29508,7 +29508,7 @@
       "weeks_charted": 4,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:34g1uvJFo2xTa591tVtpgw"
     },
     "100412": {
       "id": 100412,
@@ -29520,7 +29520,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4MSWZmo2nKEqipffqM7QZa"
     },
     "100413": {
       "id": 100413,
@@ -29532,7 +29532,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4kBIs2aGyfLUTFXeIHcMFi"
     },
     "100414": {
       "id": 100414,
@@ -29544,7 +29544,7 @@
       "weeks_charted": 5,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Kquy5EPLZKR8YLOdoMuPo"
     },
     "100415": {
       "id": 100415,
@@ -29556,7 +29556,7 @@
       "weeks_charted": 4,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6kWJvPfC4DgUpRsXKNa9z9"
     },
     "100416": {
       "id": 100416,
@@ -29568,7 +29568,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2kqO54MCOVY3mm7rQJOgBZ"
     },
     "100417": {
       "id": 100417,
@@ -29580,7 +29580,7 @@
       "weeks_charted": 6,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2oXN0nKfewVo73pz11Wv83"
     },
     "100418": {
       "id": 100418,
@@ -29592,7 +29592,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:748bh9mdrsV46m1DkNblhe"
     },
     "100419": {
       "id": 100419,
@@ -29604,7 +29604,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4lF5PbJm8LjyePNp9tGAmP"
     },
     "100420": {
       "id": 100420,
@@ -29616,7 +29616,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0rQlemd4tVp8ygHBxNfA9Y"
     },
     "100421": {
       "id": 100421,
@@ -29628,7 +29628,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5pzP5DJyYV84Rht6uvcX4r"
     },
     "100422": {
       "id": 100422,
@@ -29640,7 +29640,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5zWoON1Dgg0ZrWLg8tAOP0"
     },
     "100423": {
       "id": 100423,
@@ -29652,7 +29652,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7CioF3ourXikXWhBqb7XjH"
     },
     "100424": {
       "id": 100424,
@@ -29664,7 +29664,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5fGsohT78bah320GACKrze"
     },
     "100425": {
       "id": 100425,
@@ -29676,7 +29676,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5VEtb8Pb3LN3aqMa0e3gDA"
     },
     "100426": {
       "id": 100426,
@@ -29688,7 +29688,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7yVPr5QPJtWLwu0ligaHx3"
     },
     "100427": {
       "id": 100427,
@@ -29700,7 +29700,7 @@
       "weeks_charted": 5,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:26wnmXhvDzEPtR9Jw8w0uS"
     },
     "100428": {
       "id": 100428,
@@ -29712,7 +29712,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0RWGNaEtYnMc5UZ3pI0Cqz"
     },
     "100429": {
       "id": 100429,
@@ -29724,7 +29724,7 @@
       "weeks_charted": 4,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:79hH2N2nm0gETyG4zikKKJ"
     },
     "100430": {
       "id": 100430,
@@ -29736,7 +29736,7 @@
       "weeks_charted": 3,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0lnNpz7n8XTZi2CeWbDu32"
     },
     "100431": {
       "id": 100431,
@@ -29748,7 +29748,7 @@
       "weeks_charted": 6,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6gl4WFoEF48DFqC5X9NqJi"
     },
     "100432": {
       "id": 100432,
@@ -29760,7 +29760,7 @@
       "weeks_charted": 7,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0e67IK4ZDABpIO40ACRnFl"
     },
     "100433": {
       "id": 100433,
@@ -29772,7 +29772,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:31er9IGsfFbwqy1pH4aiTP"
     },
     "100434": {
       "id": 100434,
@@ -29784,7 +29784,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7aG02b4O0wBCiH8xqJdOgV"
     },
     "100435": {
       "id": 100435,
@@ -29796,7 +29796,7 @@
       "weeks_charted": 5,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6rrw2Sou2Qmr7bzJE7Ockj"
     },
     "100436": {
       "id": 100436,
@@ -29808,7 +29808,7 @@
       "weeks_charted": 1,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:06wmsULJImyKvrqWm2r6FJ"
     },
     "100437": {
       "id": 100437,
@@ -29820,7 +29820,7 @@
       "weeks_charted": 7,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3T9gO4krF0cXxOdDB2C9DA"
     },
     "100438": {
       "id": 100438,
@@ -29832,7 +29832,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:24cMdOzMxizL7rCzJ81aBB"
     },
     "100439": {
       "id": 100439,
@@ -29844,7 +29844,7 @@
       "weeks_charted": 3,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5M33MiIrMdfvzIpw7jVKTd"
     },
     "100440": {
       "id": 100440,
@@ -29856,7 +29856,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3jFAkNiirNUYhQtV5c4HV8"
     },
     "100441": {
       "id": 100441,
@@ -29868,7 +29868,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4frBPyZ8mWn7yhlBEhPZFN"
     },
     "100442": {
       "id": 100442,
@@ -29880,7 +29880,7 @@
       "weeks_charted": 4,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7GKdD4ZFDPTeqjvijgPdMZ"
     },
     "100443": {
       "id": 100443,
@@ -29892,7 +29892,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0xXUFoQEMGu1ZzptkqaxUS"
     },
     "100444": {
       "id": 100444,
@@ -29904,7 +29904,7 @@
       "weeks_charted": 3,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3RkaadBFb6HzYeUcu7GU3D"
     },
     "100445": {
       "id": 100445,
@@ -29916,7 +29916,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3MQQsRMDA9R2i4NMPLeXqk"
     },
     "100446": {
       "id": 100446,
@@ -29928,7 +29928,7 @@
       "weeks_charted": 3,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0hFfKso8ATJ5r2FsgIyLTb"
     },
     "100447": {
       "id": 100447,
@@ -29940,7 +29940,7 @@
       "weeks_charted": 2,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1hgDh9KL8FKPGyWftog3ut"
     },
     "100448": {
       "id": 100448,
@@ -29952,7 +29952,7 @@
       "weeks_charted": 4,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:14UlqBkR0IotOQC36FgUTq"
     },
     "100449": {
       "id": 100449,
@@ -29964,7 +29964,7 @@
       "weeks_charted": 5,
       "year": 1993,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5joGD76eZzQfSsNylMV8Ju"
     },
     "100450": {
       "id": 100450,

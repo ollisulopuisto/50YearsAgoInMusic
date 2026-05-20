@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Calendar Versioning (CalVer) `vYY.MM.DD.N` where N is the total commit count.
 
+## [v26.05.20.10] - 2026-05-20
+
+### Added
+- Playlist descriptions now show the original chart week, e.g. "Suomen virallinen singlelista, viikko 20, toukokuu 2011."
+- Localized month names (Finnish and English) in `config.py`.
+- `get_playlist_description()` and `get_month_name()` helper functions.
+
 ## [v26.05.20.9] - 2026-05-20
 
 ### Fixed

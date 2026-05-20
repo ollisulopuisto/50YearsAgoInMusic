@@ -13,12 +13,22 @@ def update_feed(sp, charts, notifier, feed, *, dry_run=False):
     sdate = radio.get_target_date(today, feed["years"])
     date, sids = radio.get_best_match_for_date(charts, sdate)
     if sids:
+        description = config.get_playlist_description(date)
+
         if dry_run:
             print(f"[dry-run] Would update: {feed['title']} ({date})")
+            print(f"[dry-run] Description: {description}")
             return
 
         if feed["playlist_uri"]:
             radio.save_to_playlist(sp, charts, feed["playlist_uri"], sids)
+            # Update playlist description with chart week metadata
+            try:
+                sp.playlist_change_details(
+                    feed["playlist_uri"], description=description
+                )
+            except Exception as e:
+                print(f"Warning: could not update description: {e}")
         else:
             print(f"Skipping playlist update for {feed['title']} (no URI configured).")
 

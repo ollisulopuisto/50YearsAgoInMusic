@@ -3,7 +3,7 @@
 Projektin tavoite- ja edistymisseuranta.
 Versiointi: CalVer `vYY.MM.DD.N` (N = kokonaiscommitmäärä).
 
-**Nykyinen versio**: v26.05.20.9
+**Nykyinen versio**: v26.05.20.10
 
 ---
 

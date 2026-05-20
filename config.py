@@ -21,6 +21,10 @@ CHART_DATA_FALLBACK_PATH = "chart_details.js"
 LOCALIZED_STRINGS = {
     "en": {
         "playlist_title_pattern": "{years} Years Ago in Music",
+        "playlist_description": (
+            "Top chart from week {week}, {month} {year}."
+            " Updated weekly by 50 Year Radio."
+        ),
         "update_message": (
             "The {title} playlist has been updated for the week of {date}. {url}"
         ),
@@ -39,6 +43,10 @@ LOCALIZED_STRINGS = {
     },
     "fi": {
         "playlist_title_pattern": "Suomen top-listat {years} vuotta sitten",
+        "playlist_description": (
+            "Suomen virallinen singlelista, viikko {week}, {month} {year}."
+            " Päivittyy automaattisesti viikoittain."
+        ),
         "update_message": "Soittolista {title} on päivitetty viikolle {date}. {url}",
         "update_message_simple": "Soittolista {title} on juuri päivitetty.",
         "this_week_in": "Tällä viikolla vuonna {year} ",
@@ -55,11 +63,58 @@ LOCALIZED_STRINGS = {
     },
 }
 
+MONTH_NAMES = {
+    "en": [
+        "",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December",
+    ],
+    "fi": [
+        "",
+        "tammikuu",
+        "helmikuu",
+        "maaliskuu",
+        "huhtikuu",
+        "toukokuu",
+        "kesäkuu",
+        "heinäkuu",
+        "elokuu",
+        "syyskuu",
+        "lokakuu",
+        "marraskuu",
+        "joulukuu",
+    ],
+}
+
 
 def get_text(key, **kwargs):
     locale = LOCALE if LOCALE in LOCALIZED_STRINGS else "en"
     text = LOCALIZED_STRINGS[locale].get(key, LOCALIZED_STRINGS["en"].get(key, ""))
     return text.format(**kwargs)
+
+
+def get_month_name(month):
+    """Return localized month name (1-indexed)."""
+    locale = LOCALE if LOCALE in MONTH_NAMES else "en"
+    return MONTH_NAMES[locale][month]
+
+
+def get_playlist_description(chart_date):
+    """Build a localized playlist description from the chart date."""
+    week = chart_date.isocalendar()[1]
+    month = get_month_name(chart_date.month)
+    year = chart_date.year
+    return get_text("playlist_description", week=week, month=month, year=year)
 
 
 # Default feed playlists (original values from plamere)
