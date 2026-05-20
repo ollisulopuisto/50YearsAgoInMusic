@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Calendar Versioning (CalVer) `vYY.MM.DD.N` where N is the total commit count.
 
+## [v26.05.20.9] - 2026-05-20
+
+### Fixed
+- `save_to_playlist` now gracefully skips playlists when no songs have resolved Spotify URIs, preventing crashes in the weekly workflow.
+
 ## [v26.05.20.8] - 2026-05-20
 
 ### Changed

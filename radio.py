@@ -111,8 +111,13 @@ def save_to_playlist(sp, charts, playlist_uri, sids):
     for sid in sids:
         if sid and str(sid) in charts["songs"]:
             song = charts["songs"][str(sid)]
-            if "uri" in song:
-                uris.append(song["uri"])
+            uri = song.get("uri")
+            if uri:
+                uris.append(uri)
+
+    if not uris:
+        print(f"No valid Spotify URIs found for playlist {playlist_uri}, skipping.")
+        return []
 
     # Spotipy replace tracks requires split into chunks of 100
     chunk_size = 100
