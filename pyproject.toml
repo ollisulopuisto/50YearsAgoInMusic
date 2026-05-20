@@ -1,10 +1,11 @@
 [project]
 name = "fifty-years-ago-in-music"
-version = "26.05.20.3"
+version = "26.05.20.4"
 description = "Updates Spotify playlists with top tracks from the past, localized for Finnish."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "beautifulsoup4>=4.14.3",
     "spotipy>=2.24.0",
 ]
 
@@ -35,3 +36,4 @@ ignore = []
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = ["test_*.py"]
+pythonpath = ["."]
