@@ -1,6 +1,6 @@
 [project]
 name = "fifty-years-ago-in-music"
-version = "26.05.20.6"
+version = "26.05.20.7"
 description = "Updates Spotify playlists with top tracks from the past, localized for Finnish."
 readme = "README.md"
 requires-python = ">=3.12"

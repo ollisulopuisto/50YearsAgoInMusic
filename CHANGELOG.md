@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Calendar Versioning (CalVer) `vYY.MM.DD.N` where N is the total commit count.
 
+## [v26.05.20.7] - 2026-05-20
+
+### Added
+- Configured generated Finnish Spotify playlist URIs and URLs for intervals 15, 20, 25, and 30 under `DEFAULT_PLAYLISTS` in `config.py`.
+
 ## [v26.05.20.6] - 2026-05-20
 
 ### Changed

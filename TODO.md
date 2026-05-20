@@ -3,7 +3,7 @@
 Projektin tavoite- ja edistymisseuranta.
 Versiointi: CalVer `vYY.MM.DD.N` (N = kokonaiscommitmäärä).
 
-**Nykyinen versio**: v26.05.20.6
+**Nykyinen versio**: v26.05.20.7
 
 ---
 
@@ -41,8 +41,8 @@ Suomalainen data kattaa **1988–2013**. Vuonna 2026 toimivat intervallit:
 
 ## Vaihe 3: Spotify-soittolistat (fi)
 
-- [ ] Luo Spotify-soittolistat kullekin suomalaiselle intervallille
-- [ ] Tallenna playlist-URI:t `config.py`:n `fi_uri`/`fi_url`-kenttiin
+- [x] Luo Spotify-soittolistat kullekin suomalaiselle intervallille
+- [x] Tallenna playlist-URI:t `config.py`:n `fi_uri`/`fi_url`-kenttiin
 - [ ] Testaa manuaalisesti yksittäisen listan päivitys
 
 ---
