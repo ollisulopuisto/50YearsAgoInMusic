@@ -54576,7 +54576,7 @@
       "weeks_charted": 4,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:08noXaWgj50nBq1O3sgOCl"
     },
     "102501": {
       "id": 102501,
@@ -54588,7 +54588,7 @@
       "weeks_charted": 2,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3bYrSlgvWacP1LZV44pfzp"
     },
     "102502": {
       "id": 102502,
@@ -54600,7 +54600,7 @@
       "weeks_charted": 14,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0MWJphETp6jCStlDhGL7uM"
     },
     "102503": {
       "id": 102503,
@@ -54612,7 +54612,7 @@
       "weeks_charted": 5,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7nBPcXNvHo37fKb0snfY8a"
     },
     "102504": {
       "id": 102504,
@@ -54624,7 +54624,7 @@
       "weeks_charted": 4,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4lX9nlVzr6DzeVYAin0tFt"
     },
     "102505": {
       "id": 102505,
@@ -54636,7 +54636,7 @@
       "weeks_charted": 2,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5H5cHyiIWEKgme8O86C0yH"
     },
     "102506": {
       "id": 102506,
@@ -54648,7 +54648,7 @@
       "weeks_charted": 16,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0twzJHqgemOfwZN7Jejt6r"
     },
     "102507": {
       "id": 102507,
@@ -54660,7 +54660,7 @@
       "weeks_charted": 9,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:78dd2p3HPa87tcTd43GLp7"
     },
     "102508": {
       "id": 102508,
@@ -54672,7 +54672,7 @@
       "weeks_charted": 12,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0S8YOd6m4yL2JRkV2SXaAL"
     },
     "102509": {
       "id": 102509,
@@ -54684,7 +54684,7 @@
       "weeks_charted": 2,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2HSJAF3cYZZCzsjiIRb7mW"
     },
     "102510": {
       "id": 102510,
@@ -54696,7 +54696,7 @@
       "weeks_charted": 9,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4tN0D2OeDh2pErMXCu86Du"
     },
     "102511": {
       "id": 102511,
@@ -54708,7 +54708,7 @@
       "weeks_charted": 12,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4xYugGvDEXvs1S57FnviVc"
     },
     "102512": {
       "id": 102512,
@@ -54720,7 +54720,7 @@
       "weeks_charted": 10,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5zzBpuMrbpp5XdkL728VD9"
     },
     "102513": {
       "id": 102513,
@@ -54732,7 +54732,7 @@
       "weeks_charted": 1,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5BeBfnubllFy69omQHNavT"
     },
     "102514": {
       "id": 102514,
@@ -54744,7 +54744,7 @@
       "weeks_charted": 14,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3InKtwYDBwTTCcxV6e0oAX"
     },
     "102515": {
       "id": 102515,
@@ -54756,7 +54756,7 @@
       "weeks_charted": 1,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5j1wI4UOvptoBEQyLrLW2D"
     },
     "102516": {
       "id": 102516,
@@ -54768,7 +54768,7 @@
       "weeks_charted": 7,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0oGempn9AWgyCdbwxjlFjA"
     },
     "102517": {
       "id": 102517,
@@ -54780,7 +54780,7 @@
       "weeks_charted": 2,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0ei8WYjK6eSbzTyzuVjcbP"
     },
     "102518": {
       "id": 102518,
@@ -54792,7 +54792,7 @@
       "weeks_charted": 2,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4hMuttXhbde9ZPkXAxHEzI"
     },
     "102519": {
       "id": 102519,
@@ -54804,7 +54804,7 @@
       "weeks_charted": 12,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3EY1sjf2Xq86pQN0L4hEnU"
     },
     "102520": {
       "id": 102520,
@@ -54816,7 +54816,7 @@
       "weeks_charted": 2,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6YCOTzjJbGhoSaigqBdM6n"
     },
     "102521": {
       "id": 102521,
@@ -54828,7 +54828,7 @@
       "weeks_charted": 8,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4EQVpCNlGoKs0KEOBZYYq2"
     },
     "102522": {
       "id": 102522,
@@ -54840,7 +54840,7 @@
       "weeks_charted": 11,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2BC3XgiaryNl3gPsAjXC4G"
     },
     "102523": {
       "id": 102523,
@@ -54852,7 +54852,7 @@
       "weeks_charted": 2,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2DQDJu39QHvWP4Cdt5A4n0"
     },
     "102524": {
       "id": 102524,
@@ -54864,7 +54864,7 @@
       "weeks_charted": 6,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:43istOLfZfWQVM2WK2AQu5"
     },
     "102525": {
       "id": 102525,
@@ -54876,7 +54876,7 @@
       "weeks_charted": 1,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3tEDKAod3cAXhHDKbOXLRm"
     },
     "102526": {
       "id": 102526,
@@ -54888,7 +54888,7 @@
       "weeks_charted": 1,
       "year": 2005,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5T4wJfpwn3sEJdA4OovEfR"
     },
     "102527": {
       "id": 102527,
@@ -54900,7 +54900,7 @@
       "weeks_charted": 15,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6nTBZXKeT8BfDTu3FKfWKw"
     },
     "102528": {
       "id": 102528,
@@ -54912,7 +54912,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5vE3C2nhCeFFmbiy4Vxr1x"
     },
     "102529": {
       "id": 102529,
@@ -54924,7 +54924,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4wzt5Rrk3W98pHXAqutuJw"
     },
     "102530": {
       "id": 102530,
@@ -54936,7 +54936,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5XQavlXrNHBBvlN4IJqhqW"
     },
     "102531": {
       "id": 102531,
@@ -54948,7 +54948,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1JF5aiqnMF34TxRnfA8bUl"
     },
     "102532": {
       "id": 102532,
@@ -54960,7 +54960,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0xRFeUNhZ07sWCKjoy46N4"
     },
     "102533": {
       "id": 102533,
@@ -54972,7 +54972,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0S76nn0d8bNuvvVY9KeSxN"
     },
     "102534": {
       "id": 102534,
@@ -54984,7 +54984,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:55whbebR4olz2HHcRQa2kx"
     },
     "102535": {
       "id": 102535,
@@ -54996,7 +54996,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:34fxZcYYIdQHSBdB7LSedf"
     },
     "102536": {
       "id": 102536,
@@ -55008,7 +55008,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Jthiaqi4AmBfzU3S0ehZg"
     },
     "102537": {
       "id": 102537,
@@ -55020,7 +55020,7 @@
       "weeks_charted": 4,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:09NK1CMD3Byisct2RyKQBA"
     },
     "102538": {
       "id": 102538,
@@ -55032,7 +55032,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1fwCIKq1lHXGacAQnnx6EG"
     },
     "102539": {
       "id": 102539,
@@ -55044,7 +55044,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Fm3ZliGfSAxoJ54iIvRnr"
     },
     "102540": {
       "id": 102540,
@@ -55056,7 +55056,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7cZGOY4qQlh54K6kjKxAPt"
     },
     "102541": {
       "id": 102541,
@@ -55068,7 +55068,7 @@
       "weeks_charted": 6,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5HCJ6vOnpuQSZR6RmjnorK"
     },
     "102542": {
       "id": 102542,
@@ -55080,7 +55080,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6gonERHbrU3tW0IuNxBsa7"
     },
     "102543": {
       "id": 102543,
@@ -55092,7 +55092,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "102544": {
       "id": 102544,
@@ -55104,7 +55104,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0gJvqi9QyASOCtJu99tytc"
     },
     "102545": {
       "id": 102545,
@@ -55116,7 +55116,7 @@
       "weeks_charted": 17,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2EM9zpAc7PVeoAydmbfVIL"
     },
     "102546": {
       "id": 102546,
@@ -55128,7 +55128,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1tNq8ROODZeTmetqd0UXNG"
     },
     "102547": {
       "id": 102547,
@@ -55140,7 +55140,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4zbhqksVceZYivuRMSkOHQ"
     },
     "102548": {
       "id": 102548,
@@ -55152,7 +55152,7 @@
       "weeks_charted": 13,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1tjxzXhIctvy6DPcLUIp7Z"
     },
     "102549": {
       "id": 102549,
@@ -55164,7 +55164,7 @@
       "weeks_charted": 13,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:774tMmxHPUdEOVJgr9rXGU"
     },
     "102550": {
       "id": 102550,
@@ -55176,7 +55176,7 @@
       "weeks_charted": 11,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4q8BnabizKQZtVMSVjjMMz"
     },
     "102551": {
       "id": 102551,
@@ -55188,7 +55188,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7xYnUQigPoIDAMPVK79NEq"
     },
     "102552": {
       "id": 102552,
@@ -55200,7 +55200,7 @@
       "weeks_charted": 11,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2khc6He7Q7hB1TFXAcVQqc"
     },
     "102553": {
       "id": 102553,
@@ -55212,7 +55212,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5sleozEPZ1RjkcKmgIyAw4"
     },
     "102554": {
       "id": 102554,
@@ -55224,7 +55224,7 @@
       "weeks_charted": 4,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4slo2L9eA6CNkEMu07M1hT"
     },
     "102555": {
       "id": 102555,
@@ -55236,7 +55236,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3WWxdfwnBwFcxfJRE6XSbO"
     },
     "102556": {
       "id": 102556,
@@ -55248,7 +55248,7 @@
       "weeks_charted": 6,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1KJ2fFCW9eiDuSMEaq1gRo"
     },
     "102557": {
       "id": 102557,
@@ -55260,7 +55260,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3rDJrmjZS1xrgD1jTMhnZJ"
     },
     "102558": {
       "id": 102558,
@@ -55272,7 +55272,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:39OYosHlYZWCFnLlbOrKVf"
     },
     "102559": {
       "id": 102559,
@@ -55284,7 +55284,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5fpjavxccYCvgNPxlYLIz3"
     },
     "102560": {
       "id": 102560,
@@ -55296,7 +55296,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1t1r0kihXmZ6OTt1ltzMqo"
     },
     "102561": {
       "id": 102561,
@@ -55308,7 +55308,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:59rzEbnrzpH5LCYCmLkrjG"
     },
     "102562": {
       "id": 102562,
@@ -55320,7 +55320,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:23xxp6UF8EJDuvNevXpo7y"
     },
     "102563": {
       "id": 102563,
@@ -55332,7 +55332,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0eq2aDkGQcDugaDFKvJglG"
     },
     "102564": {
       "id": 102564,
@@ -55344,7 +55344,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:01xbYzH9MrgEvEErpM80MN"
     },
     "102565": {
       "id": 102565,
@@ -55356,7 +55356,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0aJrYfARfCKzv6gXjhs4SZ"
     },
     "102566": {
       "id": 102566,
@@ -55368,7 +55368,7 @@
       "weeks_charted": 14,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4LTQyIaduSyTilbB0TSkfa"
     },
     "102567": {
       "id": 102567,
@@ -55380,7 +55380,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1VNWaY3uNfoeWqb5U8x2QX"
     },
     "102568": {
       "id": 102568,
@@ -55392,7 +55392,7 @@
       "weeks_charted": 18,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2DtPEKs3Pj7E06EoWW4vw8"
     },
     "102569": {
       "id": 102569,
@@ -55404,7 +55404,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3YucV0uTrPd56KSwME1jE2"
     },
     "102570": {
       "id": 102570,
@@ -55416,7 +55416,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3CMOHmiKtHQN9csrbhJNYa"
     },
     "102571": {
       "id": 102571,
@@ -55428,7 +55428,7 @@
       "weeks_charted": 17,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7coeNSr2ZRHtC5VXyDSv1l"
     },
     "102572": {
       "id": 102572,
@@ -55440,7 +55440,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0u56clbegXVe6daER5ZHm4"
     },
     "102573": {
       "id": 102573,
@@ -55452,7 +55452,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5NL2aTzGResweA4hVqeHyd"
     },
     "102574": {
       "id": 102574,
@@ -55464,7 +55464,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6j18xkw5Mbr7ultdA0Au8J"
     },
     "102575": {
       "id": 102575,
@@ -55476,7 +55476,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5OHAqglz8uBgq0yiT6a6M1"
     },
     "102576": {
       "id": 102576,
@@ -55488,7 +55488,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0uxl841gemkjNQ0ogl0I9x"
     },
     "102577": {
       "id": 102577,
@@ -55500,7 +55500,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:777Dwr564rfZJ24BWhs2bo"
     },
     "102578": {
       "id": 102578,
@@ -55512,7 +55512,7 @@
       "weeks_charted": 4,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:33rTTiURtKPbsAoS8T0pB8"
     },
     "102579": {
       "id": 102579,
@@ -55524,7 +55524,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5yuFtsqq5G8hh2oGD5zq4f"
     },
     "102580": {
       "id": 102580,
@@ -55536,7 +55536,7 @@
       "weeks_charted": 6,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4hGwcWTmk2eiQ8teW42VCU"
     },
     "102581": {
       "id": 102581,
@@ -55548,7 +55548,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6cReeDEStjjgejAfxKDl3p"
     },
     "102582": {
       "id": 102582,
@@ -55560,7 +55560,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7885fEyJO3RwwnSkB0I4w6"
     },
     "102583": {
       "id": 102583,
@@ -55572,7 +55572,7 @@
       "weeks_charted": 11,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0BtXtxmKBm1HwGnM3kO3rY"
     },
     "102584": {
       "id": 102584,
@@ -55584,7 +55584,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7sZTvm0Sx8umbyQViTE2Qc"
     },
     "102585": {
       "id": 102585,
@@ -55596,7 +55596,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5YPAzeuFqsK3w0MMZotPKl"
     },
     "102586": {
       "id": 102586,
@@ -55608,7 +55608,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1PYW0AhPh0AaS41Cwsy232"
     },
     "102587": {
       "id": 102587,
@@ -55620,7 +55620,7 @@
       "weeks_charted": 15,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5dQVYFtcLA4pvTRiTFRFkC"
     },
     "102588": {
       "id": 102588,
@@ -55632,7 +55632,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1AQQ9DdpEemMVTHNz4eG9a"
     },
     "102589": {
       "id": 102589,
@@ -55644,7 +55644,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5tQXaTjoCln6XZV7szsTcm"
     },
     "102590": {
       "id": 102590,
@@ -55656,7 +55656,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:79jyev8pCIkPuQIJB8OwQF"
     },
     "102591": {
       "id": 102591,
@@ -55668,7 +55668,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5tmJ2KPpmx8Xv7PfrSc94C"
     },
     "102592": {
       "id": 102592,
@@ -55680,7 +55680,7 @@
       "weeks_charted": 13,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0EqNsTFA2t7wJkiK8gjhyF"
     },
     "102593": {
       "id": 102593,
@@ -55692,7 +55692,7 @@
       "weeks_charted": 11,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2hns6Dv29Yrg68AVTJiAyA"
     },
     "102594": {
       "id": 102594,
@@ -55704,7 +55704,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7wNzxk4eoFVRrG3vuaQunv"
     },
     "102595": {
       "id": 102595,
@@ -55716,7 +55716,7 @@
       "weeks_charted": 11,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:72GnqdyP96ga16ecs6kKuc"
     },
     "102596": {
       "id": 102596,
@@ -55728,7 +55728,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5xT8JXJSyHYNfC11OFqzFL"
     },
     "102597": {
       "id": 102597,
@@ -55740,7 +55740,7 @@
       "weeks_charted": 4,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3xYq6X8zrrgU6lPSZF8St3"
     },
     "102598": {
       "id": 102598,
@@ -55752,7 +55752,7 @@
       "weeks_charted": 6,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2CSC8KTAnX4XAvWDvsVjQ4"
     },
     "102599": {
       "id": 102599,
@@ -55764,7 +55764,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Qiz4CnId2dgwbDdudGavl"
     },
     "102600": {
       "id": 102600,
@@ -55776,7 +55776,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1k0F0ToE1bxmQftKsdelKC"
     },
     "102601": {
       "id": 102601,
@@ -55788,7 +55788,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3UifTqTqSN71Dx0ZITnBaj"
     },
     "102602": {
       "id": 102602,
@@ -55800,7 +55800,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:78s6DmtOEavkIDe1f9TGgd"
     },
     "102603": {
       "id": 102603,
@@ -55812,7 +55812,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6NdCrfcrFeBK5Y7bZgXxy7"
     },
     "102604": {
       "id": 102604,
@@ -55824,7 +55824,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5MHyavu8xr1zABfKw2y8fl"
     },
     "102605": {
       "id": 102605,
@@ -55836,7 +55836,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6dCXKAcHGLpqdC2IXjSpto"
     },
     "102606": {
       "id": 102606,
@@ -55848,7 +55848,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7huo2wvrCgRucUsjdSDLQV"
     },
     "102607": {
       "id": 102607,
@@ -55860,7 +55860,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5MBMY9zq997K9wfoNKfqBS"
     },
     "102608": {
       "id": 102608,
@@ -55872,7 +55872,7 @@
       "weeks_charted": 4,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2bgQWruCCWETBGc3tOdHOh"
     },
     "102609": {
       "id": 102609,
@@ -55884,7 +55884,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0v8xLTWHhOrguH2leA7CLi"
     },
     "102610": {
       "id": 102610,
@@ -55896,7 +55896,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1d0n4EodqNT9BJ6z2L6cu9"
     },
     "102611": {
       "id": 102611,
@@ -55908,7 +55908,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0S2Gc5sR5feyym6YmYWIhX"
     },
     "102612": {
       "id": 102612,
@@ -55920,7 +55920,7 @@
       "weeks_charted": 18,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0WMbJ9qBFHkakr4IcBt7FX"
     },
     "102613": {
       "id": 102613,
@@ -55932,7 +55932,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3lynTCUlT00H3uePbWW3kt"
     },
     "102614": {
       "id": 102614,
@@ -55944,7 +55944,7 @@
       "weeks_charted": 4,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1trpG0Orh0Hyw1dnJA5etW"
     },
     "102615": {
       "id": 102615,
@@ -55956,7 +55956,7 @@
       "weeks_charted": 11,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2SXoKxfdPHwB4wJDlUiW7q"
     },
     "102616": {
       "id": 102616,
@@ -55968,7 +55968,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0itNMuBHye9fu392b4e9oa"
     },
     "102617": {
       "id": 102617,
@@ -55980,7 +55980,7 @@
       "weeks_charted": 16,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4DPoVuY0g15PD6QOe9opKc"
     },
     "102618": {
       "id": 102618,
@@ -55992,7 +55992,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4p8DpboGaKP2WqpXINitxF"
     },
     "102619": {
       "id": 102619,
@@ -56004,7 +56004,7 @@
       "weeks_charted": 6,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Ht5FxSYHwrUtBNagbQK0i"
     },
     "102620": {
       "id": 102620,
@@ -56016,7 +56016,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1BPmkZPnUzcgSNbXm1Wpxe"
     },
     "102621": {
       "id": 102621,
@@ -56028,7 +56028,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0JQIvyNNfj7pBi7mKEKsjk"
     },
     "102622": {
       "id": 102622,
@@ -56040,7 +56040,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:13xxBnXOuiBxVxJI458B0i"
     },
     "102623": {
       "id": 102623,
@@ -56052,7 +56052,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Fm5L8JkMyKFgSr8AHLKnX"
     },
     "102624": {
       "id": 102624,
@@ -56064,7 +56064,7 @@
       "weeks_charted": 4,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5NN5Di8dy8evZ7ciVGx1we"
     },
     "102625": {
       "id": 102625,
@@ -56076,7 +56076,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6LCEyZZHFF4ebF1Mike1s5"
     },
     "102626": {
       "id": 102626,
@@ -56088,7 +56088,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Nx9L3WTBHwJguajpfj3SI"
     },
     "102627": {
       "id": 102627,
@@ -56100,7 +56100,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1riLbkHM8cZKeGQvU5sAHr"
     },
     "102628": {
       "id": 102628,
@@ -56112,7 +56112,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "102629": {
       "id": 102629,
@@ -56124,7 +56124,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5X4yPbg9UnWv9yAWqm0o4R"
     },
     "102630": {
       "id": 102630,
@@ -56136,7 +56136,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0vZjr3ZTtqxeNTNU7VgycA"
     },
     "102631": {
       "id": 102631,
@@ -56148,7 +56148,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5s3F6Uwxurx8Lmbjdtj2pw"
     },
     "102632": {
       "id": 102632,
@@ -56160,7 +56160,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6tIU1flCEBrcpBVmpWVhrK"
     },
     "102633": {
       "id": 102633,
@@ -56172,7 +56172,7 @@
       "weeks_charted": 10,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1q9l6c8bAzqWcvO3DM6FsR"
     },
     "102634": {
       "id": 102634,
@@ -56184,7 +56184,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1YD9mwEucWK76UZQkT5L6P"
     },
     "102635": {
       "id": 102635,
@@ -56196,7 +56196,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0X11Pz21YSmfrUJ6RnWElk"
     },
     "102636": {
       "id": 102636,
@@ -56208,7 +56208,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3T4ktsSsdDR0FG2gLA8j8D"
     },
     "102637": {
       "id": 102637,
@@ -56220,7 +56220,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4nHCMGMQiXJP6M7tsqNwnE"
     },
     "102638": {
       "id": 102638,
@@ -56232,7 +56232,7 @@
       "weeks_charted": 13,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4lHPhd0PHU7lfBH2oAXCpa"
     },
     "102639": {
       "id": 102639,
@@ -56244,7 +56244,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:64DPd70MRAPMGh3bl4sfvF"
     },
     "102640": {
       "id": 102640,
@@ -56256,7 +56256,7 @@
       "weeks_charted": 14,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0QMfIhkC6zlzeUEFguOUQR"
     },
     "102641": {
       "id": 102641,
@@ -56268,7 +56268,7 @@
       "weeks_charted": 15,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:55WCYfyiNMPHhqd2USd9rL"
     },
     "102642": {
       "id": 102642,
@@ -56280,7 +56280,7 @@
       "weeks_charted": 10,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7GFNAuI9HO3mPItuz0KhhQ"
     },
     "102643": {
       "id": 102643,
@@ -56292,7 +56292,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5F3BcopQonQgF13YvldOd0"
     },
     "102644": {
       "id": 102644,
@@ -56304,7 +56304,7 @@
       "weeks_charted": 11,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6lGojsJbHyp8T8BO2cmIS8"
     },
     "102645": {
       "id": 102645,
@@ -56316,7 +56316,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7tLxxVgDL05HfOuJXO2w8j"
     },
     "102646": {
       "id": 102646,
@@ -56328,7 +56328,7 @@
       "weeks_charted": 14,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5hmRhU6fWzH0NjYmfhHjhp"
     },
     "102647": {
       "id": 102647,
@@ -56340,7 +56340,7 @@
       "weeks_charted": 20,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0AyQsHEAUn1fv3CVDTr06V"
     },
     "102648": {
       "id": 102648,
@@ -56352,7 +56352,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5iA6zbTMf0w3ridWFdtvG4"
     },
     "102649": {
       "id": 102649,
@@ -56364,7 +56364,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4ksdgO9T5keuC6OYu6AdBB"
     },
     "102650": {
       "id": 102650,
@@ -56376,7 +56376,7 @@
       "weeks_charted": 19,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "102651": {
       "id": 102651,
@@ -56388,7 +56388,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5wQnmLuC1W7ATsArWACrgW"
     },
     "102652": {
       "id": 102652,
@@ -56400,7 +56400,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7GWoMZsG9tM3p6xm0qgjGl"
     },
     "102653": {
       "id": 102653,
@@ -56412,7 +56412,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Wgv6aFXlmi8ReX2tQHfzA"
     },
     "102654": {
       "id": 102654,
@@ -56424,7 +56424,7 @@
       "weeks_charted": 14,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1hL2seL0eAFRAgjAXTd6c8"
     },
     "102655": {
       "id": 102655,
@@ -56436,7 +56436,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1LJXDUC5cL642zr0kHJlqW"
     },
     "102656": {
       "id": 102656,
@@ -56448,7 +56448,7 @@
       "weeks_charted": 1,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2qo7BrWxpqWYD6UkRQUupL"
     },
     "102657": {
       "id": 102657,
@@ -56460,7 +56460,7 @@
       "weeks_charted": 12,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:734t1GgKDg0Nc19tqxlJ0s"
     },
     "102658": {
       "id": 102658,
@@ -56472,7 +56472,7 @@
       "weeks_charted": 5,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:20PokC00CF8cTQDmRqwqpt"
     },
     "102659": {
       "id": 102659,
@@ -56484,7 +56484,7 @@
       "weeks_charted": 9,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0yZOIfLr0rMlmFwelSxy4W"
     },
     "102660": {
       "id": 102660,
@@ -56496,7 +56496,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:09LMLjB96bR4OsOmap4suh"
     },
     "102661": {
       "id": 102661,
@@ -56508,7 +56508,7 @@
       "weeks_charted": 15,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0hdDRXduwmlzaFZE9UK2P8"
     },
     "102662": {
       "id": 102662,
@@ -56520,7 +56520,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Fa4VNM6Oop2I7QzD29SHz"
     },
     "102663": {
       "id": 102663,
@@ -56532,7 +56532,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6gDXbcILAyBa2skSdbUYq7"
     },
     "102664": {
       "id": 102664,
@@ -56544,7 +56544,7 @@
       "weeks_charted": 10,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:06IBbeh6k0LE7RVreWXqfZ"
     },
     "102665": {
       "id": 102665,
@@ -56556,7 +56556,7 @@
       "weeks_charted": 13,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6uN0smLPFTcLCm0jFEQdvd"
     },
     "102666": {
       "id": 102666,
@@ -56568,7 +56568,7 @@
       "weeks_charted": 8,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3acBQxxlyb0jC2xqndDzSf"
     },
     "102667": {
       "id": 102667,
@@ -56580,7 +56580,7 @@
       "weeks_charted": 3,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2aibwv5hGXSgw7Yru8IYTO"
     },
     "102668": {
       "id": 102668,
@@ -56592,7 +56592,7 @@
       "weeks_charted": 7,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0uijaZnutuzkR5DExomRma"
     },
     "102669": {
       "id": 102669,
@@ -56604,7 +56604,7 @@
       "weeks_charted": 2,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3OaVkWANhlFDS1A0otFHq5"
     },
     "102670": {
       "id": 102670,
@@ -56616,7 +56616,7 @@
       "weeks_charted": 10,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5YaLFRpqpUzgLLDcukNn0H"
     },
     "102671": {
       "id": 102671,
@@ -56628,7 +56628,7 @@
       "weeks_charted": 11,
       "year": 2006,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6kEpjptnAwt11Atr4cEMe1"
     },
     "102672": {
       "id": 102672,
@@ -56640,7 +56640,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3BlsKwBxlJE1iBlFk3jNPb"
     },
     "102673": {
       "id": 102673,
@@ -56652,7 +56652,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5kGrJb74Z8XAs9p9QR54wq"
     },
     "102674": {
       "id": 102674,
@@ -56664,7 +56664,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Axykd6Lq3rdMb0kxqNvv1"
     },
     "102675": {
       "id": 102675,
@@ -56676,7 +56676,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1jEPdLuyYDSTRJTuCP9Gpg"
     },
     "102676": {
       "id": 102676,
@@ -56688,7 +56688,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3endm2c86yS66vSTUiU56Y"
     },
     "102677": {
       "id": 102677,
@@ -56700,7 +56700,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0sp3Z6ilCzo1SrTCnc1IsS"
     },
     "102678": {
       "id": 102678,
@@ -56712,7 +56712,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2lObbpm1EZr3sZbriJjGrT"
     },
     "102679": {
       "id": 102679,
@@ -56724,7 +56724,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2iDTVeGJJB70gGtqLJS5ak"
     },
     "102680": {
       "id": 102680,
@@ -56736,7 +56736,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:64FswptupVfcDazsuVTSSz"
     },
     "102681": {
       "id": 102681,
@@ -56748,7 +56748,7 @@
       "weeks_charted": 14,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5SKu9HR1T8RO8WsvlcbDNQ"
     },
     "102682": {
       "id": 102682,
@@ -56760,7 +56760,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5z37OkOEzss0a6F5bxjlkS"
     },
     "102683": {
       "id": 102683,
@@ -56772,7 +56772,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0LL6bqvnmZRedRsCUJpf1u"
     },
     "102684": {
       "id": 102684,
@@ -56784,7 +56784,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0REcSv4RySd3boIzvj7PN4"
     },
     "102685": {
       "id": 102685,
@@ -56796,7 +56796,7 @@
       "weeks_charted": 13,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:27WFviv1WwBJs0ZC7t0fD8"
     },
     "102686": {
       "id": 102686,
@@ -56808,7 +56808,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4EDCyyhYtqsa1MKfk5bZpk"
     },
     "102687": {
       "id": 102687,
@@ -56820,7 +56820,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1m4CkKsKUjH45TzpzG5GRl"
     },
     "102688": {
       "id": 102688,
@@ -56832,7 +56832,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5GJq7iAoM8klfEh8Nx7eQm"
     },
     "102689": {
       "id": 102689,
@@ -56844,7 +56844,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6d7RjhjWyzBTpy38J1WjBX"
     },
     "102690": {
       "id": 102690,
@@ -56856,7 +56856,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0KM2y796j63t5RHhvRUxld"
     },
     "102691": {
       "id": 102691,
@@ -56868,7 +56868,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7d7VlNp0HH0TkZcHlQAROJ"
     },
     "102692": {
       "id": 102692,
@@ -56880,7 +56880,7 @@
       "weeks_charted": 14,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2py2QZuHUQdKSjmUHsolz8"
     },
     "102693": {
       "id": 102693,
@@ -56892,7 +56892,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:26jkBNSB9HyMbisynVithV"
     },
     "102694": {
       "id": 102694,
@@ -56904,7 +56904,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3uHEF8tPPrNg31PhSJo1RD"
     },
     "102695": {
       "id": 102695,
@@ -56916,7 +56916,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Sap9SHPXSgV0ZKprd7Brc"
     },
     "102696": {
       "id": 102696,
@@ -56928,7 +56928,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2byvbqJxEzkYdAyxfylrfV"
     },
     "102697": {
       "id": 102697,
@@ -56940,7 +56940,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7w0jmfRrEMReb1tlMwZvqB"
     },
     "102698": {
       "id": 102698,
@@ -56952,7 +56952,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:20rmO0S6KGswD0p5tp2mNX"
     },
     "102699": {
       "id": 102699,
@@ -56964,7 +56964,7 @@
       "weeks_charted": 14,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:553qSyDhijGfegH2FEhjne"
     },
     "102700": {
       "id": 102700,
@@ -56976,7 +56976,7 @@
       "weeks_charted": 16,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5tPz9oFxdxcxrrrdamMKRO"
     },
     "102701": {
       "id": 102701,
@@ -56988,7 +56988,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1oagRT7LfpVlNJN6FSZDGp"
     },
     "102702": {
       "id": 102702,
@@ -57000,7 +57000,7 @@
       "weeks_charted": 12,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:17QAMdhDeJN1s36OjtaI5w"
     },
     "102703": {
       "id": 102703,
@@ -57012,7 +57012,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7zVMLq5dwNKl9lxIJzvS89"
     },
     "102704": {
       "id": 102704,
@@ -57024,7 +57024,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2j5e9dePjNzLCdFMtUHbW4"
     },
     "102705": {
       "id": 102705,
@@ -57036,7 +57036,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3pD0f7hSJg2XdQ6udw5Tey"
     },
     "102706": {
       "id": 102706,
@@ -57048,7 +57048,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3OC6BH1ay1JdMPWs7mSinX"
     },
     "102707": {
       "id": 102707,
@@ -57060,7 +57060,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6VT4Vnbtr5uIpsvQIxcHnz"
     },
     "102708": {
       "id": 102708,
@@ -57072,7 +57072,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:756FAddUvd6N3hz3X2yKvA"
     },
     "102709": {
       "id": 102709,
@@ -57084,7 +57084,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2SDx0PooHZI1SQKR0y44bs"
     },
     "102710": {
       "id": 102710,
@@ -57096,7 +57096,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:59LJSK2eO169VpFKbFIo1x"
     },
     "102711": {
       "id": 102711,
@@ -57108,7 +57108,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4RAOI1etsgbh5NP3T5R8rN"
     },
     "102712": {
       "id": 102712,
@@ -57120,7 +57120,7 @@
       "weeks_charted": 10,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2WI8A7sFkxxyryHGSPtaYO"
     },
     "102713": {
       "id": 102713,
@@ -57132,7 +57132,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0hdDRXduwmlzaFZE9UK2P8"
     },
     "102714": {
       "id": 102714,
@@ -57144,7 +57144,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6fz0TsXHzc9TQUDqnavSTT"
     },
     "102715": {
       "id": 102715,
@@ -57156,7 +57156,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5KbF5BugZh4r0wIRyNd9Zj"
     },
     "102716": {
       "id": 102716,
@@ -57168,7 +57168,7 @@
       "weeks_charted": 12,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3PNOYDruQplC92lNc7mE9W"
     },
     "102717": {
       "id": 102717,
@@ -57180,7 +57180,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6bMrOC2Kw27k3tAAazknzA"
     },
     "102718": {
       "id": 102718,
@@ -57192,7 +57192,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6C6Ev276QpqxvWeKR5m4NN"
     },
     "102719": {
       "id": 102719,
@@ -57204,7 +57204,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5BxJ34Nlp1jRutG2W7gYB0"
     },
     "102720": {
       "id": 102720,
@@ -57216,7 +57216,7 @@
       "weeks_charted": 19,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4JErskWxmILvav6U2PkTbn"
     },
     "102721": {
       "id": 102721,
@@ -57228,7 +57228,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0D7fYRdGbTMmX9sxGIWV66"
     },
     "102722": {
       "id": 102722,
@@ -57240,7 +57240,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2ZpFuVJAEOBVZ6CBY92ZFP"
     },
     "102723": {
       "id": 102723,
@@ -57252,7 +57252,7 @@
       "weeks_charted": 7,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Q14bmAuGRXHVFW4f8y5A8"
     },
     "102724": {
       "id": 102724,
@@ -57264,7 +57264,7 @@
       "weeks_charted": 10,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3xfhVlgl8JPL97tAm8Lc4S"
     },
     "102725": {
       "id": 102725,
@@ -57276,7 +57276,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ePJGzXJx0emrxS9ZYEh1P"
     },
     "102726": {
       "id": 102726,
@@ -57288,7 +57288,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4jQkeaZ9c6xhQgKg9a4Swc"
     },
     "102727": {
       "id": 102727,
@@ -57300,7 +57300,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5xv4ggemGPNpowZAMwEYHH"
     },
     "102728": {
       "id": 102728,
@@ -57312,7 +57312,7 @@
       "weeks_charted": 7,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3tN2RIJYSNoELqFlNFeP37"
     },
     "102729": {
       "id": 102729,
@@ -57324,7 +57324,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6PKTAsKbSBR7bY4J1fQuI2"
     },
     "102730": {
       "id": 102730,
@@ -57336,7 +57336,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:457WtCk79pKlWhssIDHPYr"
     },
     "102731": {
       "id": 102731,
@@ -57348,7 +57348,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2E5RQ54P4GP9AI9p5vtZuz"
     },
     "102732": {
       "id": 102732,
@@ -57360,7 +57360,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7n7id8VUcoH6KIH9COmRKA"
     },
     "102733": {
       "id": 102733,
@@ -57372,7 +57372,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0GeNQoB7OxyAWTmOYCnOQo"
     },
     "102734": {
       "id": 102734,
@@ -57384,7 +57384,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3TaaLOX4mmlqGz5MBnQ9oC"
     },
     "102735": {
       "id": 102735,
@@ -57396,7 +57396,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5iUR8FQPaFXcnJEmHmVOtU"
     },
     "102736": {
       "id": 102736,
@@ -57408,7 +57408,7 @@
       "weeks_charted": 14,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2fczBEyVwwdRtspsT9kfvg"
     },
     "102737": {
       "id": 102737,
@@ -57420,7 +57420,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1LjXn0nG37aBWPPnDOq1nQ"
     },
     "102738": {
       "id": 102738,
@@ -57432,7 +57432,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Q3sfTyQo9hQ4YMJ3MYmuV"
     },
     "102739": {
       "id": 102739,
@@ -57444,7 +57444,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5qAZxsSzJY13fZWMfpyMth"
     },
     "102740": {
       "id": 102740,
@@ -57456,7 +57456,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7MropiGnEVBltD9bkkUHVh"
     },
     "102741": {
       "id": 102741,
@@ -57468,7 +57468,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7znDJdivR0msNAgY4flaPb"
     },
     "102742": {
       "id": 102742,
@@ -57480,7 +57480,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1gynIC3m3HoDHxhgs8qprv"
     },
     "102743": {
       "id": 102743,
@@ -57492,7 +57492,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3LGlU37FntARabhUrfQURm"
     },
     "102744": {
       "id": 102744,
@@ -57504,7 +57504,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5xXYuYk2CzHfk3kLKYmRRb"
     },
     "102745": {
       "id": 102745,
@@ -57516,7 +57516,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4HnTqZWZ8kiz1BnFhOMcny"
     },
     "102746": {
       "id": 102746,
@@ -57528,7 +57528,7 @@
       "weeks_charted": 12,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Lhdl74nwwVGOE2Gv35QuK"
     },
     "102747": {
       "id": 102747,
@@ -57540,7 +57540,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1uo6IzolNNLFNpyQGDZwJ5"
     },
     "102748": {
       "id": 102748,
@@ -57552,7 +57552,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3IVL90nXJqZri3ENMo5Cgm"
     },
     "102749": {
       "id": 102749,
@@ -57564,7 +57564,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5U757a5GbBJv9Tl2OpVYxL"
     },
     "102750": {
       "id": 102750,
@@ -57576,7 +57576,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:523bRvEnxAvegVXCwjipI9"
     },
     "102751": {
       "id": 102751,
@@ -57588,7 +57588,7 @@
       "weeks_charted": 10,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2bC5CxXaVKhzFkafhqnBSx"
     },
     "102752": {
       "id": 102752,
@@ -57600,7 +57600,7 @@
       "weeks_charted": 16,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:38FeP38D1ZOU72YBXkfkZw"
     },
     "102753": {
       "id": 102753,
@@ -57612,7 +57612,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5lHgMDHVC9J3qNoeWIA3lF"
     },
     "102754": {
       "id": 102754,
@@ -57624,7 +57624,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:48Dmf9jaSOd42ThEDuCOJI"
     },
     "102755": {
       "id": 102755,
@@ -57636,7 +57636,7 @@
       "weeks_charted": 7,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4eZWzcLYn2IQ2VX13dSX1v"
     },
     "102756": {
       "id": 102756,
@@ -57648,7 +57648,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:60zoJvZ0ElSQUL4BCLxD4w"
     },
     "102757": {
       "id": 102757,
@@ -57660,7 +57660,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5iyE2d4U3Vc5cqY9mPTlpy"
     },
     "102758": {
       "id": 102758,
@@ -57672,7 +57672,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:172OBmYnqSnuJvXrKPvpIi"
     },
     "102759": {
       "id": 102759,
@@ -57684,7 +57684,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:54JKnDB3CzVu8wNAOM27BI"
     },
     "102760": {
       "id": 102760,
@@ -57696,7 +57696,7 @@
       "weeks_charted": 13,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:43QDBbuJx04EN0I3pfbuJA"
     },
     "102761": {
       "id": 102761,
@@ -57708,7 +57708,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2qtTezxpyfDZsC1VeU6Cfd"
     },
     "102762": {
       "id": 102762,
@@ -57720,7 +57720,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0bD5aCBb46dEtEVkv9hd1m"
     },
     "102763": {
       "id": 102763,
@@ -57732,7 +57732,7 @@
       "weeks_charted": 12,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3h5Bx7wdBC1Vk1XPOfNsTd"
     },
     "102764": {
       "id": 102764,
@@ -57744,7 +57744,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0XLtsU0Bb8pezyDpJxPqKh"
     },
     "102765": {
       "id": 102765,
@@ -57756,7 +57756,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Tn2llBm1g0UlWctmgPL8Z"
     },
     "102766": {
       "id": 102766,
@@ -57768,7 +57768,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0d8aJLKZI1r4uOSLZBJaBK"
     },
     "102767": {
       "id": 102767,
@@ -57780,7 +57780,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5t1NZuD4E8IkQiECfE8r09"
     },
     "102768": {
       "id": 102768,
@@ -57792,7 +57792,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:78OBZL4Z6QHdwwloWIh0Lt"
     },
     "102769": {
       "id": 102769,
@@ -57804,7 +57804,7 @@
       "weeks_charted": 10,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1BBotmY58mifFRvQvhFpjW"
     },
     "102770": {
       "id": 102770,
@@ -57816,7 +57816,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1hGy2eLcmC8eKx7qr1tOqx"
     },
     "102771": {
       "id": 102771,
@@ -57828,7 +57828,7 @@
       "weeks_charted": 20,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1inqHSX0fdCURjwhQ4dw3K"
     },
     "102772": {
       "id": 102772,
@@ -57840,7 +57840,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:08beYX27lY2ilpTDDyDWyg"
     },
     "102773": {
       "id": 102773,
@@ -57852,7 +57852,7 @@
       "weeks_charted": 7,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7p4CO5Qah3gmSYFAbcWAvS"
     },
     "102774": {
       "id": 102774,
@@ -57864,7 +57864,7 @@
       "weeks_charted": 7,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:23Auv57UxQSXPKRlgvv2yn"
     },
     "102775": {
       "id": 102775,
@@ -57876,7 +57876,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4ORg4QopPkmkWghvyn7zPo"
     },
     "102776": {
       "id": 102776,
@@ -57888,7 +57888,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "102777": {
       "id": 102777,
@@ -57900,7 +57900,7 @@
       "weeks_charted": 35,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:24gMfRzOzBRiBjYmtsq8Qw"
     },
     "102778": {
       "id": 102778,
@@ -57912,7 +57912,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2lM0k2Key5isjTsUUSgFj9"
     },
     "102779": {
       "id": 102779,
@@ -57924,7 +57924,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1w4kgSwHQ3xDNbuR2SzAnj"
     },
     "102780": {
       "id": 102780,
@@ -57936,7 +57936,7 @@
       "weeks_charted": 7,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1ZoxSpw8iW7uuJUaGqKmR0"
     },
     "102781": {
       "id": 102781,
@@ -57948,7 +57948,7 @@
       "weeks_charted": 19,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:78jY6qGQtZAM7E5W7APoNg"
     },
     "102782": {
       "id": 102782,
@@ -57960,7 +57960,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2cxm1QNvKs1TsHGIPxPfq2"
     },
     "102783": {
       "id": 102783,
@@ -57972,7 +57972,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4WsmfIWrgY5kd49q5nTFJZ"
     },
     "102784": {
       "id": 102784,
@@ -57984,7 +57984,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2dOcfwJpfgGLcB4vPi8YXf"
     },
     "102785": {
       "id": 102785,
@@ -57996,7 +57996,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7x8dCjCr0x6x2lXKujYD34"
     },
     "102786": {
       "id": 102786,
@@ -58008,7 +58008,7 @@
       "weeks_charted": 7,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:20xRCmBjIKP5ysysYJxPPu"
     },
     "102787": {
       "id": 102787,
@@ -58020,7 +58020,7 @@
       "weeks_charted": 12,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:374x9L9jYkXLAprU2xcq6o"
     },
     "102788": {
       "id": 102788,
@@ -58032,7 +58032,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:13J4KuQoJaf0ubp9gzPuFo"
     },
     "102789": {
       "id": 102789,
@@ -58044,7 +58044,7 @@
       "weeks_charted": 3,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2BV7hrLonqGTCLYdUzUz7h"
     },
     "102790": {
       "id": 102790,
@@ -58056,7 +58056,7 @@
       "weeks_charted": 12,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4AHLwKouR4vQMK15rj2l09"
     },
     "102791": {
       "id": 102791,
@@ -58068,7 +58068,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0j2T0R9dR9qdJYsB7ciXhf"
     },
     "102792": {
       "id": 102792,
@@ -58080,7 +58080,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2ZgnQE34BtXYeeL6wOQpul"
     },
     "102793": {
       "id": 102793,
@@ -58092,7 +58092,7 @@
       "weeks_charted": 12,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1KDpmR0XxAEVYpSsW5J0Pc"
     },
     "102794": {
       "id": 102794,
@@ -58104,7 +58104,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0pD3acnxpJqiwL9DZGIssU"
     },
     "102795": {
       "id": 102795,
@@ -58116,7 +58116,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5n9L2VW954jf8ZgQGXoUAj"
     },
     "102796": {
       "id": 102796,
@@ -58128,7 +58128,7 @@
       "weeks_charted": 7,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1xHQVFM5gwg2bZJq9txEzH"
     },
     "102797": {
       "id": 102797,
@@ -58140,7 +58140,7 @@
       "weeks_charted": 10,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6IwKcFdiRQZOWeYNhUiWIv"
     },
     "102798": {
       "id": 102798,
@@ -58152,7 +58152,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3yUvfB6cV1f4G3zo3f8qq7"
     },
     "102799": {
       "id": 102799,
@@ -58164,7 +58164,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7i3qhnxYFlgddPvGyhN26T"
     },
     "102800": {
       "id": 102800,
@@ -58176,7 +58176,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:40oxMKwZbrhLZjZCGaUptF"
     },
     "102801": {
       "id": 102801,
@@ -58188,7 +58188,7 @@
       "weeks_charted": 15,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3WDZL1QCIborU91t3Rrb5b"
     },
     "102802": {
       "id": 102802,
@@ -58200,7 +58200,7 @@
       "weeks_charted": 2,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Wq8hK19KLiwctJ0lHfLz6"
     },
     "102803": {
       "id": 102803,
@@ -58212,7 +58212,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4hTq7S1Ug7uFCHWesAfTR8"
     },
     "102804": {
       "id": 102804,
@@ -58224,7 +58224,7 @@
       "weeks_charted": 13,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0ByMNEPAPpOR5H69DVrTNy"
     },
     "102805": {
       "id": 102805,
@@ -58236,7 +58236,7 @@
       "weeks_charted": 13,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7yadG2QUf131WXyJyOajgB"
     },
     "102806": {
       "id": 102806,
@@ -58248,7 +58248,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6K03JHEberhdFjgZvFYcfs"
     },
     "102807": {
       "id": 102807,
@@ -58260,7 +58260,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4voKgWH7evFVOSVUv0BBbf"
     },
     "102808": {
       "id": 102808,
@@ -58272,7 +58272,7 @@
       "weeks_charted": 14,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3cS2ehbKNtl5p56K5qo65s"
     },
     "102809": {
       "id": 102809,
@@ -58284,7 +58284,7 @@
       "weeks_charted": 5,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1rJF6SelCz83rXrcxoH9U2"
     },
     "102810": {
       "id": 102810,
@@ -58296,7 +58296,7 @@
       "weeks_charted": 4,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0D4sZVHFKIIrwZgUc5Jj9P"
     },
     "102811": {
       "id": 102811,
@@ -58308,7 +58308,7 @@
       "weeks_charted": 9,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0bORa4VpL8NzyMXEI6UFGK"
     },
     "102812": {
       "id": 102812,
@@ -58320,7 +58320,7 @@
       "weeks_charted": 16,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:518x7yFVDLkbOWNH0SOe9p"
     },
     "102813": {
       "id": 102813,
@@ -58332,7 +58332,7 @@
       "weeks_charted": 10,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Y2xGiKjfYfR3Q3kewCdP6"
     },
     "102814": {
       "id": 102814,
@@ -58344,7 +58344,7 @@
       "weeks_charted": 11,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1ujAryJxc5bEd7iigWnjx2"
     },
     "102815": {
       "id": 102815,
@@ -58356,7 +58356,7 @@
       "weeks_charted": 10,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1era8LgVvIKGlbZDtGbdrn"
     },
     "102816": {
       "id": 102816,
@@ -58368,7 +58368,7 @@
       "weeks_charted": 1,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1gWJ4zaBSkyICr7wTEygS9"
     },
     "102817": {
       "id": 102817,
@@ -58380,7 +58380,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5MY8rXqFkWtXF9KaAfXdr6"
     },
     "102818": {
       "id": 102818,
@@ -58392,7 +58392,7 @@
       "weeks_charted": 10,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7wZUrN8oemZfsEd1CGkbXE"
     },
     "102819": {
       "id": 102819,
@@ -58404,7 +58404,7 @@
       "weeks_charted": 8,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0xYnQKVy68q7XmP0GcbDCj"
     },
     "102820": {
       "id": 102820,
@@ -58416,7 +58416,7 @@
       "weeks_charted": 6,
       "year": 2007,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6z4gVrtCq81KSpektCgpZR"
     },
     "102821": {
       "id": 102821,
@@ -58428,7 +58428,7 @@
       "weeks_charted": 14,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2nwBgFjaxfEReij6xJ2MO8"
     },
     "102822": {
       "id": 102822,
@@ -58440,7 +58440,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2EvwLVrnYbCZEG6Kx5DCRy"
     },
     "102823": {
       "id": 102823,
@@ -58452,7 +58452,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7kdXxAndKv40FvHrkGfNZl"
     },
     "102824": {
       "id": 102824,
@@ -58464,7 +58464,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:02oW7CYWjfiCs1rZs7GNes"
     },
     "102825": {
       "id": 102825,
@@ -58476,7 +58476,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0WPxoMgI1Fy2n1guaygCal"
     },
     "102826": {
       "id": 102826,
@@ -58488,7 +58488,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:45c0RynQkzioe8pUyfjSmX"
     },
     "102827": {
       "id": 102827,
@@ -58500,7 +58500,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6S18su3fmCpLzBsJCQWovx"
     },
     "102828": {
       "id": 102828,
@@ -58512,7 +58512,7 @@
       "weeks_charted": 5,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1dBlY9pCPJUBzMmbcuzmlN"
     },
     "102829": {
       "id": 102829,
@@ -58524,7 +58524,7 @@
       "weeks_charted": 7,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Y2ZMrYajfcYsIlcSR4TeB"
     },
     "102830": {
       "id": 102830,
@@ -58536,7 +58536,7 @@
       "weeks_charted": 9,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:59ZhCciSocpqL1KnC0eKwS"
     },
     "102831": {
       "id": 102831,
@@ -58548,7 +58548,7 @@
       "weeks_charted": 3,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6WEBwvsmpaoGxka0tSh5a7"
     },
     "102832": {
       "id": 102832,
@@ -58560,7 +58560,7 @@
       "weeks_charted": 18,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7tLTOWp7vTd2zOJe8M0TXO"
     },
     "102833": {
       "id": 102833,
@@ -58572,7 +58572,7 @@
       "weeks_charted": 3,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:05zeV88zpBqOA6ctvahKW4"
     },
     "102834": {
       "id": 102834,
@@ -58584,7 +58584,7 @@
       "weeks_charted": 7,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:11Zq0UpyamaSrHcrOVgjLg"
     },
     "102835": {
       "id": 102835,
@@ -58596,7 +58596,7 @@
       "weeks_charted": 12,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4nvDx3o3gPMNgbDymC98Bv"
     },
     "102836": {
       "id": 102836,
@@ -58608,7 +58608,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "102837": {
       "id": 102837,
@@ -58620,7 +58620,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1HXj7kSNZtqV7Qu5gAvd6K"
     },
     "102838": {
       "id": 102838,
@@ -58632,7 +58632,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2t5Kn4vb94PCv7RdMI5MuL"
     },
     "102839": {
       "id": 102839,
@@ -58644,7 +58644,7 @@
       "weeks_charted": 20,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4h9TZLHS7AZ30pt5c1o5Em"
     },
     "102840": {
       "id": 102840,
@@ -58656,7 +58656,7 @@
       "weeks_charted": 17,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4m9NfjevXsDVaLtM1kj0Sx"
     },
     "102841": {
       "id": 102841,
@@ -58668,7 +58668,7 @@
       "weeks_charted": 7,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0pg4ptWsO9eMH6nEhrM9fD"
     },
     "102842": {
       "id": 102842,
@@ -58680,7 +58680,7 @@
       "weeks_charted": 7,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1P97LYjJZwVVZLB8GD5DUG"
     },
     "102843": {
       "id": 102843,
@@ -58692,7 +58692,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0edWVtMmK3hE11dsiU1fOL"
     },
     "102844": {
       "id": 102844,
@@ -58704,7 +58704,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3zcmWxxUA7Em7X3IBqZGUo"
     },
     "102845": {
       "id": 102845,
@@ -58716,7 +58716,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:37QRGR3o5HG2QgR1oWZpXV"
     },
     "102846": {
       "id": 102846,
@@ -58728,7 +58728,7 @@
       "weeks_charted": 15,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4qTfO1oow513pRUENKhBfJ"
     },
     "102847": {
       "id": 102847,
@@ -58740,7 +58740,7 @@
       "weeks_charted": 16,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4KhP19nBIRnmTQSVpQ4nT0"
     },
     "102848": {
       "id": 102848,
@@ -58752,7 +58752,7 @@
       "weeks_charted": 2,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1YTwyZEJziMc1QGSmpjdFX"
     },
     "102849": {
       "id": 102849,
@@ -58764,7 +58764,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0TfiVd9pFVbyIIf4eZkU8X"
     },
     "102850": {
       "id": 102850,
@@ -58776,7 +58776,7 @@
       "weeks_charted": 14,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6SiNUkoEBM3FE0QLEidrnS"
     },
     "102851": {
       "id": 102851,
@@ -58788,7 +58788,7 @@
       "weeks_charted": 9,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5vtwYq4TDVfbkp3u4eQGKH"
     },
     "102852": {
       "id": 102852,
@@ -58800,7 +58800,7 @@
       "weeks_charted": 3,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Yf0TwCIoMLsGLOLSLBySH"
     },
     "102853": {
       "id": 102853,
@@ -58812,7 +58812,7 @@
       "weeks_charted": 9,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Ov2CG9Sno2y7WhOlg4N9N"
     },
     "102854": {
       "id": 102854,
@@ -58824,7 +58824,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4E6cwWJWZw2zWf7VFbH7wf"
     },
     "102855": {
       "id": 102855,
@@ -58836,7 +58836,7 @@
       "weeks_charted": 6,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:52K4Nl7eVNqUpUeJeWJlwT"
     },
     "102856": {
       "id": 102856,
@@ -58848,7 +58848,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:06FIJH59mEE7P4t4T5eDar"
     },
     "102857": {
       "id": 102857,
@@ -58860,7 +58860,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:01ZCDNwUhiBYExbn7Fyb14"
     },
     "102858": {
       "id": 102858,
@@ -58872,7 +58872,7 @@
       "weeks_charted": 24,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Hv2IWtvPPca1F4zhC4UFs"
     },
     "102859": {
       "id": 102859,
@@ -58884,7 +58884,7 @@
       "weeks_charted": 4,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3jMXravyjKoEodwosrtpq9"
     },
     "102860": {
       "id": 102860,
@@ -58896,7 +58896,7 @@
       "weeks_charted": 5,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5m8CfLdKvESGknVey7g9sr"
     },
     "102861": {
       "id": 102861,
@@ -58908,7 +58908,7 @@
       "weeks_charted": 17,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3DelzIn0lPwX4PeOJk9zDF"
     },
     "102862": {
       "id": 102862,
@@ -58920,7 +58920,7 @@
       "weeks_charted": 2,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3UAqUwt7AEStMHsJI9Ht9G"
     },
     "102863": {
       "id": 102863,
@@ -58932,7 +58932,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5U9LNYxgO0rOdBlUQEgPRN"
     },
     "102864": {
       "id": 102864,
@@ -58944,7 +58944,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5wWBhkYsdktIIkRHAHzZAx"
     },
     "102865": {
       "id": 102865,
@@ -58956,7 +58956,7 @@
       "weeks_charted": 15,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5osSw3tL07Tuid7AWsvYcc"
     },
     "102866": {
       "id": 102866,
@@ -58968,7 +58968,7 @@
       "weeks_charted": 3,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:30pbUl6XO2fBq5s0OuAZEX"
     },
     "102867": {
       "id": 102867,
@@ -58980,7 +58980,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6W0EBxK8llEuw3DBquLkeQ"
     },
     "102868": {
       "id": 102868,
@@ -58992,7 +58992,7 @@
       "weeks_charted": 5,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2ooOZP5g8UBY5FrEYLXNY9"
     },
     "102869": {
       "id": 102869,
@@ -59004,7 +59004,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2FClBBFz6UgxJmPZ2pjPxL"
     },
     "102870": {
       "id": 102870,
@@ -59016,7 +59016,7 @@
       "weeks_charted": 17,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3fwXvpGSKwln1sCQblwFYv"
     },
     "102871": {
       "id": 102871,
@@ -59028,7 +59028,7 @@
       "weeks_charted": 9,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6fiKuWeLe4a6JzwI1emka1"
     },
     "102872": {
       "id": 102872,
@@ -59040,7 +59040,7 @@
       "weeks_charted": 13,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1cHuBnlYjeTJlkpeoqRhva"
     },
     "102873": {
       "id": 102873,
@@ -59052,7 +59052,7 @@
       "weeks_charted": 9,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6tqOTk1f64UoTFWh7Pn8QS"
     },
     "102874": {
       "id": 102874,
@@ -59064,7 +59064,7 @@
       "weeks_charted": 13,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7fTygywUi9eI9wXDFL1tmk"
     },
     "102875": {
       "id": 102875,
@@ -59076,7 +59076,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1WSRqksFgzEneGbeNnE4uz"
     },
     "102876": {
       "id": 102876,
@@ -59088,7 +59088,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3mOMn6x9RzcLG8U4TUywS3"
     },
     "102877": {
       "id": 102877,
@@ -59100,7 +59100,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:01yuMRsunwTAQs6jWIVqCd"
     },
     "102878": {
       "id": 102878,
@@ -59112,7 +59112,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1uigwk5hNV84zRd5YQQRTk"
     },
     "102879": {
       "id": 102879,
@@ -59124,7 +59124,7 @@
       "weeks_charted": 2,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4H00gR8qrY0xKsrM9xcfnF"
     },
     "102880": {
       "id": 102880,
@@ -59136,7 +59136,7 @@
       "weeks_charted": 21,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1TOKDNTBEnlhcXzvLinKgd"
     },
     "102881": {
       "id": 102881,
@@ -59148,7 +59148,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4o6BgsqLIBViaGVbx5rbRk"
     },
     "102882": {
       "id": 102882,
@@ -59160,7 +59160,7 @@
       "weeks_charted": 5,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6G7d2cbkZSaAOE0H6K1ohb"
     },
     "102883": {
       "id": 102883,
@@ -59172,7 +59172,7 @@
       "weeks_charted": 6,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4qaYqR6jSNIZv1iwo4FBEE"
     },
     "102884": {
       "id": 102884,
@@ -59184,7 +59184,7 @@
       "weeks_charted": 20,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5cxp9kjCFyJwzv3lzeX7ku"
     },
     "102885": {
       "id": 102885,
@@ -59196,7 +59196,7 @@
       "weeks_charted": 4,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:45W3OW8VgBNjb8lOpPXWeT"
     },
     "102886": {
       "id": 102886,
@@ -59208,7 +59208,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6DPj7cYrygqYHiO5kNudWv"
     },
     "102887": {
       "id": 102887,
@@ -59220,7 +59220,7 @@
       "weeks_charted": 27,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6TtwLAz0ScACjzE02HTzkx"
     },
     "102888": {
       "id": 102888,
@@ -59232,7 +59232,7 @@
       "weeks_charted": 7,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4on6L6xW4bNaNwuE49koZY"
     },
     "102889": {
       "id": 102889,
@@ -59244,7 +59244,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Bv932o67qtxnbzCHdrSHW"
     },
     "102890": {
       "id": 102890,
@@ -59256,7 +59256,7 @@
       "weeks_charted": 17,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0zXHdFLJlSrj1d6dRcoUua"
     },
     "102891": {
       "id": 102891,
@@ -59268,7 +59268,7 @@
       "weeks_charted": 9,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0sp00HSXkQyqTa6QqM0O8V"
     },
     "102892": {
       "id": 102892,
@@ -59280,7 +59280,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1EzrEOXmMH3G43AXT1y7pA"
     },
     "102893": {
       "id": 102893,
@@ -59292,7 +59292,7 @@
       "weeks_charted": 14,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:37e5DZlqxRUx3KC0RWkUbk"
     },
     "102894": {
       "id": 102894,
@@ -59304,7 +59304,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2b4zBXNlh19CYut8IJ7F42"
     },
     "102895": {
       "id": 102895,
@@ -59316,7 +59316,7 @@
       "weeks_charted": 9,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2qj9Af5g9TzJTmW1qL4rCL"
     },
     "102896": {
       "id": 102896,
@@ -59328,7 +59328,7 @@
       "weeks_charted": 18,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5gsQegOEB7admETkL6ckUL"
     },
     "102897": {
       "id": 102897,
@@ -59340,7 +59340,7 @@
       "weeks_charted": 4,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0OkcvUwB9fL16rOUyzs6a5"
     },
     "102898": {
       "id": 102898,
@@ -59352,7 +59352,7 @@
       "weeks_charted": 3,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4J51r1zHh7fgOdBinJFxzk"
     },
     "102899": {
       "id": 102899,
@@ -59364,7 +59364,7 @@
       "weeks_charted": 4,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1j7zW74t7njTdXBa9ZtlKf"
     },
     "102900": {
       "id": 102900,
@@ -59376,7 +59376,7 @@
       "weeks_charted": 6,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6c4u4Isc3P85pY4HnY5RuX"
     },
     "102901": {
       "id": 102901,
@@ -59388,7 +59388,7 @@
       "weeks_charted": 12,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4AFwnrH5atiJoAd5xS5QtR"
     },
     "102902": {
       "id": 102902,
@@ -59400,7 +59400,7 @@
       "weeks_charted": 4,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6WrUT7FOAlDscRWU7ndmyd"
     },
     "102903": {
       "id": 102903,
@@ -59412,7 +59412,7 @@
       "weeks_charted": 15,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0JiY190vktuhSGN6aqJdrt"
     },
     "102904": {
       "id": 102904,
@@ -59424,7 +59424,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2VOomzT6VavJOGBeySqaMc"
     },
     "102905": {
       "id": 102905,
@@ -59436,7 +59436,7 @@
       "weeks_charted": 6,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0TVf7uMQ2eqIysOyIFDgz7"
     },
     "102906": {
       "id": 102906,
@@ -59448,7 +59448,7 @@
       "weeks_charted": 3,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Q4CJXwabDzeeWvG0Y1WFP"
     },
     "102907": {
       "id": 102907,
@@ -59460,7 +59460,7 @@
       "weeks_charted": 3,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3JWaTd9HHzxPanLWZMkCUT"
     },
     "102908": {
       "id": 102908,
@@ -59472,7 +59472,7 @@
       "weeks_charted": 4,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7rFe0uEHuONOTavUfaxEcS"
     },
     "102909": {
       "id": 102909,
@@ -59484,7 +59484,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4jiauDAzN0YVic8gwDuxLF"
     },
     "102910": {
       "id": 102910,
@@ -59496,7 +59496,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6XXFGLlNLuMw7yPkKM2P7r"
     },
     "102911": {
       "id": 102911,
@@ -59508,7 +59508,7 @@
       "weeks_charted": 7,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6WW568HBvUWSmdH6j06MBN"
     },
     "102912": {
       "id": 102912,
@@ -59520,7 +59520,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5OWUKkLu9nesbbD0bLwcRL"
     },
     "102913": {
       "id": 102913,
@@ -59532,7 +59532,7 @@
       "weeks_charted": 5,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1mFJEBQTmfqow8Lcw2M1hO"
     },
     "102914": {
       "id": 102914,
@@ -59544,7 +59544,7 @@
       "weeks_charted": 12,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:73rXtIItWU8symwYF0bEB8"
     },
     "102915": {
       "id": 102915,
@@ -59556,7 +59556,7 @@
       "weeks_charted": 16,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:45ivXn8oNpu67DURyv5Kbt"
     },
     "102916": {
       "id": 102916,
@@ -59568,7 +59568,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:15L88QfJrY6PkcxNwDgVrS"
     },
     "102917": {
       "id": 102917,
@@ -59580,7 +59580,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:36ixYZGgMBT4swQJou4yyE"
     },
     "102918": {
       "id": 102918,
@@ -59592,7 +59592,7 @@
       "weeks_charted": 2,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7oRXWFwywI7kza7IQFuCvv"
     },
     "102919": {
       "id": 102919,
@@ -59604,7 +59604,7 @@
       "weeks_charted": 7,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:26NX1wPt1TRCH536yocd6i"
     },
     "102920": {
       "id": 102920,
@@ -59616,7 +59616,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4fixebDZAVToLbUCuEloa2"
     },
     "102921": {
       "id": 102921,
@@ -59628,7 +59628,7 @@
       "weeks_charted": 9,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0C6ZmJc4Ct2mLzZ96jFieM"
     },
     "102922": {
       "id": 102922,
@@ -59640,7 +59640,7 @@
       "weeks_charted": 2,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4feXJ5IC3avXsVW9WNFSag"
     },
     "102923": {
       "id": 102923,
@@ -59652,7 +59652,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6pAfAhSBOeNi5Tw8AfB5RQ"
     },
     "102924": {
       "id": 102924,
@@ -59664,7 +59664,7 @@
       "weeks_charted": 13,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3pCsK3zEmABgnyUApULKLY"
     },
     "102925": {
       "id": 102925,
@@ -59676,7 +59676,7 @@
       "weeks_charted": 11,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7oXLxqAhS20qXgMEPCTJ1B"
     },
     "102926": {
       "id": 102926,
@@ -59688,7 +59688,7 @@
       "weeks_charted": 3,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:60Nqv2fNO8IBvrxtbSqXwV"
     },
     "102927": {
       "id": 102927,
@@ -59700,7 +59700,7 @@
       "weeks_charted": 15,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4IDfVjI1TlB1UwlC01T4Bm"
     },
     "102928": {
       "id": 102928,
@@ -59712,7 +59712,7 @@
       "weeks_charted": 12,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0avch3EmDK0tdgtP3Nbz0W"
     },
     "102929": {
       "id": 102929,
@@ -59724,7 +59724,7 @@
       "weeks_charted": 10,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4OIeWr3CjitI9zvvf8gNuU"
     },
     "102930": {
       "id": 102930,
@@ -59736,7 +59736,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Iknne9YJ5Eau6td6nWOrU"
     },
     "102931": {
       "id": 102931,
@@ -59748,7 +59748,7 @@
       "weeks_charted": 6,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4ZMxjAYxotEebJEAR05VCv"
     },
     "102932": {
       "id": 102932,
@@ -59760,7 +59760,7 @@
       "weeks_charted": 6,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Ravsw8TmHN5wBiYPPYUFw"
     },
     "102933": {
       "id": 102933,
@@ -59772,7 +59772,7 @@
       "weeks_charted": 16,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:28ww5AUl4MVUfw4C1xlFBk"
     },
     "102934": {
       "id": 102934,
@@ -59784,7 +59784,7 @@
       "weeks_charted": 17,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:733ncRLzZQT5UtSPg1QmPc"
     },
     "102935": {
       "id": 102935,
@@ -59796,7 +59796,7 @@
       "weeks_charted": 8,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4LEYzOJySoHsLhv1MlYgEK"
     },
     "102936": {
       "id": 102936,
@@ -59808,7 +59808,7 @@
       "weeks_charted": 14,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:522GGnq0ZikjsxbiKFLy3D"
     },
     "102937": {
       "id": 102937,
@@ -59820,7 +59820,7 @@
       "weeks_charted": 1,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6H9JuHaQDNS5LcJLWEZA7F"
     },
     "102938": {
       "id": 102938,
@@ -59832,7 +59832,7 @@
       "weeks_charted": 17,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1QV6tiMFM6fSOKOGLMHYYg"
     },
     "102939": {
       "id": 102939,
@@ -59844,7 +59844,7 @@
       "weeks_charted": 6,
       "year": 2008,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3tSuRiNgJmMqmYR23dCqnR"
     },
     "102940": {
       "id": 102940,
@@ -59856,7 +59856,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3G0PaoAphGzJZbJ6VRQJhs"
     },
     "102941": {
       "id": 102941,
@@ -59868,7 +59868,7 @@
       "weeks_charted": 11,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4hrAKlxfblnG7llBEEX7TR"
     },
     "102942": {
       "id": 102942,
@@ -59880,7 +59880,7 @@
       "weeks_charted": 15,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5jzX4dWVQeBTtfBaXnMRt5"
     },
     "102943": {
       "id": 102943,
@@ -59892,7 +59892,7 @@
       "weeks_charted": 9,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2q0uakCP3ZgKFqgpVrj4Cr"
     },
     "102944": {
       "id": 102944,
@@ -59904,7 +59904,7 @@
       "weeks_charted": 19,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7zmqbdEqmQWgU2wOoBPG83"
     },
     "102945": {
       "id": 102945,
@@ -59916,7 +59916,7 @@
       "weeks_charted": 4,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:407vJkfEQMGDu1MVCWNnMX"
     },
     "102946": {
       "id": 102946,
@@ -59928,7 +59928,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:759EQM0zG0lCrcK4unLGKa"
     },
     "102947": {
       "id": 102947,
@@ -59940,7 +59940,7 @@
       "weeks_charted": 7,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1vqk04aT50lCcrP3eLCYEc"
     },
     "102948": {
       "id": 102948,
@@ -59952,7 +59952,7 @@
       "weeks_charted": 16,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7BGprWocWmRdWww8709Rd2"
     },
     "102949": {
       "id": 102949,
@@ -59964,7 +59964,7 @@
       "weeks_charted": 15,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3gmffaPWGIlIm6EUfWzMdw"
     },
     "102950": {
       "id": 102950,
@@ -59976,7 +59976,7 @@
       "weeks_charted": 14,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:41XGv6kZMaTE65uKApcY4y"
     },
     "102951": {
       "id": 102951,
@@ -59988,7 +59988,7 @@
       "weeks_charted": 20,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4RpjliD2CGFDnsddGntPaJ"
     },
     "102952": {
       "id": 102952,
@@ -60000,7 +60000,7 @@
       "weeks_charted": 10,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:285hMzLhJwHVLe9QT9qilk"
     },
     "102953": {
       "id": 102953,
@@ -60012,7 +60012,7 @@
       "weeks_charted": 4,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7jk7gqyEonmVVYahZN5zhW"
     },
     "102954": {
       "id": 102954,
@@ -60024,7 +60024,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6uq4CjBN51iCkbwrqc2xsU"
     },
     "102955": {
       "id": 102955,
@@ -60036,7 +60036,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0jLTKpj2dfpEUhWrHxg9xs"
     },
     "102956": {
       "id": 102956,
@@ -60048,7 +60048,7 @@
       "weeks_charted": 2,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5SCP1UZMfw43if0GkfYnv0"
     },
     "102957": {
       "id": 102957,
@@ -60060,7 +60060,7 @@
       "weeks_charted": 11,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:78GFbgPNq74GxZcBlUxm4n"
     },
     "102958": {
       "id": 102958,
@@ -60072,7 +60072,7 @@
       "weeks_charted": 11,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Dm32oO01YpIubCHaAtKkN"
     },
     "102959": {
       "id": 102959,
@@ -60084,7 +60084,7 @@
       "weeks_charted": 15,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4AUhWMdh85XVVGjOm5tuWn"
     },
     "102960": {
       "id": 102960,
@@ -60096,7 +60096,7 @@
       "weeks_charted": 17,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4b2CwJXlfbzH4e6OigtFrT"
     },
     "102961": {
       "id": 102961,
@@ -60108,7 +60108,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5619Ojc6t9evEEs3B7Drhe"
     },
     "102962": {
       "id": 102962,
@@ -60120,7 +60120,7 @@
       "weeks_charted": 9,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7DYl6mhpB4mtPQdp1eLR7l"
     },
     "102963": {
       "id": 102963,
@@ -60132,7 +60132,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3VoWqFkaoi4OkDF6FVlMLe"
     },
     "102964": {
       "id": 102964,
@@ -60144,7 +60144,7 @@
       "weeks_charted": 17,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1sP4Ge8cLHsYIm3kHacUGF"
     },
     "102965": {
       "id": 102965,
@@ -60156,7 +60156,7 @@
       "weeks_charted": 5,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4DhYn5K86Avvv58aoHMeNQ"
     },
     "102966": {
       "id": 102966,
@@ -60168,7 +60168,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7AzyopJ20izrs7mEeyImvX"
     },
     "102967": {
       "id": 102967,
@@ -60180,7 +60180,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Fdwln0yVHQbBe3GgNmclI"
     },
     "102968": {
       "id": 102968,
@@ -60192,7 +60192,7 @@
       "weeks_charted": 16,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:28qkNp9shSV8AQrBwxZf48"
     },
     "102969": {
       "id": 102969,
@@ -60204,7 +60204,7 @@
       "weeks_charted": 30,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0KYVxbgqJ3jLvBadFt4V97"
     },
     "102970": {
       "id": 102970,
@@ -60216,7 +60216,7 @@
       "weeks_charted": 8,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0ntQJM78wzOLVeCUAW7Y45"
     },
     "102971": {
       "id": 102971,
@@ -60228,7 +60228,7 @@
       "weeks_charted": 13,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2gnZad0pb6QtUqMLTj2AjI"
     },
     "102972": {
       "id": 102972,
@@ -60240,7 +60240,7 @@
       "weeks_charted": 10,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1D4PL9B8gOg78jiHg3FvBb"
     },
     "102973": {
       "id": 102973,
@@ -60252,7 +60252,7 @@
       "weeks_charted": 16,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4cdp9tQaBs3WIYrZWSNMak"
     },
     "102974": {
       "id": 102974,
@@ -60264,7 +60264,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0axvnhhVeNI6fZf45UGEa8"
     },
     "102975": {
       "id": 102975,
@@ -60276,7 +60276,7 @@
       "weeks_charted": 5,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0MFqTwRcuY8Ds66WXPDt9r"
     },
     "102976": {
       "id": 102976,
@@ -60288,7 +60288,7 @@
       "weeks_charted": 16,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3yMNZ1PmXMseVrWMDLt4CG"
     },
     "102977": {
       "id": 102977,
@@ -60300,7 +60300,7 @@
       "weeks_charted": 5,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6A6o549GtSLNUsX9aTKcxB"
     },
     "102978": {
       "id": 102978,
@@ -60312,7 +60312,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5UTkoeLEHv0zPy6XtKsCZK"
     },
     "102979": {
       "id": 102979,
@@ -60324,7 +60324,7 @@
       "weeks_charted": 15,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0OWvPOp8FWTZcYDhLwYs7Z"
     },
     "102980": {
       "id": 102980,
@@ -60336,7 +60336,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4nVxP2yCuLKWsr5TD18qQU"
     },
     "102981": {
       "id": 102981,
@@ -60348,7 +60348,7 @@
       "weeks_charted": 13,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6aLbghA3nVteOuJEYznHni"
     },
     "102982": {
       "id": 102982,
@@ -60360,7 +60360,7 @@
       "weeks_charted": 10,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7ItTMytYO4hyglSAn2C9xE"
     },
     "102983": {
       "id": 102983,
@@ -60372,7 +60372,7 @@
       "weeks_charted": 9,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7F0Hua1pXPhGR8Rw9rqmGu"
     },
     "102984": {
       "id": 102984,
@@ -60384,7 +60384,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3vdZPeBd7obingtyadIPQD"
     },
     "102985": {
       "id": 102985,
@@ -60396,7 +60396,7 @@
       "weeks_charted": 16,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7qSPKrzojANxSaFUakEuuX"
     },
     "102986": {
       "id": 102986,
@@ -60408,7 +60408,7 @@
       "weeks_charted": 10,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4VTqqmeNsqcHArcorz0ykT"
     },
     "102987": {
       "id": 102987,
@@ -60420,7 +60420,7 @@
       "weeks_charted": 5,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2hdy9Wt9qp7M7d0U3ossu2"
     },
     "102988": {
       "id": 102988,
@@ -60432,7 +60432,7 @@
       "weeks_charted": 7,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6H8jGKdrVKggYzP61K4tCg"
     },
     "102989": {
       "id": 102989,
@@ -60444,7 +60444,7 @@
       "weeks_charted": 18,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Wx88Mv6b9ofjKMKkdwOJd"
     },
     "102990": {
       "id": 102990,
@@ -60456,7 +60456,7 @@
       "weeks_charted": 14,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2i9Zpw8yn5jWetgpeHoh15"
     },
     "102991": {
       "id": 102991,
@@ -60468,7 +60468,7 @@
       "weeks_charted": 4,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6NgYIETQ8U72CVfkzYhK30"
     },
     "102992": {
       "id": 102992,
@@ -60480,7 +60480,7 @@
       "weeks_charted": 2,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6uBcw2MchWyFV58Bv9Ctr5"
     },
     "102993": {
       "id": 102993,
@@ -60492,7 +60492,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1WA5g79LSkxOKAEpW8nyCK"
     },
     "102994": {
       "id": 102994,
@@ -60504,7 +60504,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1HjUXKb7FKtiBRqsTE7IEB"
     },
     "102995": {
       "id": 102995,
@@ -60516,7 +60516,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5aMXFJJSGkCGGfOwomAoPJ"
     },
     "102996": {
       "id": 102996,
@@ -60528,7 +60528,7 @@
       "weeks_charted": 10,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Isdzs7S15eUIrFNS7XRZx"
     },
     "102997": {
       "id": 102997,
@@ -60540,7 +60540,7 @@
       "weeks_charted": 15,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:195u5gKS4I6FZle04gw2aR"
     },
     "102998": {
       "id": 102998,
@@ -60552,7 +60552,7 @@
       "weeks_charted": 14,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3QjVTJG0U5gLqNuNZkqDDC"
     },
     "102999": {
       "id": 102999,
@@ -60564,7 +60564,7 @@
       "weeks_charted": 10,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4g8ITnqeD4Carnp8qNxPDh"
     },
     "103000": {
       "id": 103000,
@@ -60576,7 +60576,7 @@
       "weeks_charted": 4,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2KEXZ851uGSnDKQX08xiV4"
     },
     "103001": {
       "id": 103001,
@@ -60588,7 +60588,7 @@
       "weeks_charted": 16,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0YnNPzCuZOvkKyXGrcTpjq"
     },
     "103002": {
       "id": 103002,
@@ -60600,7 +60600,7 @@
       "weeks_charted": 2,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2bDY1MUCBxOM80d6N1WE5b"
     },
     "103003": {
       "id": 103003,
@@ -60612,7 +60612,7 @@
       "weeks_charted": 12,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7dfSJbR3rGp7LUodBcJ19b"
     },
     "103004": {
       "id": 103004,
@@ -60624,7 +60624,7 @@
       "weeks_charted": 8,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7rKkQKBXfLwvqJMl5UvkN6"
     },
     "103005": {
       "id": 103005,
@@ -60636,7 +60636,7 @@
       "weeks_charted": 14,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1MQTYbCmC1IvL94JtGB33E"
     },
     "103006": {
       "id": 103006,
@@ -60648,7 +60648,7 @@
       "weeks_charted": 11,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2H1047e0oMSj10dgp7p2VG"
     },
     "103007": {
       "id": 103007,
@@ -60660,7 +60660,7 @@
       "weeks_charted": 10,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1VbsSYNXKBpjPvqddk8zjs"
     },
     "103008": {
       "id": 103008,
@@ -60672,7 +60672,7 @@
       "weeks_charted": 5,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:65E5gO8VvYvMIAU3OWwN5T"
     },
     "103009": {
       "id": 103009,
@@ -60684,7 +60684,7 @@
       "weeks_charted": 15,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4VqPOruhp5EdPBeR92t6lQ"
     },
     "103010": {
       "id": 103010,
@@ -60696,7 +60696,7 @@
       "weeks_charted": 8,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7LB045DKWqbXFVPOHconnT"
     },
     "103011": {
       "id": 103011,
@@ -60708,7 +60708,7 @@
       "weeks_charted": 16,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Rti4fhJ9IPNss7D5yaI3h"
     },
     "103012": {
       "id": 103012,
@@ -60720,7 +60720,7 @@
       "weeks_charted": 14,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2nVBEz5JPYLMiisLNtl74I"
     },
     "103013": {
       "id": 103013,
@@ -60732,7 +60732,7 @@
       "weeks_charted": 15,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6EkkLt9Zjb4uQWlRnbqpIy"
     },
     "103014": {
       "id": 103014,
@@ -60744,7 +60744,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4cR4gpeLWhFgRO780LMVKe"
     },
     "103015": {
       "id": 103015,
@@ -60756,7 +60756,7 @@
       "weeks_charted": 3,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:33YLYgvtvj2RTab6aOUNpb"
     },
     "103016": {
       "id": 103016,
@@ -60768,7 +60768,7 @@
       "weeks_charted": 2,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:62g2Nt19g0W6HSnQQaZeay"
     },
     "103017": {
       "id": 103017,
@@ -60780,7 +60780,7 @@
       "weeks_charted": 14,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1THnbYBUcw2ieEz9NDTbYE"
     },
     "103018": {
       "id": 103018,
@@ -60792,7 +60792,7 @@
       "weeks_charted": 12,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6qSfTvhB0JSNReNODPQZPP"
     },
     "103019": {
       "id": 103019,
@@ -60804,7 +60804,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0JK2DUkGdKL9EIwkFd5gjx"
     },
     "103020": {
       "id": 103020,
@@ -60816,7 +60816,7 @@
       "weeks_charted": 9,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1S020CGF9z2QdzxmagpOTO"
     },
     "103021": {
       "id": 103021,
@@ -60828,7 +60828,7 @@
       "weeks_charted": 8,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7AlmVLuvYCTYRpn9PNoK5z"
     },
     "103022": {
       "id": 103022,
@@ -60840,7 +60840,7 @@
       "weeks_charted": 2,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4l9fZ75WzPZlAIkqJIWlo8"
     },
     "103023": {
       "id": 103023,
@@ -60852,7 +60852,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0uNMe6UEqe9uGazPgUGnLD"
     },
     "103024": {
       "id": 103024,
@@ -60864,7 +60864,7 @@
       "weeks_charted": 5,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:22zucf2g4wKulQFOeTJSia"
     },
     "103025": {
       "id": 103025,
@@ -60876,7 +60876,7 @@
       "weeks_charted": 4,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4urxRqBRiaH0i20OKBsgxc"
     },
     "103026": {
       "id": 103026,
@@ -60888,7 +60888,7 @@
       "weeks_charted": 14,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:070tyIy4vemQgk8CL0oas0"
     },
     "103027": {
       "id": 103027,
@@ -60900,7 +60900,7 @@
       "weeks_charted": 6,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4CYHicD2NvZ1kMNHTY7HUj"
     },
     "103028": {
       "id": 103028,
@@ -60912,7 +60912,7 @@
       "weeks_charted": 19,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:247sPri71jTKZpLPAd42DN"
     },
     "103029": {
       "id": 103029,
@@ -60924,7 +60924,7 @@
       "weeks_charted": 3,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0fw7GNhguLX3KI0eoLioDS"
     },
     "103030": {
       "id": 103030,
@@ -60936,7 +60936,7 @@
       "weeks_charted": 3,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4ttCCNTaRSKmgFYOmNQzsO"
     },
     "103031": {
       "id": 103031,
@@ -60948,7 +60948,7 @@
       "weeks_charted": 14,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7jitSubqkCwYHDlKX5xHn0"
     },
     "103032": {
       "id": 103032,
@@ -60960,7 +60960,7 @@
       "weeks_charted": 23,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:41Z1mayadcm7HrAoGN7mms"
     },
     "103033": {
       "id": 103033,
@@ -60972,7 +60972,7 @@
       "weeks_charted": 9,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2tvdM8kapBOolD5Ek1xOPa"
     },
     "103034": {
       "id": 103034,
@@ -60984,7 +60984,7 @@
       "weeks_charted": 4,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0OPyDgTRuIdCJ9B4bYSths"
     },
     "103035": {
       "id": 103035,
@@ -60996,7 +60996,7 @@
       "weeks_charted": 7,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1nkRwGuEnySwY2PbdT25Hb"
     },
     "103036": {
       "id": 103036,
@@ -61008,7 +61008,7 @@
       "weeks_charted": 13,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1mpKC6pwtjuhsc3uv7FZ3h"
     },
     "103037": {
       "id": 103037,
@@ -61020,7 +61020,7 @@
       "weeks_charted": 9,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6GPpocnUJbzMNMTJDLYCim"
     },
     "103038": {
       "id": 103038,
@@ -61032,7 +61032,7 @@
       "weeks_charted": 9,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7GemvgI7Iq1yfstGvPqzzM"
     },
     "103039": {
       "id": 103039,
@@ -61044,7 +61044,7 @@
       "weeks_charted": 15,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0It6VJoMAare1zdV2wxqZq"
     },
     "103040": {
       "id": 103040,
@@ -61056,7 +61056,7 @@
       "weeks_charted": 8,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ueh54LYmh5QA5pdFDRDJU"
     },
     "103041": {
       "id": 103041,
@@ -61068,7 +61068,7 @@
       "weeks_charted": 4,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4YZVIxFzSczuat3hHSKMif"
     },
     "103042": {
       "id": 103042,
@@ -61080,7 +61080,7 @@
       "weeks_charted": 13,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2jrsywnNPJiJRIP2u21hmD"
     },
     "103043": {
       "id": 103043,
@@ -61092,7 +61092,7 @@
       "weeks_charted": 20,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0e3frvfkgOk196DRCs2rV4"
     },
     "103044": {
       "id": 103044,
@@ -61104,7 +61104,7 @@
       "weeks_charted": 2,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:26obdcBZsWOo1qtqTKCYBs"
     },
     "103045": {
       "id": 103045,
@@ -61116,7 +61116,7 @@
       "weeks_charted": 24,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5GXohu4ByvtEJW50LbeBYt"
     },
     "103046": {
       "id": 103046,
@@ -61128,7 +61128,7 @@
       "weeks_charted": 13,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6rfSFT783GbVKBZUwjoUsg"
     },
     "103047": {
       "id": 103047,
@@ -61140,7 +61140,7 @@
       "weeks_charted": 5,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4qgCMx1mEPbAeMmnEoHeIR"
     },
     "103048": {
       "id": 103048,
@@ -61152,7 +61152,7 @@
       "weeks_charted": 2,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7yuWHdSLrknIYMgbkdmPOS"
     },
     "103049": {
       "id": 103049,
@@ -61164,7 +61164,7 @@
       "weeks_charted": 7,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:39ucNN66RjxrylWe1EeEMn"
     },
     "103050": {
       "id": 103050,
@@ -61176,7 +61176,7 @@
       "weeks_charted": 2,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2TXUjpTBXJWPL1BCAXJWfI"
     },
     "103051": {
       "id": 103051,
@@ -61188,7 +61188,7 @@
       "weeks_charted": 1,
       "year": 2009,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0EnsSHe4qMzN0r9QoGLSWp"
     },
     "103052": {
       "id": 103052,
@@ -61200,7 +61200,7 @@
       "weeks_charted": 11,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4khu91lkXFEebpfrUs3f81"
     },
     "103053": {
       "id": 103053,
@@ -61212,7 +61212,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7K9d0dwwP5C0IokOrtt1yS"
     },
     "103054": {
       "id": 103054,
@@ -61224,7 +61224,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6DlqFWk8pSJI0B8NevZv6O"
     },
     "103055": {
       "id": 103055,
@@ -61236,7 +61236,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0tOpMcr2I01zrr4lyVUHJk"
     },
     "103056": {
       "id": 103056,
@@ -61248,7 +61248,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3KsatAMRt1a7iryhWt5I8U"
     },
     "103057": {
       "id": 103057,
@@ -61260,7 +61260,7 @@
       "weeks_charted": 8,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6zQlRd6tvEVJm59P8PMj7o"
     },
     "103058": {
       "id": 103058,
@@ -61272,7 +61272,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6mmtxbG5pzkrJ0BrSdg9uW"
     },
     "103059": {
       "id": 103059,
@@ -61284,7 +61284,7 @@
       "weeks_charted": 12,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5JcRh3VaWtyoXFeSrmwhgd"
     },
     "103060": {
       "id": 103060,
@@ -61296,7 +61296,7 @@
       "weeks_charted": 6,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:49QoMrSYNwq59fcL7YWgWT"
     },
     "103061": {
       "id": 103061,
@@ -61308,7 +61308,7 @@
       "weeks_charted": 20,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5xPn6GEG5GnkRBVqaV11ld"
     },
     "103062": {
       "id": 103062,
@@ -61320,7 +61320,7 @@
       "weeks_charted": 6,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5XRHGXut00SrJUFmcn2lQF"
     },
     "103063": {
       "id": 103063,
@@ -61332,7 +61332,7 @@
       "weeks_charted": 23,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2HkbPwcNRj4KXTOythLyLi"
     },
     "103064": {
       "id": 103064,
@@ -61344,7 +61344,7 @@
       "weeks_charted": 18,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:58VEJipLB3CE1VtBWA1p1q"
     },
     "103065": {
       "id": 103065,
@@ -61356,7 +61356,7 @@
       "weeks_charted": 17,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ECqOuPCCIEmV2EzTRCoeu"
     },
     "103066": {
       "id": 103066,
@@ -61368,7 +61368,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7zZV0st7iiQSz5Rlarl77U"
     },
     "103067": {
       "id": 103067,
@@ -61380,7 +61380,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Ty7ZN4SVAhsLLlJYbUg2H"
     },
     "103068": {
       "id": 103068,
@@ -61392,7 +61392,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0J3Byk1w48wfuYOExLfdEl"
     },
     "103069": {
       "id": 103069,
@@ -61404,7 +61404,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6c7xMMgjA1JJ2ahOgEvgUO"
     },
     "103070": {
       "id": 103070,
@@ -61416,7 +61416,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3HgCb6lSTWjEAnWFRdvIMw"
     },
     "103071": {
       "id": 103071,
@@ -61428,7 +61428,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0TQMrN1R7JNixCnjrNJsLd"
     },
     "103072": {
       "id": 103072,
@@ -61440,7 +61440,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1C2QJNTmsTxCDBuIgai8QV"
     },
     "103073": {
       "id": 103073,
@@ -61452,7 +61452,7 @@
       "weeks_charted": 14,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:60jzFy6Nn4M0iD1d94oteF"
     },
     "103074": {
       "id": 103074,
@@ -61464,7 +61464,7 @@
       "weeks_charted": 22,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1N1vzLSC0Yy6y3tCKreeYf"
     },
     "103075": {
       "id": 103075,
@@ -61476,7 +61476,7 @@
       "weeks_charted": 11,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ssXFV0eFKU98rhDEHuCLR"
     },
     "103076": {
       "id": 103076,
@@ -61488,7 +61488,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4tpBNDfGcKSOBZWYP4Flbv"
     },
     "103077": {
       "id": 103077,
@@ -61500,7 +61500,7 @@
       "weeks_charted": 5,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6BU1RZexmvJcBjgagVVt3M"
     },
     "103078": {
       "id": 103078,
@@ -61512,7 +61512,7 @@
       "weeks_charted": 20,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2rDwdvBma1O1eLzo29p2cr"
     },
     "103079": {
       "id": 103079,
@@ -61524,7 +61524,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5VVWJMuAA5AifiPHOC0V1A"
     },
     "103080": {
       "id": 103080,
@@ -61536,7 +61536,7 @@
       "weeks_charted": 22,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Xf4RoFpi7n06ppsGKbxiq"
     },
     "103081": {
       "id": 103081,
@@ -61548,7 +61548,7 @@
       "weeks_charted": 6,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6SPleeloh2b7BMTW51avUx"
     },
     "103082": {
       "id": 103082,
@@ -61560,7 +61560,7 @@
       "weeks_charted": 20,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5s8odFffvmlKcKKNgKly41"
     },
     "103083": {
       "id": 103083,
@@ -61572,7 +61572,7 @@
       "weeks_charted": 8,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4rtKkhvmZZ2ZlbRvn9yBPH"
     },
     "103084": {
       "id": 103084,
@@ -61584,7 +61584,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6N7kziqmZhXFhrCW9qVnwv"
     },
     "103085": {
       "id": 103085,
@@ -61596,7 +61596,7 @@
       "weeks_charted": 6,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0TIgM6L2db1fqqgdB8clhI"
     },
     "103086": {
       "id": 103086,
@@ -61608,7 +61608,7 @@
       "weeks_charted": 13,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7l48Cu4RTvLVEb4fsk3Emp"
     },
     "103087": {
       "id": 103087,
@@ -61620,7 +61620,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3MpGPd40TIkYmVmM8pr7f0"
     },
     "103088": {
       "id": 103088,
@@ -61632,7 +61632,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4DT2S8N29NwxVAQFy1CW5E"
     },
     "103089": {
       "id": 103089,
@@ -61644,7 +61644,7 @@
       "weeks_charted": 13,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4iMu9le3ytNO3tvgVpQANx"
     },
     "103090": {
       "id": 103090,
@@ -61656,7 +61656,7 @@
       "weeks_charted": 8,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:360UM2DaiHZPRu0EsrOvMp"
     },
     "103091": {
       "id": 103091,
@@ -61668,7 +61668,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3eMCHbTOXcttMLbWV9x3jv"
     },
     "103092": {
       "id": 103092,
@@ -61680,7 +61680,7 @@
       "weeks_charted": 18,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7h70RTLbnhDyPGXjl3iEhh"
     },
     "103093": {
       "id": 103093,
@@ -61692,7 +61692,7 @@
       "weeks_charted": 16,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0v9FkAlL1xMsNbboRWiSSL"
     },
     "103094": {
       "id": 103094,
@@ -61704,7 +61704,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3XJtlzhTO9X9Rizv7ZQf46"
     },
     "103095": {
       "id": 103095,
@@ -61716,7 +61716,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6coeAAWVpoquNiNVONLojL"
     },
     "103096": {
       "id": 103096,
@@ -61728,7 +61728,7 @@
       "weeks_charted": 14,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6St9lR6dhV2tpCNVz7qfrS"
     },
     "103097": {
       "id": 103097,
@@ -61740,7 +61740,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2M9ULmQwTaTGmAdXaXpfz5"
     },
     "103098": {
       "id": 103098,
@@ -61752,7 +61752,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:52ROZrnN97z02IMEMmZZGD"
     },
     "103099": {
       "id": 103099,
@@ -61764,7 +61764,7 @@
       "weeks_charted": 6,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5sUH8wl6gmwKETAbgE6FBp"
     },
     "103100": {
       "id": 103100,
@@ -61776,7 +61776,7 @@
       "weeks_charted": 12,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2x8rDL2Two3J91jIIJbKoR"
     },
     "103101": {
       "id": 103101,
@@ -61788,7 +61788,7 @@
       "weeks_charted": 11,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:55YqwT8BH8alblsZ10zVIO"
     },
     "103102": {
       "id": 103102,
@@ -61800,7 +61800,7 @@
       "weeks_charted": 17,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1DBYL5G41ZeIxvEThaSGtW"
     },
     "103103": {
       "id": 103103,
@@ -61812,7 +61812,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3gYHMSi0QXprEALlsYDgF5"
     },
     "103104": {
       "id": 103104,
@@ -61824,7 +61824,7 @@
       "weeks_charted": 22,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1HHeOs6zRdF8Ck58easiAY"
     },
     "103105": {
       "id": 103105,
@@ -61836,7 +61836,7 @@
       "weeks_charted": 10,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0pakiWeYJcqrqka4SAaqa6"
     },
     "103106": {
       "id": 103106,
@@ -61848,7 +61848,7 @@
       "weeks_charted": 16,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:50ekOEDFFoCVOuSenml1xt"
     },
     "103107": {
       "id": 103107,
@@ -61860,7 +61860,7 @@
       "weeks_charted": 5,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5697ErCcvg1qESerj1yTMr"
     },
     "103108": {
       "id": 103108,
@@ -61872,7 +61872,7 @@
       "weeks_charted": 11,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0CxVsvYWgKYjjyH9DVX9m6"
     },
     "103109": {
       "id": 103109,
@@ -61884,7 +61884,7 @@
       "weeks_charted": 17,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0FTPlhcFo8P9MBnemM3oXA"
     },
     "103110": {
       "id": 103110,
@@ -61896,7 +61896,7 @@
       "weeks_charted": 5,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:485RAkVJ0pbneJk8yQwFq6"
     },
     "103111": {
       "id": 103111,
@@ -61908,7 +61908,7 @@
       "weeks_charted": 9,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6T3s7ampukGovU7qXcrgUM"
     },
     "103112": {
       "id": 103112,
@@ -61920,7 +61920,7 @@
       "weeks_charted": 9,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:02rnY5hSAVWI1a0jP6T9Ma"
     },
     "103113": {
       "id": 103113,
@@ -61932,7 +61932,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1YuOpTPh7NUMdbplquz1s7"
     },
     "103114": {
       "id": 103114,
@@ -61944,7 +61944,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7HacCTm33hZYYN8DXpCYuG"
     },
     "103115": {
       "id": 103115,
@@ -61956,7 +61956,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7cEJ59ugy1GmP7G4bJgESg"
     },
     "103116": {
       "id": 103116,
@@ -61968,7 +61968,7 @@
       "weeks_charted": 25,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:57wQPQnNjbf6ltxfyDyefN"
     },
     "103117": {
       "id": 103117,
@@ -61980,7 +61980,7 @@
       "weeks_charted": 8,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4RwaOAGKnPdTly8XKXFeyH"
     },
     "103118": {
       "id": 103118,
@@ -61992,7 +61992,7 @@
       "weeks_charted": 12,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3cEFjFKYqGFIWd5vBWWEz2"
     },
     "103119": {
       "id": 103119,
@@ -62004,7 +62004,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:706iGZj8x9dkBrH25EiNCA"
     },
     "103120": {
       "id": 103120,
@@ -62016,7 +62016,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:37dYAkMa4lzRCH6kDbMT1L"
     },
     "103121": {
       "id": 103121,
@@ -62028,7 +62028,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:650EH4b9pcPVTmqfc9hyyZ"
     },
     "103122": {
       "id": 103122,
@@ -62040,7 +62040,7 @@
       "weeks_charted": 23,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1zmkspvQHwlpNMGC4WmwCh"
     },
     "103123": {
       "id": 103123,
@@ -62052,7 +62052,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:63Tl9k1sH8tznn3bqoMuyF"
     },
     "103124": {
       "id": 103124,
@@ -62064,7 +62064,7 @@
       "weeks_charted": 5,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1bq6XxdA59f5qJS5mw67Sc"
     },
     "103125": {
       "id": 103125,
@@ -62076,7 +62076,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6MCfUj0VNp9LInHL1w2MGh"
     },
     "103126": {
       "id": 103126,
@@ -62088,7 +62088,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4icNLSquKZp6e0iEkBn9RP"
     },
     "103127": {
       "id": 103127,
@@ -62100,7 +62100,7 @@
       "weeks_charted": 8,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5DoRr7OtRa4k0Osw1H1R66"
     },
     "103128": {
       "id": 103128,
@@ -62112,7 +62112,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2K46dZmVv5Aake5Uk7Ce44"
     },
     "103129": {
       "id": 103129,
@@ -62124,7 +62124,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2qShDoUx6MHbyGg7h6JBvd"
     },
     "103130": {
       "id": 103130,
@@ -62136,7 +62136,7 @@
       "weeks_charted": 18,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3gXxpp7y7EAOg4PVqqGCAb"
     },
     "103131": {
       "id": 103131,
@@ -62148,7 +62148,7 @@
       "weeks_charted": 10,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5WLhAmEGwePI2RD9ZECTw7"
     },
     "103132": {
       "id": 103132,
@@ -62160,7 +62160,7 @@
       "weeks_charted": 8,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Fh1qxNRrwMQjgRewoYdyX"
     },
     "103133": {
       "id": 103133,
@@ -62172,7 +62172,7 @@
       "weeks_charted": 12,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO"
     },
     "103134": {
       "id": 103134,
@@ -62184,7 +62184,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5YZd0Gj1GwXsAjgXoEInlX"
     },
     "103135": {
       "id": 103135,
@@ -62196,7 +62196,7 @@
       "weeks_charted": 10,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2pxpJ9lmbqPEIk3M7ezLR0"
     },
     "103136": {
       "id": 103136,
@@ -62208,7 +62208,7 @@
       "weeks_charted": 31,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0QNljrJHmTEW6fyzeuMNt6"
     },
     "103137": {
       "id": 103137,
@@ -62220,7 +62220,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0QUxMVh4L1TGvont1eQ859"
     },
     "103138": {
       "id": 103138,
@@ -62232,7 +62232,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7oL13WHjhUFhVq9POP7qfC"
     },
     "103139": {
       "id": 103139,
@@ -62244,7 +62244,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1jRcvjVdi3MVJZxAWuxYws"
     },
     "103140": {
       "id": 103140,
@@ -62256,7 +62256,7 @@
       "weeks_charted": 6,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4lYKuF88iTBrppJoq03ujE"
     },
     "103141": {
       "id": 103141,
@@ -62268,7 +62268,7 @@
       "weeks_charted": 6,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Dd3A5e9TfXp2p9tcqG1iH"
     },
     "103142": {
       "id": 103142,
@@ -62280,7 +62280,7 @@
       "weeks_charted": 16,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6v6fjgLfeQcZz5ayWgWtDg"
     },
     "103143": {
       "id": 103143,
@@ -62292,7 +62292,7 @@
       "weeks_charted": 18,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0GYIK5kjgt8sN5ldKd1kWW"
     },
     "103144": {
       "id": 103144,
@@ -62304,7 +62304,7 @@
       "weeks_charted": 15,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3jIhvDIrRe6T40dbXcBDu0"
     },
     "103145": {
       "id": 103145,
@@ -62316,7 +62316,7 @@
       "weeks_charted": 21,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1gv4xPanImH17bKZ9rOveR"
     },
     "103146": {
       "id": 103146,
@@ -62328,7 +62328,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6u26jPIXAoY8XiaueQbI1r"
     },
     "103147": {
       "id": 103147,
@@ -62340,7 +62340,7 @@
       "weeks_charted": 15,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i"
     },
     "103148": {
       "id": 103148,
@@ -62352,7 +62352,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4f7EYqlJqZQWRjvreKhEID"
     },
     "103149": {
       "id": 103149,
@@ -62364,7 +62364,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4gGNitZelwNqNbMYnxPt7S"
     },
     "103150": {
       "id": 103150,
@@ -62376,7 +62376,7 @@
       "weeks_charted": 15,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3FXgxgsvUbufvvGfZnBXVU"
     },
     "103151": {
       "id": 103151,
@@ -62388,7 +62388,7 @@
       "weeks_charted": 10,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5m5TRf7ggoguXtcXQGprN4"
     },
     "103152": {
       "id": 103152,
@@ -62400,7 +62400,7 @@
       "weeks_charted": 12,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:71R6zJsrF3ffc3TBFHfivX"
     },
     "103153": {
       "id": 103153,
@@ -62412,7 +62412,7 @@
       "weeks_charted": 17,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3UsORjfA4reoUQMyiV4v34"
     },
     "103154": {
       "id": 103154,
@@ -62424,7 +62424,7 @@
       "weeks_charted": 5,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6ez71xcTPNahisSlb1NbLD"
     },
     "103155": {
       "id": 103155,
@@ -62436,7 +62436,7 @@
       "weeks_charted": 8,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:53O94hmaGAGKDnIaL8d6po"
     },
     "103156": {
       "id": 103156,
@@ -62448,7 +62448,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:21iJENV4xqHEUtoHUAwHL0"
     },
     "103157": {
       "id": 103157,
@@ -62460,7 +62460,7 @@
       "weeks_charted": 10,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "103158": {
       "id": 103158,
@@ -62472,7 +62472,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0qIGITJ9NTSgJbnphiMIhs"
     },
     "103159": {
       "id": 103159,
@@ -62484,7 +62484,7 @@
       "weeks_charted": 21,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4NcyIbs7Qede1FbV9IZdcl"
     },
     "103160": {
       "id": 103160,
@@ -62496,7 +62496,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7K89YBfukxKcrm4hOVKQpk"
     },
     "103161": {
       "id": 103161,
@@ -62508,7 +62508,7 @@
       "weeks_charted": 9,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2a3U3GTCvrcma7wetBtOpi"
     },
     "103162": {
       "id": 103162,
@@ -62520,7 +62520,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:47Slg6LuqLaX0VodpSCvPt"
     },
     "103163": {
       "id": 103163,
@@ -62532,7 +62532,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:013JF257NRW6bhtKeFTTTG"
     },
     "103164": {
       "id": 103164,
@@ -62544,7 +62544,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:782lNGn2rEHVn8JomdtRA7"
     },
     "103165": {
       "id": 103165,
@@ -62556,7 +62556,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Yg2w0P29BBBMixyeNjDtj"
     },
     "103166": {
       "id": 103166,
@@ -62568,7 +62568,7 @@
       "weeks_charted": 3,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4hAkwE0k1MlzDoOIf9J8ty"
     },
     "103167": {
       "id": 103167,
@@ -62580,7 +62580,7 @@
       "weeks_charted": 1,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2CXHuIPZi7fnD52HPZU8qr"
     },
     "103168": {
       "id": 103168,
@@ -62592,7 +62592,7 @@
       "weeks_charted": 2,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0ZQYgvHiw9zy8m7yOVNIpG"
     },
     "103169": {
       "id": 103169,
@@ -62604,7 +62604,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0nOFRbiftNe7TTPtpobeXt"
     },
     "103170": {
       "id": 103170,
@@ -62616,7 +62616,7 @@
       "weeks_charted": 6,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:41SezfHlFVaIT5gtDS7BgJ"
     },
     "103171": {
       "id": 103171,
@@ -62628,7 +62628,7 @@
       "weeks_charted": 33,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4gWApF6eHuGkRpliThlWL1"
     },
     "103172": {
       "id": 103172,
@@ -62640,7 +62640,7 @@
       "weeks_charted": 7,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3bFNhyO3XwyUppUUWkGByo"
     },
     "103173": {
       "id": 103173,
@@ -62652,7 +62652,7 @@
       "weeks_charted": 4,
       "year": 2010,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2XlSw8Rv9pfMKJXWVJi2LH"
     },
     "103174": {
       "id": 103174,
@@ -62664,7 +62664,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7Dyq1bhhjknLKEGg4k5NLr"
     },
     "103175": {
       "id": 103175,
@@ -62676,7 +62676,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1xnPVj6jmYCedHG37IE2cc"
     },
     "103176": {
       "id": 103176,
@@ -62688,7 +62688,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Sg76DucqMG1vukNHiR9Is"
     },
     "103177": {
       "id": 103177,
@@ -62700,7 +62700,7 @@
       "weeks_charted": 20,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:73ZCyrTwTbkSVPXMMIeOQu"
     },
     "103178": {
       "id": 103178,
@@ -62712,7 +62712,7 @@
       "weeks_charted": 17,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1EOWf8bsePF6QtiDUAclrJ"
     },
     "103179": {
       "id": 103179,
@@ -62724,7 +62724,7 @@
       "weeks_charted": 9,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1X4Ms1Iti1yLYZQKlK4Ug6"
     },
     "103180": {
       "id": 103180,
@@ -62736,7 +62736,7 @@
       "weeks_charted": 16,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0aBKFfdyOD1Ttvgv0cfjjJ"
     },
     "103181": {
       "id": 103181,
@@ -62748,7 +62748,7 @@
       "weeks_charted": 15,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6T1JJNqIrGiKi4sZgFwQkV"
     },
     "103182": {
       "id": 103182,
@@ -62760,7 +62760,7 @@
       "weeks_charted": 13,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6QdLX8yofFCuGJQztOOXrc"
     },
     "103183": {
       "id": 103183,
@@ -62772,7 +62772,7 @@
       "weeks_charted": 14,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3uht5bVvbiE54iQwtrab1e"
     },
     "103184": {
       "id": 103184,
@@ -62784,7 +62784,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Qz2ne7CtUdQF8GgRsfdoX"
     },
     "103185": {
       "id": 103185,
@@ -62796,7 +62796,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:07ybo7kshtjW1gjhg1cJrD"
     },
     "103186": {
       "id": 103186,
@@ -62808,7 +62808,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3FrX3mx8qq7SZX2NYbzDoj"
     },
     "103187": {
       "id": 103187,
@@ -62820,7 +62820,7 @@
       "weeks_charted": 4,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4OSBTYWVwsQhGLF9NHvIbR"
     },
     "103188": {
       "id": 103188,
@@ -62832,7 +62832,7 @@
       "weeks_charted": 11,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:01OdJDcMinTWXrh0sGp0vj"
     },
     "103189": {
       "id": 103189,
@@ -62844,7 +62844,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6D5yBkdvADvkZNMar2mONb"
     },
     "103190": {
       "id": 103190,
@@ -62856,7 +62856,7 @@
       "weeks_charted": 9,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:30XU4suKzCeoCK9YFzdufg"
     },
     "103191": {
       "id": 103191,
@@ -62868,7 +62868,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6bTHdW0zUxeZTl33UiGevF"
     },
     "103192": {
       "id": 103192,
@@ -62880,7 +62880,7 @@
       "weeks_charted": 10,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0hokaj2XqpsC8EDj6l3SET"
     },
     "103193": {
       "id": 103193,
@@ -62892,7 +62892,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4NxVEFUscx6eYVm9uEJk0c"
     },
     "103194": {
       "id": 103194,
@@ -62904,7 +62904,7 @@
       "weeks_charted": 22,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1ZE6xBeRPrqnGiuw5JXqDM"
     },
     "103195": {
       "id": 103195,
@@ -62916,7 +62916,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0KfojSxuRV0D30S7kCwzNn"
     },
     "103196": {
       "id": 103196,
@@ -62928,7 +62928,7 @@
       "weeks_charted": 17,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5JyHpMmZt9rXTolIX9NZLR"
     },
     "103197": {
       "id": 103197,
@@ -62940,7 +62940,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Wn8rhGPIyzPFdOYSJgbCt"
     },
     "103198": {
       "id": 103198,
@@ -62952,7 +62952,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4XBtYPGMAYJkuJu2w4pmYl"
     },
     "103199": {
       "id": 103199,
@@ -62964,7 +62964,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6WY9vKKWkVHdbe0Vq5YvIc"
     },
     "103200": {
       "id": 103200,
@@ -62976,7 +62976,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4t5IJnRnSAh4QjjYpAq1Wv"
     },
     "103201": {
       "id": 103201,
@@ -62988,7 +62988,7 @@
       "weeks_charted": 12,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2MgtnIHiVeCthgAEVcOAQk"
     },
     "103202": {
       "id": 103202,
@@ -63000,7 +63000,7 @@
       "weeks_charted": 8,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7ySUcLPVX7KudhnmNcgY2D"
     },
     "103203": {
       "id": 103203,
@@ -63012,7 +63012,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:55hOn2rl3tx24cgYneShKz"
     },
     "103204": {
       "id": 103204,
@@ -63024,7 +63024,7 @@
       "weeks_charted": 10,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0R7YVi7w41Dr9jU5vblAok"
     },
     "103205": {
       "id": 103205,
@@ -63036,7 +63036,7 @@
       "weeks_charted": 13,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6uMPJ3NmW8FfqqNwqjUHrB"
     },
     "103206": {
       "id": 103206,
@@ -63048,7 +63048,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:65R6eYjoAxdtFyB1iXMM15"
     },
     "103207": {
       "id": 103207,
@@ -63060,7 +63060,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3pYDZTJM2tVBUhIRifWVzI"
     },
     "103208": {
       "id": 103208,
@@ -63072,7 +63072,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:79z3DWIKk409Nho76vQWQd"
     },
     "103209": {
       "id": 103209,
@@ -63084,7 +63084,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2kwsGRuxL0WvLdp4hNIEeq"
     },
     "103210": {
       "id": 103210,
@@ -63096,7 +63096,7 @@
       "weeks_charted": 5,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5vOnpBchrmxIzvFEOa7o1M"
     },
     "103211": {
       "id": 103211,
@@ -63108,7 +63108,7 @@
       "weeks_charted": 5,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:25I52Jh0WUyN2yYHRIjAF3"
     },
     "103212": {
       "id": 103212,
@@ -63120,7 +63120,7 @@
       "weeks_charted": 14,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0yI5rX9iTeOOzpHCpST8eX"
     },
     "103213": {
       "id": 103213,
@@ -63132,7 +63132,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3cxGXhJjZ1tzLUfuGEU8h3"
     },
     "103214": {
       "id": 103214,
@@ -63144,7 +63144,7 @@
       "weeks_charted": 15,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:003w18ZOW7ts0B8Yhzsjs1"
     },
     "103215": {
       "id": 103215,
@@ -63156,7 +63156,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:57F9YK8stWXOBJldwezVLE"
     },
     "103216": {
       "id": 103216,
@@ -63168,7 +63168,7 @@
       "weeks_charted": 25,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:34kqcXuNLg9w8YH8IhvrdZ"
     },
     "103217": {
       "id": 103217,
@@ -63180,7 +63180,7 @@
       "weeks_charted": 11,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0PhL7aecZxj0wLXIdjmNft"
     },
     "103218": {
       "id": 103218,
@@ -63192,7 +63192,7 @@
       "weeks_charted": 11,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0R9phRB2hlF6UBM9zHgkKQ"
     },
     "103219": {
       "id": 103219,
@@ -63204,7 +63204,7 @@
       "weeks_charted": 11,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5H6eTrcDfPAHXAHWrR7Q5M"
     },
     "103220": {
       "id": 103220,
@@ -63216,7 +63216,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5rPWw17Q2LBJhsUciaaPSg"
     },
     "103221": {
       "id": 103221,
@@ -63228,7 +63228,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3JA9Jsuxr4xgHXEawAdCp4"
     },
     "103222": {
       "id": 103222,
@@ -63240,7 +63240,7 @@
       "weeks_charted": 8,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:020f8UH9oMEniiQHJBwe3j"
     },
     "103223": {
       "id": 103223,
@@ -63252,7 +63252,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:38iU2jg98IZZEIJPrP7aWD"
     },
     "103224": {
       "id": 103224,
@@ -63264,7 +63264,7 @@
       "weeks_charted": 13,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2aBnB4O15IXOO9XsFcplhl"
     },
     "103225": {
       "id": 103225,
@@ -63276,7 +63276,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1aHRZ1RIqGFbuqDaiC5s6N"
     },
     "103226": {
       "id": 103226,
@@ -63288,7 +63288,7 @@
       "weeks_charted": 5,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4MnBy46AoHUDMwdadLjsv1"
     },
     "103227": {
       "id": 103227,
@@ -63300,7 +63300,7 @@
       "weeks_charted": 5,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:10omAUT0gTULeLbMx72IV2"
     },
     "103228": {
       "id": 103228,
@@ -63312,7 +63312,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3rCbaHzy3bjpysaiyBzPh1"
     },
     "103229": {
       "id": 103229,
@@ -63324,7 +63324,7 @@
       "weeks_charted": 15,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Iw1FkPC0KJb57mDk56EGw"
     },
     "103230": {
       "id": 103230,
@@ -63336,7 +63336,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0kU0RsFmo3ydwrjOTn1KXH"
     },
     "103231": {
       "id": 103231,
@@ -63348,7 +63348,7 @@
       "weeks_charted": 5,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1rQTMVuuEa5PAcWdzAkZ3L"
     },
     "103232": {
       "id": 103232,
@@ -63360,7 +63360,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5vOvUwIMHqyhwU7A4nM0Jc"
     },
     "103233": {
       "id": 103233,
@@ -63372,7 +63372,7 @@
       "weeks_charted": 10,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7dyJ9FIcaPMFEnsILJM8S2"
     },
     "103234": {
       "id": 103234,
@@ -63384,7 +63384,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4YZF4SbgaLQAdPN9ZWYMJe"
     },
     "103235": {
       "id": 103235,
@@ -63396,7 +63396,7 @@
       "weeks_charted": 16,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3di5hcvxxciiqwMH1jarhY"
     },
     "103236": {
       "id": 103236,
@@ -63408,7 +63408,7 @@
       "weeks_charted": 12,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4N7C1iw0i047Wx0L4esLp8"
     },
     "103237": {
       "id": 103237,
@@ -63420,7 +63420,7 @@
       "weeks_charted": 5,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4sYFG8Rz3TDYucZgGbtqSY"
     },
     "103238": {
       "id": 103238,
@@ -63432,7 +63432,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1rRB4YTF5XvVE810zgpWLc"
     },
     "103239": {
       "id": 103239,
@@ -63444,7 +63444,7 @@
       "weeks_charted": 12,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3KoTtGEDiBwUWzdRQVh9lh"
     },
     "103240": {
       "id": 103240,
@@ -63456,7 +63456,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4ALVN9ENCAtGGebJKrvc7P"
     },
     "103241": {
       "id": 103241,
@@ -63468,7 +63468,7 @@
       "weeks_charted": 17,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:222uPWM6PslwVgi1ZyE1SX"
     },
     "103242": {
       "id": 103242,
@@ -63480,7 +63480,7 @@
       "weeks_charted": 10,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6fBmTdJ5l0zxZo2GzoWVYP"
     },
     "103243": {
       "id": 103243,
@@ -63492,7 +63492,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2U8g9wVcUu9wsg6i7sFSv8"
     },
     "103244": {
       "id": 103244,
@@ -63504,7 +63504,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Y60nci79nPXB61gATPEm5"
     },
     "103245": {
       "id": 103245,
@@ -63516,7 +63516,7 @@
       "weeks_charted": 10,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2LJ2otiVJgSoXThZZhaCfr"
     },
     "103246": {
       "id": 103246,
@@ -63528,7 +63528,7 @@
       "weeks_charted": 5,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4PV8rkTerovUljIsaoKHIT"
     },
     "103247": {
       "id": 103247,
@@ -63540,7 +63540,7 @@
       "weeks_charted": 17,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2DJgqupHyoUaMxu64hNbJo"
     },
     "103248": {
       "id": 103248,
@@ -63552,7 +63552,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3prA1zHkFODY1EY0WNCWI4"
     },
     "103249": {
       "id": 103249,
@@ -63564,7 +63564,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6qvx2FCbM1Cg4BGl54Sod0"
     },
     "103250": {
       "id": 103250,
@@ -63576,7 +63576,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5cCAZS9VhLGEDV4NCfieeg"
     },
     "103251": {
       "id": 103251,
@@ -63588,7 +63588,7 @@
       "weeks_charted": 4,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0KtUUr0BZGfKcQDmoazEui"
     },
     "103252": {
       "id": 103252,
@@ -63600,7 +63600,7 @@
       "weeks_charted": 9,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2TUzU4IkfH8kcvY2MUlsd2"
     },
     "103253": {
       "id": 103253,
@@ -63612,7 +63612,7 @@
       "weeks_charted": 10,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1AsoPV1dqzr9mUJA9Xea7K"
     },
     "103254": {
       "id": 103254,
@@ -63624,7 +63624,7 @@
       "weeks_charted": 12,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0eaea6O9OQa1Q1cONBdtwm"
     },
     "103255": {
       "id": 103255,
@@ -63636,7 +63636,7 @@
       "weeks_charted": 11,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6KCoHauSm9YLqex4qmpAXe"
     },
     "103256": {
       "id": 103256,
@@ -63648,7 +63648,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Ruy8LpkqOcSutWuEoyHcO"
     },
     "103257": {
       "id": 103257,
@@ -63660,7 +63660,7 @@
       "weeks_charted": 11,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4MAmPFMkVTDUjozW1HWBrI"
     },
     "103258": {
       "id": 103258,
@@ -63672,7 +63672,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7G8tPQLtBx31PpVZtIu2KQ"
     },
     "103259": {
       "id": 103259,
@@ -63684,7 +63684,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:32uqsEStUPHtUKbETCX13g"
     },
     "103260": {
       "id": 103260,
@@ -63696,7 +63696,7 @@
       "weeks_charted": 4,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:18yhsxbm1TSqcypQLg0GyB"
     },
     "103261": {
       "id": 103261,
@@ -63708,7 +63708,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0txTKD1xm744bZaf2xjMxk"
     },
     "103262": {
       "id": 103262,
@@ -63720,7 +63720,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6zFOeB9gBG9hnO09PjXftT"
     },
     "103263": {
       "id": 103263,
@@ -63732,7 +63732,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:20JgAdNwc0V0AbKCX3eDNx"
     },
     "103264": {
       "id": 103264,
@@ -63744,7 +63744,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Votxn5TP7eFvNH0GxY6Nd"
     },
     "103265": {
       "id": 103265,
@@ -63756,7 +63756,7 @@
       "weeks_charted": 9,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6nek1Nin9q48AVZcWs9e9D"
     },
     "103266": {
       "id": 103266,
@@ -63768,7 +63768,7 @@
       "weeks_charted": 20,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7L8lxwhBuvH9CRA6LJ7DZH"
     },
     "103267": {
       "id": 103267,
@@ -63780,7 +63780,7 @@
       "weeks_charted": 16,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1Yx18pGNtat3dcHPgKHfqI"
     },
     "103268": {
       "id": 103268,
@@ -63792,7 +63792,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2LEF1A8DOZ9wRYikWgVlZ8"
     },
     "103269": {
       "id": 103269,
@@ -63804,7 +63804,7 @@
       "weeks_charted": 9,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5UagMeVkoOGW8l95FEPmDu"
     },
     "103270": {
       "id": 103270,
@@ -63816,7 +63816,7 @@
       "weeks_charted": 12,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5U6xdRph44iSI887X6zibE"
     },
     "103271": {
       "id": 103271,
@@ -63828,7 +63828,7 @@
       "weeks_charted": 18,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7MpYIEUe8rusx1OL0Fpo6X"
     },
     "103272": {
       "id": 103272,
@@ -63840,7 +63840,7 @@
       "weeks_charted": 9,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1qith4HKKISxTlgbDxpRBZ"
     },
     "103273": {
       "id": 103273,
@@ -63852,7 +63852,7 @@
       "weeks_charted": 16,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5HMiF48eiKHttTtSGg7XPb"
     },
     "103274": {
       "id": 103274,
@@ -63864,7 +63864,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4UrmmXStaqiT5sSC7QO6HK"
     },
     "103275": {
       "id": 103275,
@@ -63876,7 +63876,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Zom6qrsEm832SkIC2gGek"
     },
     "103276": {
       "id": 103276,
@@ -63888,7 +63888,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1LEa5d6BrMQOBTRqfTzJ2Y"
     },
     "103277": {
       "id": 103277,
@@ -63900,7 +63900,7 @@
       "weeks_charted": 24,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:38qh0PeuxpDHMT55boqgBj"
     },
     "103278": {
       "id": 103278,
@@ -63912,7 +63912,7 @@
       "weeks_charted": 6,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1dwXWQRPamEngGsLjbNWNi"
     },
     "103279": {
       "id": 103279,
@@ -63924,7 +63924,7 @@
       "weeks_charted": 12,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2UjkXZtuBke3xCeG86SQi5"
     },
     "103280": {
       "id": 103280,
@@ -63936,7 +63936,7 @@
       "weeks_charted": 14,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5IhtaTempjlVlPmSgI0FQS"
     },
     "103281": {
       "id": 103281,
@@ -63948,7 +63948,7 @@
       "weeks_charted": 5,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2D2TjYw2eqCcQzEOgyg1Iq"
     },
     "103282": {
       "id": 103282,
@@ -63960,7 +63960,7 @@
       "weeks_charted": 20,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4bCOAuhvjsxbVBM5MM8oik"
     },
     "103283": {
       "id": 103283,
@@ -63972,7 +63972,7 @@
       "weeks_charted": 12,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3bNv3VuUOKgrf5hu3YcuRo"
     },
     "103284": {
       "id": 103284,
@@ -63984,7 +63984,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4JksKTeDImv9xwFcZnT5EP"
     },
     "103285": {
       "id": 103285,
@@ -63996,7 +63996,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6HFPWUfdBmYxKCLDIvQmHi"
     },
     "103286": {
       "id": 103286,
@@ -64008,7 +64008,7 @@
       "weeks_charted": 14,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1EIrSdATDyjz1vfRwDSEZZ"
     },
     "103287": {
       "id": 103287,
@@ -64020,7 +64020,7 @@
       "weeks_charted": 3,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:74eIScZtoW4vGZ0EFMm2np"
     },
     "103288": {
       "id": 103288,
@@ -64032,7 +64032,7 @@
       "weeks_charted": 11,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4LYmTf2YZ0L39S3muGTMtF"
     },
     "103289": {
       "id": 103289,
@@ -64044,7 +64044,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1nAGuIZXz6vb8XW0xiMqic"
     },
     "103290": {
       "id": 103290,
@@ -64056,7 +64056,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:65XY6Cx0263J5BPnY8mPyE"
     },
     "103291": {
       "id": 103291,
@@ -64068,7 +64068,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4mihvrONzHP4u61Iauy38V"
     },
     "103292": {
       "id": 103292,
@@ -64080,7 +64080,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6NSL9jDA0v04h546H2RICc"
     },
     "103293": {
       "id": 103293,
@@ -64092,7 +64092,7 @@
       "weeks_charted": 7,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:63HlWoB2Dwy0xzDe80T82K"
     },
     "103294": {
       "id": 103294,
@@ -64104,7 +64104,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1gWJ4zaBSkyICr7wTEygS9"
     },
     "103295": {
       "id": 103295,
@@ -64116,7 +64116,7 @@
       "weeks_charted": 1,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0siQ3ggB8BGgjX3MdVmwoe"
     },
     "103296": {
       "id": 103296,
@@ -64128,7 +64128,7 @@
       "weeks_charted": 2,
       "year": 2011,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:62T0ddDzcYW2BX3e27WjGB"
     },
     "103297": {
       "id": 103297,
@@ -64140,7 +64140,7 @@
       "weeks_charted": 10,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6WHU2kB0ArIK9pgzsTiwag"
     },
     "103298": {
       "id": 103298,
@@ -64152,7 +64152,7 @@
       "weeks_charted": 10,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6PxQvNC0mkyb9DaBmYwgTL"
     },
     "103299": {
       "id": 103299,
@@ -64164,7 +64164,7 @@
       "weeks_charted": 2,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1b6QHWZ6QYKRXGGJcTuyqo"
     },
     "103300": {
       "id": 103300,
@@ -64176,7 +64176,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3dfOmrNtNYXfjyOJAQufZt"
     },
     "103301": {
       "id": 103301,
@@ -64188,7 +64188,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Xe9wT5xeZETPwtaP2ynUz"
     },
     "103302": {
       "id": 103302,
@@ -64200,7 +64200,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:004cm4dIZxfnXp5nBUv5TS"
     },
     "103303": {
       "id": 103303,
@@ -64212,7 +64212,7 @@
       "weeks_charted": 11,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5wAyRR4SllX33g7wEZ9FNh"
     },
     "103304": {
       "id": 103304,
@@ -64224,7 +64224,7 @@
       "weeks_charted": 19,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:66QouRqsyl2RpZfjysEfOe"
     },
     "103305": {
       "id": 103305,
@@ -64236,7 +64236,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6GvK6rE2tkOduwnJgJMjcy"
     },
     "103306": {
       "id": 103306,
@@ -64248,7 +64248,7 @@
       "weeks_charted": 14,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3rgobpftjUoUTxURC4sw8k"
     },
     "103307": {
       "id": 103307,
@@ -64260,7 +64260,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4KGbQXQ8HKVypeKJslxQtH"
     },
     "103308": {
       "id": 103308,
@@ -64272,7 +64272,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5zpLB0kWFQV7oA7qzAQtxB"
     },
     "103309": {
       "id": 103309,
@@ -64284,7 +64284,7 @@
       "weeks_charted": 10,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4d05voI5ZcPBO6KX4ZjSdz"
     },
     "103310": {
       "id": 103310,
@@ -64296,7 +64296,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7saeg1XSIx0RhNMHY5km2e"
     },
     "103311": {
       "id": 103311,
@@ -64308,7 +64308,7 @@
       "weeks_charted": 10,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:29vem0DsWK4224LQyxcmA5"
     },
     "103312": {
       "id": 103312,
@@ -64320,7 +64320,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5idmfDT06TjCQ1SPDsa5qh"
     },
     "103313": {
       "id": 103313,
@@ -64332,7 +64332,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Ouhoi2lAhrLJKFzUqEzwl"
     },
     "103314": {
       "id": 103314,
@@ -64344,7 +64344,7 @@
       "weeks_charted": 19,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4haj5xs3smcDcGRkdPrKQu"
     },
     "103315": {
       "id": 103315,
@@ -64356,7 +64356,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:03H03k1F6t3VqCSPRBtuHk"
     },
     "103316": {
       "id": 103316,
@@ -64368,7 +64368,7 @@
       "weeks_charted": 17,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6STyApWrv7aYrJQcQrUgju"
     },
     "103317": {
       "id": 103317,
@@ -64380,7 +64380,7 @@
       "weeks_charted": 2,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3vD90OONDp1crjwuZCiyPs"
     },
     "103318": {
       "id": 103318,
@@ -64392,7 +64392,7 @@
       "weeks_charted": 13,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1nInOsHbtotAmEOQhtvnzP"
     },
     "103319": {
       "id": 103319,
@@ -64404,7 +64404,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Z7ygHQo02SUrFmcgpwsKW"
     },
     "103320": {
       "id": 103320,
@@ -64416,7 +64416,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3Rzvgy2HjTKKHMcKU3X5gB"
     },
     "103321": {
       "id": 103321,
@@ -64428,7 +64428,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:50A1WCxKycJUHRr4Rz6WrD"
     },
     "103322": {
       "id": 103322,
@@ -64440,7 +64440,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Li9QVvyffiyWXUtrd4hhN"
     },
     "103323": {
       "id": 103323,
@@ -64452,7 +64452,7 @@
       "weeks_charted": 10,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1YokYILrMXhJPhr3isGpYr"
     },
     "103324": {
       "id": 103324,
@@ -64464,7 +64464,7 @@
       "weeks_charted": 18,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3tsK9bFAYqInXqYa7JKFm8"
     },
     "103325": {
       "id": 103325,
@@ -64476,7 +64476,7 @@
       "weeks_charted": 11,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7FPB1eXBFlZ874cgErR9nK"
     },
     "103326": {
       "id": 103326,
@@ -64488,7 +64488,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7hMBIwVP9l7dJCqzBvDFmn"
     },
     "103327": {
       "id": 103327,
@@ -64500,7 +64500,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5J57nYx6PSmIQGytVKUChI"
     },
     "103328": {
       "id": 103328,
@@ -64512,7 +64512,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1MspA07xLF8hz3jfzVN2fo"
     },
     "103329": {
       "id": 103329,
@@ -64524,7 +64524,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0pTm8O8J9mF7NxcFwQiHI0"
     },
     "103330": {
       "id": 103330,
@@ -64536,7 +64536,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1nZzRJbFvCEct3uzu04ZoL"
     },
     "103331": {
       "id": 103331,
@@ -64548,7 +64548,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:471HeGJPKw07MObixON0Um"
     },
     "103332": {
       "id": 103332,
@@ -64560,7 +64560,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1qH9hmhE3PXHhpi0xP8hjD"
     },
     "103333": {
       "id": 103333,
@@ -64572,7 +64572,7 @@
       "weeks_charted": 18,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2knr7ikPt4l7bk92qS4ZXW"
     },
     "103334": {
       "id": 103334,
@@ -64584,7 +64584,7 @@
       "weeks_charted": 2,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4hB3VufL8edxIAoke8Nmgt"
     },
     "103335": {
       "id": 103335,
@@ -64596,7 +64596,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:76YjAAnq4wO06IlBuBRSYD"
     },
     "103336": {
       "id": 103336,
@@ -64608,7 +64608,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2o55wNISMLjhwAX1FKFmSC"
     },
     "103337": {
       "id": 103337,
@@ -64620,7 +64620,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "103338": {
       "id": 103338,
@@ -64632,7 +64632,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1GJhfyCVL7RfqiL0iByJl5"
     },
     "103339": {
       "id": 103339,
@@ -64644,7 +64644,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3UzIkCiznoXwNF438ZlF9m"
     },
     "103340": {
       "id": 103340,
@@ -64656,7 +64656,7 @@
       "weeks_charted": 18,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6eVbO2bFYVkQ0So3P4Rv4t"
     },
     "103341": {
       "id": 103341,
@@ -64668,7 +64668,7 @@
       "weeks_charted": 16,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Q7NePRrh6S0WzKMz8CbCA"
     },
     "103342": {
       "id": 103342,
@@ -64680,7 +64680,7 @@
       "weeks_charted": 17,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0AzAKlEGsBfigjWpp9AOdE"
     },
     "103343": {
       "id": 103343,
@@ -64692,7 +64692,7 @@
       "weeks_charted": 18,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7IjAjoiNZwjSUhAH90OBeG"
     },
     "103344": {
       "id": 103344,
@@ -64704,7 +64704,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7MdovWcAyGLVhpNMChIhkP"
     },
     "103345": {
       "id": 103345,
@@ -64716,7 +64716,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2YRLXsjjIO7oj1OIEWnmTT"
     },
     "103346": {
       "id": 103346,
@@ -64728,7 +64728,7 @@
       "weeks_charted": 11,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0m6Xc4rxUdmEvBkVaAMrnp"
     },
     "103347": {
       "id": 103347,
@@ -64740,7 +64740,7 @@
       "weeks_charted": 15,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3GDX2vk9Omok7DDvg7vOpq"
     },
     "103348": {
       "id": 103348,
@@ -64752,7 +64752,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0D1e6TK36z5ZPjvuh89UIW"
     },
     "103349": {
       "id": 103349,
@@ -64764,7 +64764,7 @@
       "weeks_charted": 2,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5IOdSbqM0p4Ih8dLvLqb7H"
     },
     "103350": {
       "id": 103350,
@@ -64776,7 +64776,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3bC1ahPIYt1btJzSSEyyrF"
     },
     "103351": {
       "id": 103351,
@@ -64788,7 +64788,7 @@
       "weeks_charted": 2,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5XuYT5vOnH9kvPQC6ZlZSU"
     },
     "103352": {
       "id": 103352,
@@ -64800,7 +64800,7 @@
       "weeks_charted": 13,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:00zEhRQevnQH8MwrOuhxov"
     },
     "103353": {
       "id": 103353,
@@ -64812,7 +64812,7 @@
       "weeks_charted": 11,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2AdhIZdTeCulvMd9DVOVZ5"
     },
     "103354": {
       "id": 103354,
@@ -64824,7 +64824,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6ddLU9d2RDGTekACDOTyqN"
     },
     "103355": {
       "id": 103355,
@@ -64836,7 +64836,7 @@
       "weeks_charted": 6,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4uj01F7BWv3De6IOengr5e"
     },
     "103356": {
       "id": 103356,
@@ -64848,7 +64848,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5iXlbg16Fw84K2FwPsokzj"
     },
     "103357": {
       "id": 103357,
@@ -64860,7 +64860,7 @@
       "weeks_charted": 14,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:20lUjyfg5xXXl87VHtiOFi"
     },
     "103358": {
       "id": 103358,
@@ -64872,7 +64872,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7z6GomUagdKELn6FXS671x"
     },
     "103359": {
       "id": 103359,
@@ -64884,7 +64884,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6ZNM2LnL510XmdYWQezEmV"
     },
     "103360": {
       "id": 103360,
@@ -64896,7 +64896,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ubHAQtKuFfiG4FXfLP804"
     },
     "103361": {
       "id": 103361,
@@ -64908,7 +64908,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3P8LJqmPlgIxiV0by4Qspa"
     },
     "103362": {
       "id": 103362,
@@ -64920,7 +64920,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:002Z8jNRKK4JxmCnhlu36r"
     },
     "103363": {
       "id": 103363,
@@ -64932,7 +64932,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1o6kq1BELDZPZCmxvFNaey"
     },
     "103364": {
       "id": 103364,
@@ -64944,7 +64944,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:12eMQUn2GzfsfsQLH53M19"
     },
     "103365": {
       "id": 103365,
@@ -64956,7 +64956,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6cgyXJFF4dWiCfwkGZz77W"
     },
     "103366": {
       "id": 103366,
@@ -64968,7 +64968,7 @@
       "weeks_charted": 10,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7vLPtQbtBXFnO6pQ8L6Z9M"
     },
     "103367": {
       "id": 103367,
@@ -64980,7 +64980,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2VFMVOLcDNoknXL2ILhdpp"
     },
     "103368": {
       "id": 103368,
@@ -64992,7 +64992,7 @@
       "weeks_charted": 14,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4k80K0b6KZ2QjAYkXON7q6"
     },
     "103369": {
       "id": 103369,
@@ -65004,7 +65004,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2N2QvMYwyYHE8V4KZbbG4i"
     },
     "103370": {
       "id": 103370,
@@ -65016,7 +65016,7 @@
       "weeks_charted": 11,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4K9t1ZoIATaz0Uyv5vkpzk"
     },
     "103371": {
       "id": 103371,
@@ -65028,7 +65028,7 @@
       "weeks_charted": 12,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7F7gg7DBLtchUaznpcBduZ"
     },
     "103372": {
       "id": 103372,
@@ -65040,7 +65040,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:62pIfDe2RdhUfYmRWdo9ZJ"
     },
     "103373": {
       "id": 103373,
@@ -65052,7 +65052,7 @@
       "weeks_charted": 10,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2cijv3TEyA7WmXFcHbUjXh"
     },
     "103374": {
       "id": 103374,
@@ -65064,7 +65064,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5545VfieNiU2Jv9eY1oo54"
     },
     "103375": {
       "id": 103375,
@@ -65076,7 +65076,7 @@
       "weeks_charted": 6,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1qIgyDoc2rwtq8w49jeWL8"
     },
     "103376": {
       "id": 103376,
@@ -65088,7 +65088,7 @@
       "weeks_charted": 2,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1MrD5kAYjdhJoRrwrS6xCh"
     },
     "103377": {
       "id": 103377,
@@ -65100,7 +65100,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0xO9slJyYG6utMaRvkEhq7"
     },
     "103378": {
       "id": 103378,
@@ -65112,7 +65112,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6kubSJuxvGrZpHuhqJ2l6F"
     },
     "103379": {
       "id": 103379,
@@ -65124,7 +65124,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5MGSEkTPX4BhUQtepptO8n"
     },
     "103380": {
       "id": 103380,
@@ -65136,7 +65136,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Xz0Aep86l2yafsqCtMcsh"
     },
     "103381": {
       "id": 103381,
@@ -65148,7 +65148,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6cpk00i5TxCqSeqNi2HuIe"
     },
     "103382": {
       "id": 103382,
@@ -65160,7 +65160,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0kR4Gn7FljUY4t8SKIFyZh"
     },
     "103383": {
       "id": 103383,
@@ -65172,7 +65172,7 @@
       "weeks_charted": 2,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Dq75eGDLZGM9EGP0XHbo2"
     },
     "103384": {
       "id": 103384,
@@ -65184,7 +65184,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Y7VTIcZ7K80gZ4U0ejBTX"
     },
     "103385": {
       "id": 103385,
@@ -65196,7 +65196,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6k6sw3AUiMBFvdUM9OGPoU"
     },
     "103386": {
       "id": 103386,
@@ -65208,7 +65208,7 @@
       "weeks_charted": 16,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Ovi0f2Ant45moF9zJNERx"
     },
     "103387": {
       "id": 103387,
@@ -65220,7 +65220,7 @@
       "weeks_charted": 12,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:53jp0YWVX6kEtr8T81cK3v"
     },
     "103388": {
       "id": 103388,
@@ -65232,7 +65232,7 @@
       "weeks_charted": 12,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2MpkJH0uSRWLib6MI8PaHw"
     },
     "103389": {
       "id": 103389,
@@ -65244,7 +65244,7 @@
       "weeks_charted": 19,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7fvK5PbQqWcFerv9cI868P"
     },
     "103390": {
       "id": 103390,
@@ -65256,7 +65256,7 @@
       "weeks_charted": 14,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3s40pkcGl5V12VA3eHL1cp"
     },
     "103391": {
       "id": 103391,
@@ -65268,7 +65268,7 @@
       "weeks_charted": 6,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5NlFXQ0si6U87gXs6hq81B"
     },
     "103392": {
       "id": 103392,
@@ -65280,7 +65280,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3xUDjJXnPbrhuPVbybLFOM"
     },
     "103393": {
       "id": 103393,
@@ -65292,7 +65292,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5kcE7pp02ezLZaUbbMv3Iq"
     },
     "103394": {
       "id": 103394,
@@ -65304,7 +65304,7 @@
       "weeks_charted": 17,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5x57rkFCUreqWU0GhIDiQi"
     },
     "103395": {
       "id": 103395,
@@ -65316,7 +65316,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:21xR9pnxaa4cwKlchiuUKf"
     },
     "103396": {
       "id": 103396,
@@ -65328,7 +65328,7 @@
       "weeks_charted": 3,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Cv9IzjMms9UAuZ5VL59pR"
     },
     "103397": {
       "id": 103397,
@@ -65340,7 +65340,7 @@
       "weeks_charted": 12,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4rsGb4o15k3iUqfvOnoM9g"
     },
     "103398": {
       "id": 103398,
@@ -65352,7 +65352,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4bZd0nRuX8HyjeXAUBczvm"
     },
     "103399": {
       "id": 103399,
@@ -65364,7 +65364,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6vPGjoxDa18cvLA22866DW"
     },
     "103400": {
       "id": 103400,
@@ -65376,7 +65376,7 @@
       "weeks_charted": 13,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3w3y8KPTfNeOKPiqUTakBh"
     },
     "103401": {
       "id": 103401,
@@ -65388,7 +65388,7 @@
       "weeks_charted": 6,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0wUnR8OfHxtMRDX3GXNVrO"
     },
     "103402": {
       "id": 103402,
@@ -65400,7 +65400,7 @@
       "weeks_charted": 16,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6O20JhBJPePEkBdrB5sqRx"
     },
     "103403": {
       "id": 103403,
@@ -65412,7 +65412,7 @@
       "weeks_charted": 13,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3rK0kMypJXVTcBlxgmj1jD"
     },
     "103404": {
       "id": 103404,
@@ -65424,7 +65424,7 @@
       "weeks_charted": 14,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6VObnIkLVruX4UVyxWhlqm"
     },
     "103405": {
       "id": 103405,
@@ -65436,7 +65436,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2oarRvpoCQQmJ2MVuKQd8N"
     },
     "103406": {
       "id": 103406,
@@ -65448,7 +65448,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2P5P0i59XmLxkHXWMZ6Zal"
     },
     "103407": {
       "id": 103407,
@@ -65460,7 +65460,7 @@
       "weeks_charted": 18,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0NnMwVKRxZusuzJV5ej5Wj"
     },
     "103408": {
       "id": 103408,
@@ -65472,7 +65472,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4sAka01fShZInJrA319FHc"
     },
     "103409": {
       "id": 103409,
@@ -65484,7 +65484,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0c4IEciLCDdXEhhKxj4ThA"
     },
     "103410": {
       "id": 103410,
@@ -65496,7 +65496,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6Cpz693XZKlnvcxXs1886F"
     },
     "103411": {
       "id": 103411,
@@ -65508,7 +65508,7 @@
       "weeks_charted": 16,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3i7RZuAJ6iWbSW2k9lUtJx"
     },
     "103412": {
       "id": 103412,
@@ -65520,7 +65520,7 @@
       "weeks_charted": 5,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0aEDDAPj0Bm1zWQU9GHhpJ"
     },
     "103413": {
       "id": 103413,
@@ -65532,7 +65532,7 @@
       "weeks_charted": 14,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6wLpm1wNUIiLdrQlZa73O8"
     },
     "103414": {
       "id": 103414,
@@ -65544,7 +65544,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6JmPOh5o68cKklExMahQrc"
     },
     "103415": {
       "id": 103415,
@@ -65556,7 +65556,7 @@
       "weeks_charted": 8,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5HK1prUMr7AQ8uQdgPHUMU"
     },
     "103416": {
       "id": 103416,
@@ -65568,7 +65568,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2pmtavvgqZN52EePYxutgk"
     },
     "103417": {
       "id": 103417,
@@ -65580,7 +65580,7 @@
       "weeks_charted": 18,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2pq6zPY0TMGnVtIRFGClfF"
     },
     "103418": {
       "id": 103418,
@@ -65592,7 +65592,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6PT4UVi9sanQnchJNTwPRk"
     },
     "103419": {
       "id": 103419,
@@ -65604,7 +65604,7 @@
       "weeks_charted": 4,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Wj80tZOLSNZ5gaiv0Zxpe"
     },
     "103420": {
       "id": 103420,
@@ -65616,7 +65616,7 @@
       "weeks_charted": 6,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2TLU9crGyk56PhgQTWuTvt"
     },
     "103421": {
       "id": 103421,
@@ -65628,7 +65628,7 @@
       "weeks_charted": 14,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Y5tt4vidB3G5L3MyhrLdl"
     },
     "103422": {
       "id": 103422,
@@ -65640,7 +65640,7 @@
       "weeks_charted": 12,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4awkMNWVKjEwMtXO198g32"
     },
     "103423": {
       "id": 103423,
@@ -65652,7 +65652,7 @@
       "weeks_charted": 2,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4ml9hxgohsvdn2XkDOqAji"
     },
     "103424": {
       "id": 103424,
@@ -65664,7 +65664,7 @@
       "weeks_charted": 7,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2RC3UOL8G7dvOZes3bWGvT"
     },
     "103425": {
       "id": 103425,
@@ -65676,7 +65676,7 @@
       "weeks_charted": 1,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4Yg2w0P29BBBMixyeNjDtj"
     },
     "103426": {
       "id": 103426,
@@ -65688,7 +65688,7 @@
       "weeks_charted": 9,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4esOae7i4rqTbAu9o5Pxco"
     },
     "103427": {
       "id": 103427,
@@ -65700,7 +65700,7 @@
       "weeks_charted": 13,
       "year": 2012,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0thSyp6VHdgcQsSuoYEdOJ"
     },
     "103428": {
       "id": 103428,
@@ -65712,7 +65712,7 @@
       "weeks_charted": 5,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:57nizTIMy50KWi1NAWm8eE"
     },
     "103429": {
       "id": 103429,
@@ -65724,7 +65724,7 @@
       "weeks_charted": 14,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0s28qR4TvOmbHZwKzkeeRj"
     },
     "103430": {
       "id": 103430,
@@ -65736,7 +65736,7 @@
       "weeks_charted": 9,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2sEa1FQjCctsFXIF6CbHoB"
     },
     "103431": {
       "id": 103431,
@@ -65748,7 +65748,7 @@
       "weeks_charted": 13,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6s8nHXTJVqFjXE4yVZPDHR"
     },
     "103432": {
       "id": 103432,
@@ -65760,7 +65760,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2LWFw1lxYO3uX3T1kGhJpp"
     },
     "103433": {
       "id": 103433,
@@ -65772,7 +65772,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4QVmCvjMWcRKnXlEnL88Vx"
     },
     "103434": {
       "id": 103434,
@@ -65784,7 +65784,7 @@
       "weeks_charted": 14,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1lpGsHdCpWiTvrFitLakBo"
     },
     "103435": {
       "id": 103435,
@@ -65796,7 +65796,7 @@
       "weeks_charted": 14,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6oE4lcT77ywkRa7YBew8K4"
     },
     "103436": {
       "id": 103436,
@@ -65808,7 +65808,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3VWFolbrJzoVHgGUFuaW8I"
     },
     "103437": {
       "id": 103437,
@@ -65820,7 +65820,7 @@
       "weeks_charted": 10,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1QXlowTYHcD9gwQWLlMOb4"
     },
     "103438": {
       "id": 103438,
@@ -65832,7 +65832,7 @@
       "weeks_charted": 11,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ZUH6eW7tqTgJjAKsPljLu"
     },
     "103439": {
       "id": 103439,
@@ -65844,7 +65844,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5m0HQEGiNnI6bM78N6zMWu"
     },
     "103440": {
       "id": 103440,
@@ -65856,7 +65856,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4YH7C5FMUd7zy3qGG5nEFD"
     },
     "103441": {
       "id": 103441,
@@ -65868,7 +65868,7 @@
       "weeks_charted": 8,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6UiWrsYT34Xvm1T91sBXjt"
     },
     "103442": {
       "id": 103442,
@@ -65880,7 +65880,7 @@
       "weeks_charted": 7,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0lI9LRra3k2RAYrNO0Htcc"
     },
     "103443": {
       "id": 103443,
@@ -65892,7 +65892,7 @@
       "weeks_charted": 21,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6KnoWZOxQvN9LeeULoNhkK"
     },
     "103444": {
       "id": 103444,
@@ -65904,7 +65904,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:33TAslt4udgqhyx0tOaeGg"
     },
     "103445": {
       "id": 103445,
@@ -65916,7 +65916,7 @@
       "weeks_charted": 13,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5GPM1KOCC4lK3TfgiRyktZ"
     },
     "103446": {
       "id": 103446,
@@ -65928,7 +65928,7 @@
       "weeks_charted": 8,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0LBz07gAdgUukYvpFyW87y"
     },
     "103447": {
       "id": 103447,
@@ -65940,7 +65940,7 @@
       "weeks_charted": 6,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:79tl6x4BTvGqwkfvKoHnNR"
     },
     "103448": {
       "id": 103448,
@@ -65952,7 +65952,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4BTxbcN9LpZnxdjI1eR9Xo"
     },
     "103449": {
       "id": 103449,
@@ -65964,7 +65964,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0XeAl7AWRZr4SV3Czx0buV"
     },
     "103450": {
       "id": 103450,
@@ -65976,7 +65976,7 @@
       "weeks_charted": 14,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1iMDYK2zADlyjDaFt4IhDP"
     },
     "103451": {
       "id": 103451,
@@ -65988,7 +65988,7 @@
       "weeks_charted": 2,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:05FKmHZ2jagXztWSuFvXAN"
     },
     "103452": {
       "id": 103452,
@@ -66000,7 +66000,7 @@
       "weeks_charted": 17,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6F6yf8i9W4B2wlyOh9FF3e"
     },
     "103453": {
       "id": 103453,
@@ -66012,7 +66012,7 @@
       "weeks_charted": 15,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1rKRVRXykfmOga4BM9h53E"
     },
     "103454": {
       "id": 103454,
@@ -66024,7 +66024,7 @@
       "weeks_charted": 16,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:32Y3224rLBqwkd6LnLshSU"
     },
     "103455": {
       "id": 103455,
@@ -66036,7 +66036,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7j1SWWci3yWLgmMSZwurgd"
     },
     "103456": {
       "id": 103456,
@@ -66048,7 +66048,7 @@
       "weeks_charted": 9,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5kWcIgj5CszKQBB0Lg7sGY"
     },
     "103457": {
       "id": 103457,
@@ -66060,7 +66060,7 @@
       "weeks_charted": 14,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0mvkwaZMP2gAy2ApQLtZRv"
     },
     "103458": {
       "id": 103458,
@@ -66072,7 +66072,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:32WpkFZ1w4f0RoceNJTnhq"
     },
     "103459": {
       "id": 103459,
@@ -66084,7 +66084,7 @@
       "weeks_charted": 10,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6ToFxXRBtl5TJFEyIoYK3f"
     },
     "103460": {
       "id": 103460,
@@ -66096,7 +66096,7 @@
       "weeks_charted": 6,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0Hf4aIJpsN4Os2f0y0VqWl"
     },
     "103461": {
       "id": 103461,
@@ -66108,7 +66108,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5nEdwtSv0qqeE0l4o1lR4q"
     },
     "103462": {
       "id": 103462,
@@ -66120,7 +66120,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5vTa8UbMRVhASUrg1K8ynw"
     },
     "103463": {
       "id": 103463,
@@ -66132,7 +66132,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5LdyWxPfyeBeIYvxQ9X3Yk"
     },
     "103464": {
       "id": 103464,
@@ -66144,7 +66144,7 @@
       "weeks_charted": 8,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5zWnVHt2qAA1DBLlbzesAf"
     },
     "103465": {
       "id": 103465,
@@ -66156,7 +66156,7 @@
       "weeks_charted": 5,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4w2sOKmotzKsdGDLHic94B"
     },
     "103466": {
       "id": 103466,
@@ -66168,7 +66168,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6SNSrMg0MfSLlsnVy7IQ8A"
     },
     "103467": {
       "id": 103467,
@@ -66180,7 +66180,7 @@
       "weeks_charted": 15,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0kZK6BXmk9nBIhGdfCKrfa"
     },
     "103468": {
       "id": 103468,
@@ -66192,7 +66192,7 @@
       "weeks_charted": 6,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5eHBwub0uVM4bnXgzhiBbK"
     },
     "103469": {
       "id": 103469,
@@ -66204,7 +66204,7 @@
       "weeks_charted": 15,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2jyjdujFPnzqtCr3229yls"
     },
     "103470": {
       "id": 103470,
@@ -66216,7 +66216,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0qwcGscxUHGZTgq0zcaqk1"
     },
     "103471": {
       "id": 103471,
@@ -66228,7 +66228,7 @@
       "weeks_charted": 14,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0KDfRFpf9521n3Dg8fCXRx"
     },
     "103472": {
       "id": 103472,
@@ -66240,7 +66240,7 @@
       "weeks_charted": 2,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0gpoeZamw0GIJllSNTzvIB"
     },
     "103473": {
       "id": 103473,
@@ -66252,7 +66252,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6djlRvx69CBXQAoXKqk082"
     },
     "103474": {
       "id": 103474,
@@ -66264,7 +66264,7 @@
       "weeks_charted": 12,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2o3qA8lOCXZ8cRGhuWNT4J"
     },
     "103475": {
       "id": 103475,
@@ -66276,7 +66276,7 @@
       "weeks_charted": 13,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0S1vxen26XzaAkTuqkqcHq"
     },
     "103476": {
       "id": 103476,
@@ -66288,7 +66288,7 @@
       "weeks_charted": 13,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3rL9VxLN6LzQqwOmBwOiub"
     },
     "103477": {
       "id": 103477,
@@ -66300,7 +66300,7 @@
       "weeks_charted": 14,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7zsbv66KZUa5BljMvtEM4K"
     },
     "103478": {
       "id": 103478,
@@ -66312,7 +66312,7 @@
       "weeks_charted": 8,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "103479": {
       "id": 103479,
@@ -66324,7 +66324,7 @@
       "weeks_charted": 11,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5wdVHvv70gp7tX3Nbwl8QX"
     },
     "103480": {
       "id": 103480,
@@ -66336,7 +66336,7 @@
       "weeks_charted": 15,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4ftuEtDpcgvfefycI7LeAi"
     },
     "103481": {
       "id": 103481,
@@ -66348,7 +66348,7 @@
       "weeks_charted": 2,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5uIG6qE5LMCOVqTaXUChKA"
     },
     "103482": {
       "id": 103482,
@@ -66360,7 +66360,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4cdYcmajml2Z7ru7ubaHCb"
     },
     "103483": {
       "id": 103483,
@@ -66372,7 +66372,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1yjY7rpaAQvKwpdUliHx0d"
     },
     "103484": {
       "id": 103484,
@@ -66384,7 +66384,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4LVHLOuCxcPndvNvxoIxWF"
     },
     "103485": {
       "id": 103485,
@@ -66396,7 +66396,7 @@
       "weeks_charted": 16,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "not_found"
     },
     "103486": {
       "id": 103486,
@@ -66408,7 +66408,7 @@
       "weeks_charted": 12,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:55h7vJchibLdUkxdlX3fK7"
     },
     "103487": {
       "id": 103487,
@@ -66420,7 +66420,7 @@
       "weeks_charted": 16,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0ZciUHnvsaQo1dY9puKMoN"
     },
     "103488": {
       "id": 103488,
@@ -66432,7 +66432,7 @@
       "weeks_charted": 12,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0NiZHN5Ou9Qi5C5fOhhYvl"
     },
     "103489": {
       "id": 103489,
@@ -66444,7 +66444,7 @@
       "weeks_charted": 10,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4dlbwKV64fLDkoTlWqzWc2"
     },
     "103490": {
       "id": 103490,
@@ -66456,7 +66456,7 @@
       "weeks_charted": 16,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0nrRP2bk19rLc0orkWPQk2"
     },
     "103491": {
       "id": 103491,
@@ -66468,7 +66468,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:27NlNSKGbL5f2UyOqBcwh6"
     },
     "103492": {
       "id": 103492,
@@ -66480,7 +66480,7 @@
       "weeks_charted": 5,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3hdGhuRYBMznmtJwlSQeBz"
     },
     "103493": {
       "id": 103493,
@@ -66492,7 +66492,7 @@
       "weeks_charted": 11,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2ZpSvRtbgE7s6UOTLXSeZw"
     },
     "103494": {
       "id": 103494,
@@ -66504,7 +66504,7 @@
       "weeks_charted": 6,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Z0B11Z9VhuLnNUusUHOsz"
     },
     "103495": {
       "id": 103495,
@@ -66516,7 +66516,7 @@
       "weeks_charted": 11,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5TbzAWWc5eJaANpA9kfGCd"
     },
     "103496": {
       "id": 103496,
@@ -66528,7 +66528,7 @@
       "weeks_charted": 8,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Njezyfg6d9DrhIUtyvZpy"
     },
     "103497": {
       "id": 103497,
@@ -66540,7 +66540,7 @@
       "weeks_charted": 11,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ROFiWIscstd5hnUgIQMJI"
     },
     "103498": {
       "id": 103498,
@@ -66552,7 +66552,7 @@
       "weeks_charted": 7,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Hap7GU1pr4QZxlPh7CGlU"
     },
     "103499": {
       "id": 103499,
@@ -66564,7 +66564,7 @@
       "weeks_charted": 15,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4ikwdrSQRvQP7QwbwteCTQ"
     },
     "103500": {
       "id": 103500,
@@ -66576,7 +66576,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5StvAhgmgCOpCPHHNfS8bx"
     },
     "103501": {
       "id": 103501,
@@ -66588,7 +66588,7 @@
       "weeks_charted": 13,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2MFkd5GrtVgVPjq25yPJXL"
     },
     "103502": {
       "id": 103502,
@@ -66600,7 +66600,7 @@
       "weeks_charted": 13,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:75HSEPVrIktCL18EmpN2hH"
     },
     "103503": {
       "id": 103503,
@@ -66612,7 +66612,7 @@
       "weeks_charted": 8,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5a7EsxEZFnjjH5T4daMobG"
     },
     "103504": {
       "id": 103504,
@@ -66624,7 +66624,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7ecZUM929Y0k6OBT7F5d9i"
     },
     "103505": {
       "id": 103505,
@@ -66636,7 +66636,7 @@
       "weeks_charted": 2,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6juB6ztt3xcoFVwKg80Grp"
     },
     "103506": {
       "id": 103506,
@@ -66648,7 +66648,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3ear11tYbMEmNDm2lxZTqL"
     },
     "103507": {
       "id": 103507,
@@ -66660,7 +66660,7 @@
       "weeks_charted": 9,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5ka2ajep9OAvU5Sgduhiex"
     },
     "103508": {
       "id": 103508,
@@ -66672,7 +66672,7 @@
       "weeks_charted": 15,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2GgxS8bUT5G25QJTsfSv0R"
     },
     "103509": {
       "id": 103509,
@@ -66684,7 +66684,7 @@
       "weeks_charted": 18,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7FavR4VXLvl88GnSBCl9lL"
     },
     "103510": {
       "id": 103510,
@@ -66696,7 +66696,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5jiUJZ7EQadvIr52caQXUj"
     },
     "103511": {
       "id": 103511,
@@ -66708,7 +66708,7 @@
       "weeks_charted": 12,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1b9jy1s7b5JgpqsRX9ODSQ"
     },
     "103512": {
       "id": 103512,
@@ -66720,7 +66720,7 @@
       "weeks_charted": 9,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5E3OkjCg35TX31ycQhkXoo"
     },
     "103513": {
       "id": 103513,
@@ -66732,7 +66732,7 @@
       "weeks_charted": 8,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4TycaHmwVBA11fdS9EL8I5"
     },
     "103514": {
       "id": 103514,
@@ -66744,7 +66744,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5anCkDvJ17aznvK5TED5uo"
     },
     "103515": {
       "id": 103515,
@@ -66756,7 +66756,7 @@
       "weeks_charted": 5,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1ancvOHiLKfHcPPmx6wGdb"
     },
     "103516": {
       "id": 103516,
@@ -66768,7 +66768,7 @@
       "weeks_charted": 7,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2BVTAPMmaDoADdH4AtEQPr"
     },
     "103517": {
       "id": 103517,
@@ -66780,7 +66780,7 @@
       "weeks_charted": 2,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:52RK8UVEDgUAgpecOpTQM3"
     },
     "103518": {
       "id": 103518,
@@ -66792,7 +66792,7 @@
       "weeks_charted": 11,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2N0volXQpwsvjDorTTxBAU"
     },
     "103519": {
       "id": 103519,
@@ -66804,7 +66804,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2QTs37ndyBnheqYssE8GeZ"
     },
     "103520": {
       "id": 103520,
@@ -66816,7 +66816,7 @@
       "weeks_charted": 13,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7FNg6J7PQh6Z02Zl4qggiS"
     },
     "103521": {
       "id": 103521,
@@ -66828,7 +66828,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:52XTop4CAtt6kBLkxO0IMc"
     },
     "103522": {
       "id": 103522,
@@ -66840,7 +66840,7 @@
       "weeks_charted": 10,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2wqaekenSQZm7hxQOYt8oE"
     },
     "103523": {
       "id": 103523,
@@ -66852,7 +66852,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2Kz5qeXifBxE0zmuoVchlM"
     },
     "103524": {
       "id": 103524,
@@ -66864,7 +66864,7 @@
       "weeks_charted": 9,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6YY5ChSLlcCUeU8RyoAzaH"
     },
     "103525": {
       "id": 103525,
@@ -66876,7 +66876,7 @@
       "weeks_charted": 8,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0VFToVmm1N5KBZEfFMMy30"
     },
     "103526": {
       "id": 103526,
@@ -66888,7 +66888,7 @@
       "weeks_charted": 11,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:39b5GgtDDFKlUz0jDMg5NE"
     },
     "103527": {
       "id": 103527,
@@ -66900,7 +66900,7 @@
       "weeks_charted": 11,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:27LiT4qzhaxJnDxvA6RPqu"
     },
     "103528": {
       "id": 103528,
@@ -66912,7 +66912,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:7Dd9Qwp8ByCiPvZ8ZgHiFa"
     },
     "103529": {
       "id": 103529,
@@ -66924,7 +66924,7 @@
       "weeks_charted": 7,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1yrodVH5NhUFyuOt1f6Der"
     },
     "103530": {
       "id": 103530,
@@ -66936,7 +66936,7 @@
       "weeks_charted": 6,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6jJfPu37GrWOCBp4MouLqo"
     },
     "103531": {
       "id": 103531,
@@ -66948,7 +66948,7 @@
       "weeks_charted": 10,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5FcbLrXeBPqtOUTEt6e38v"
     },
     "103532": {
       "id": 103532,
@@ -66960,7 +66960,7 @@
       "weeks_charted": 9,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:16yesJm6e6XzRrOHN375Fd"
     },
     "103533": {
       "id": 103533,
@@ -66972,7 +66972,7 @@
       "weeks_charted": 7,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4AqHJANYsAfI7SbYq9LeOX"
     },
     "103534": {
       "id": 103534,
@@ -66984,7 +66984,7 @@
       "weeks_charted": 7,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:3rV3Fv0CUAhXmRcyvFiRoM"
     },
     "103535": {
       "id": 103535,
@@ -66996,7 +66996,7 @@
       "weeks_charted": 7,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5S87Wk94bqBsChK2hPhcPG"
     },
     "103536": {
       "id": 103536,
@@ -67008,7 +67008,7 @@
       "weeks_charted": 7,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0vFkvbTDx0rpbjjxdhFkF7"
     },
     "103537": {
       "id": 103537,
@@ -67020,7 +67020,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5Il5jb6PbkJ7UoHNgMtLdm"
     },
     "103538": {
       "id": 103538,
@@ -67032,7 +67032,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:2mqZPgQKdwYmymlLMVtTwY"
     },
     "103539": {
       "id": 103539,
@@ -67044,7 +67044,7 @@
       "weeks_charted": 5,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5PufGc0zaY5BnSJWgmdFsO"
     },
     "103540": {
       "id": 103540,
@@ -67056,7 +67056,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1ovSFASe0He2BA6jVEaQAq"
     },
     "103541": {
       "id": 103541,
@@ -67068,7 +67068,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0A9mHc7oYUoCECqByV8cQR"
     },
     "103542": {
       "id": 103542,
@@ -67080,7 +67080,7 @@
       "weeks_charted": 4,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:0fEBU5ZAHRHIV25R2tVYDz"
     },
     "103543": {
       "id": 103543,
@@ -67092,7 +67092,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6FzUX4kFBss56SSjAsLi7t"
     },
     "103544": {
       "id": 103544,
@@ -67104,7 +67104,7 @@
       "weeks_charted": 3,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:1DUhAeBCT4r66Gu4P3nirG"
     },
     "103545": {
       "id": 103545,
@@ -67116,7 +67116,7 @@
       "weeks_charted": 2,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:6b7l1JZHG6sy4ULxtzrzLc"
     },
     "103546": {
       "id": 103546,
@@ -67128,7 +67128,7 @@
       "weeks_charted": 2,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:5tTrwEcbPeMuGQokO6PKMj"
     },
     "103547": {
       "id": 103547,
@@ -67140,7 +67140,7 @@
       "weeks_charted": 1,
       "year": 2013,
       "genre": "Pop/Rock",
-      "uri": ""
+      "uri": "spotify:track:4LWAElfQyLOvGZiueT1JKp"
     }
   }
 }
