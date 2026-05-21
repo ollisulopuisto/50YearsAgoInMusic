@@ -40,7 +40,7 @@ Kansainvälinen data perustuu [The Whitburn Project](http://waxy.org/2008/05/the
 
 ## Datalähteet
 
-Suomalaiset listatiedot on koottu Timon ylläpitämistä blogeista — kiitos Timo! 🙏
+Suomalaiset listatiedot on koottu Timo Pennasen ylläpitämistä lähteistä, mistä iso kiitos!
 
 - [Suomen radiolistat](https://suomenradiolistat.blogspot.com/) — Suomen virallisia radiosoittolistoja
 - [Listablogi](https://listablogi.blogspot.com/) — Suomen virallisia myyntilistoja ja muita listatietoja
