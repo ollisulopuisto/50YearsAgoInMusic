@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Calendar Versioning (CalVer) `vYY.MM.DD.N` where N is the total commit count.
 
+## [v26.05.21.14] - 2026-05-21
+
+### Changed
+- Updated Finnish playlist titles to "Suomen soitetuimmat X vuotta sitten" to reflect the actual data from Timo Pennanen.
+- Updated Finnish playlist descriptions to "Radiossa eniten soineet kappaleet [kuukausi] vuonna [vuosi]." as the data is monthly rather than weekly.
+
 ## [v26.05.20.11] - 2026-05-20
 
 ### Added

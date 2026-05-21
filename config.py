@@ -42,10 +42,9 @@ LOCALIZED_STRINGS = {
         "cannot_authenticate": "can't authenticate for spotify",
     },
     "fi": {
-        "playlist_title_pattern": "Suomen top-listat {years} vuotta sitten",
+        "playlist_title_pattern": "Suomen soitetuimmat {years} vuotta sitten",
         "playlist_description": (
-            "Suomen virallinen singlelista, viikko {week}, {month} {year}."
-            " Päivittyy automaattisesti viikoittain."
+            "Radiossa eniten soineet kappaleet {month} vuonna {year}."
         ),
         "update_message": "Soittolista {title} on päivitetty viikolle {date}. {url}",
         "update_message_simple": "Soittolista {title} on juuri päivitetty.",

@@ -76,7 +76,7 @@ def test_localization_fi():
     config.LOCALE = "fi"
     assert (
         config.get_text("playlist_title_pattern", years="5")
-        == "Suomen top-listat 5 vuotta sitten"
+        == "Suomen soitetuimmat 5 vuotta sitten"
     )
     assert (
         config.get_text("update_message_simple", title="5 vuotta sitten")
@@ -235,11 +235,11 @@ def test_interval_titles_fi():
     config.LOCALE = "fi"
     assert (
         config.get_text("playlist_title_pattern", years="15")
-        == "Suomen top-listat 15 vuotta sitten"
+        == "Suomen soitetuimmat 15 vuotta sitten"
     )
     assert (
         config.get_text("playlist_title_pattern", years="25")
-        == "Suomen top-listat 25 vuotta sitten"
+        == "Suomen soitetuimmat 25 vuotta sitten"
     )
 
 
