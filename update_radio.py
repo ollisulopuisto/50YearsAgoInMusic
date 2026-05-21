@@ -22,10 +22,11 @@ def update_feed(sp, charts, notifier, feed, *, dry_run=False):
 
         if feed["playlist_uri"]:
             radio.save_to_playlist(sp, charts, feed["playlist_uri"], sids)
-            # Update playlist description with chart week metadata
+            # Update playlist description and name with chart week metadata
             try:
+                new_title = config.get_playlist_title(feed["years"], date)
                 sp.playlist_change_details(
-                    feed["playlist_uri"], description=description
+                    feed["playlist_uri"], name=new_title, description=description
                 )
             except Exception as e:
                 print(f"Warning: could not update description: {e}")

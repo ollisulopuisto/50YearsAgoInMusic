@@ -43,6 +43,8 @@ LOCALIZED_STRINGS = {
     },
     "fi": {
         "playlist_title_pattern": "Suomen soitetuimmat {years} vuotta sitten",
+        "playlist_title_dynamic": "Suomen soitetuimmat {years} vuotta sitten "
+        "({week}/{year})",
         "playlist_description": (
             "Radiossa eniten soineet kappaleet, viikko {week}, {month} {year}. "
             "Lähde: {url}"
@@ -130,6 +132,15 @@ def get_blog_url(chart_date):
     return BLOG_LINKS.get(
         key, f"https://suomenradiolistat.blogspot.com/search?q={year}"
     )
+
+
+def get_playlist_title(years, chart_date):
+    """Build a localized playlist title dynamically from the chart date."""
+    week = chart_date.isocalendar()[1]
+    year = chart_date.year
+    if LOCALE == "fi":
+        return get_text("playlist_title_dynamic", years=years, week=week, year=year)
+    return get_text("playlist_title_pattern", years=years)
 
 
 def get_playlist_description(chart_date):
