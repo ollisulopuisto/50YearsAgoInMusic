@@ -44,7 +44,8 @@ LOCALIZED_STRINGS = {
     "fi": {
         "playlist_title_pattern": "Suomen soitetuimmat {years} vuotta sitten",
         "playlist_description": (
-            "Radiossa eniten soineet kappaleet {month} vuonna {year}."
+            "Radiossa eniten soineet kappaleet {month} vuonna {year}. "
+            "Lähde: https://suomenradiolistat.blogspot.com/search?q={year}"
         ),
         "update_message": "Soittolista {title} on päivitetty viikolle {date}. {url}",
         "update_message_simple": "Soittolista {title} on juuri päivitetty.",

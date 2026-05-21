@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Calendar Versioning (CalVer) `vYY.MM.DD.N` where N is the total commit count.
 
+## [v26.05.21.15] - 2026-05-21
+
+### Changed
+- Appended a blog search link (https://suomenradiolistat.blogspot.com/search?q={year}) to the Finnish playlist descriptions.
+- Removed mentions of the Whitburn Project from `README.md`.
+- Added credit to Paul Lamere for the original source code in `README.md`.
+- Updated table titles in `README.md` to use the new "Suomen soitetuimmat X vuotta sitten" naming.
+
 ## [v26.05.21.14] - 2026-05-21
 
 ### Changed
