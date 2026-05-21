@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Calendar Versioning (CalVer) `vYY.MM.DD.N` where N is the total commit count.
 
+## [v26.05.21.16] - 2026-05-21
+
+### Changed
+- Reverted Finnish playlist descriptions to show weekly precision ("viikko X") and exact blog URLs for each chart mapped dynamically from the sidebar.
+
 ## [v26.05.21.15] - 2026-05-21
 
 ### Changed

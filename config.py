@@ -44,8 +44,8 @@ LOCALIZED_STRINGS = {
     "fi": {
         "playlist_title_pattern": "Suomen soitetuimmat {years} vuotta sitten",
         "playlist_description": (
-            "Radiossa eniten soineet kappaleet {month} vuonna {year}. "
-            "Lähde: https://suomenradiolistat.blogspot.com/search?q={year}"
+            "Radiossa eniten soineet kappaleet, viikko {week}, {month} {year}. "
+            "Lähde: {url}"
         ),
         "update_message": "Soittolista {title} on päivitetty viikolle {date}. {url}",
         "update_message_simple": "Soittolista {title} on juuri päivitetty.",
@@ -109,12 +109,36 @@ def get_month_name(month):
     return MONTH_NAMES[locale][month]
 
 
+def get_blog_url(chart_date):
+    """Return the exact blog URL for the chart date."""
+    from blog_links import BLOG_LINKS
+
+    year = chart_date.year
+    month = chart_date.month
+
+    if year == 1988:
+        key = (1988, 1, 1)
+    elif 1989 <= year <= 1997:
+        part = 1 if month <= 6 else 2
+        key = (year, part, 2)
+    elif 1998 <= year <= 2013:
+        part = (month - 1) // 3 + 1
+        key = (year, part, 4)
+    else:
+        return f"https://suomenradiolistat.blogspot.com/search?q={year}"
+
+    return BLOG_LINKS.get(
+        key, f"https://suomenradiolistat.blogspot.com/search?q={year}"
+    )
+
+
 def get_playlist_description(chart_date):
     """Build a localized playlist description from the chart date."""
     week = chart_date.isocalendar()[1]
     month = get_month_name(chart_date.month)
     year = chart_date.year
-    return get_text("playlist_description", week=week, month=month, year=year)
+    url = get_blog_url(chart_date)
+    return get_text("playlist_description", week=week, month=month, year=year, url=url)
 
 
 # Default feed playlists (original values from plamere)
