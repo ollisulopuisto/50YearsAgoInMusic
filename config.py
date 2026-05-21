@@ -190,6 +190,12 @@ DEFAULT_PLAYLISTS = {
         "fi_uri": "spotify:playlist:4IfVQrggAfv95jBWmXkrXA",
         "fi_url": "https://open.spotify.com/playlist/4IfVQrggAfv95jBWmXkrXA",
     },
+    "35": {
+        "en_uri": "",
+        "en_url": "",
+        "fi_uri": "spotify:playlist:6yeMEp4bB1bgH06NtDzxBt",
+        "fi_url": "https://open.spotify.com/playlist/6yeMEp4bB1bgH06NtDzxBt",
+    },
     "40": {
         "en_uri": "spotify:user:plamere:playlist:3N26XDqRfWT1DpXFBT2MlE",
         "en_url": "https://open.spotify.com/user/plamere/playlist/3N26XDqRfWT1DpXFBT2MlE",

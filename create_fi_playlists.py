@@ -7,8 +7,8 @@ import config
 
 
 def create_playlists():
-    # We want to create playlists for the active Finnish intervals: 15, 20, 25, 30
-    fi_intervals = ["15", "20", "25", "30"]
+    # We want to create playlists for the active Finnish intervals: 15, 20, 25, 30, 35
+    fi_intervals = ["15", "20", "25", "30", "35"]
     scope = "playlist-modify-public"
 
     print(f"Authenticating with Spotify for user: {config.SPOTIFY_USER}...")
