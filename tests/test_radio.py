@@ -207,14 +207,19 @@ def test_all_feeds_includes_new_intervals():
 
 def test_get_available_feeds_filters_by_data():
     """get_available_feeds returns only intervals with chart data."""
-    # Charts covering 2006-2011 → supports 15yr (2011) and 20yr (2006)
-    # from reference date 2026, but NOT 5yr (2021)
+    # Charts sit right at the 15 and 20 year targets for today's date, so the
+    # test does not go stale as the calendar moves (the lookup allows a 90 day
+    # gap). Nothing is near the 5, 40 or 50 year targets.
+    today = datetime.datetime.now().date()
+    week = datetime.timedelta(days=7)
+    dates = []
+    for years in (15, 20):
+        target = radio.get_target_date(today, years)
+        dates += [target, target + week]
     mock_charts = {
         "charts": {
-            "2006-05-15": [1, 2],
-            "2006-05-22": [3, 4],
-            "2011-05-16": [5, 6],
-            "2011-05-23": [7, 8],
+            date.isoformat(): [index * 2 + 1, index * 2 + 2]
+            for index, date in enumerate(dates)
         }
     }
 
