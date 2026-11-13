@@ -1,3 +1,4 @@
+import bisect
 import collections
 import datetime
 import json
@@ -96,13 +97,14 @@ def prep_charts(charts):
 def get_best_match_for_date(charts, sdate):
     if not charts.get("scharts"):
         prep_charts(charts)
-    for i, (date, sids) in enumerate(charts["scharts"][:-1]):
-        ndate, _ = charts["scharts"][i + 1]
-        if sdate >= date and sdate < ndate:
-            return date, sids
-    # Fallback to the last one if it's past or equal
-    if charts["scharts"] and sdate >= charts["scharts"][-1][0]:
-        return charts["scharts"][-1][0], charts["scharts"][-1][1]
+    scharts = charts["scharts"]
+    if not scharts:
+        return sdate, None
+    # scharts is sorted by date. Binary-search for the latest chart on or
+    # before sdate instead of scanning linearly: O(log n) vs O(n) per lookup.
+    idx = bisect.bisect_right(scharts, sdate, key=lambda entry: entry[0]) - 1
+    if idx >= 0:
+        return scharts[idx]
     return sdate, None
 
 
