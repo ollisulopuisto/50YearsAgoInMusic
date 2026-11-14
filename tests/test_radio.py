@@ -13,6 +13,23 @@ def test_parse_date():
     assert parsed.day == 20
 
 
+def test_fast_iso_date_parse_matches_parse_date():
+    """_parse_date_iso must agree with strptime-based parse_date on real dates.
+
+    Guards the fast-date-parse optimization in prep_charts: the optimized path
+    must produce identical dates to the reference parser, so chart lookups
+    cannot silently shift to the wrong week.
+    """
+    for date_string in (
+        "1988-04-25",
+        "2000-02-29",
+        "2013-12-31",
+        "1990-01-01",
+        "2006-06-15",
+    ):
+        assert radio._parse_date_iso(date_string) == radio.parse_date(date_string)
+
+
 def test_fix_name():
     assert (
         radio.fix_name("Joan Jett & The Blackhearts") == "Joan Jett & The Blackhearts"

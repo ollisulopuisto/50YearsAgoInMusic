@@ -85,10 +85,21 @@ def show_week(charts, date):
         show_songs(charts, week)
 
 
+def _parse_date_iso(dstring):
+    """Parse an ISO ``YYYY-MM-DD`` date string without strptime.
+
+    strptime pays locale/formatting overhead on every call; slicing plus int()
+    is an order of magnitude faster for the fixed-width ISO dates stored in
+    the chart database. prep_charts parses one date per chart row, so this is
+    the per-run hot spot. Behavior matches parse_date() for valid ISO dates.
+    """
+    return datetime.date(int(dstring[0:4]), int(dstring[5:7]), int(dstring[8:10]))
+
+
 def prep_charts(charts):
     scharts = []
     for date_string, sids in charts["charts"].items():
-        date = parse_date(date_string)
+        date = _parse_date_iso(date_string)  # fast ISO parse instead of strptime
         scharts.append((date, sids))
     scharts.sort()
     charts["scharts"] = scharts
