@@ -3,7 +3,6 @@ import collections
 import datetime
 import json
 import os
-import pickle
 import sys
 
 import spotipy
@@ -21,7 +20,11 @@ class Notifier:
 
 
 def load_charts():
-    # Attempt to load from pickle first
+    # Chart data is loaded as JSON only. Pickle deserialization is
+    # intentionally unsupported: deserializing untrusted data can execute
+    # arbitrary code (CWE-502), and the data path is configuration-driven,
+    # not a trusted input. A .pkl path is therefore ignored rather than
+    # passed to a pickle loader.
     charts = None
 
     # Try custom data path first, then fallback
@@ -30,20 +33,6 @@ def load_charts():
         config.CHART_DATA_FALLBACK_PATH
     ):
         data_path = config.CHART_DATA_FALLBACK_PATH
-
-    # If it ends with .pkl, load as pickle
-    if data_path.endswith(".pkl"):
-        try:
-            with open(data_path, "rb") as f:
-                charts = pickle.load(f, encoding="latin1")
-                return charts
-        except Exception as e:
-            print(
-                f"Failed to load pickle: {e}. Trying JSON fallback.",
-                file=sys.stderr,
-            )
-            # Try switching path to .js / .json
-            data_path = data_path.replace(".pkl", ".js")
 
     # Load as JSON
     if os.path.exists(data_path):
@@ -65,7 +54,7 @@ def load_charts():
         except Exception as e:
             print(f"Failed to load fallback JSON data: {e}", file=sys.stderr)
 
-    raise FileNotFoundError("Could not load chart database (neither pickle nor JSON).")
+    raise FileNotFoundError("Could not load chart database (JSON only).")
 
 
 def parse_date(dstring):

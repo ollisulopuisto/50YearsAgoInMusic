@@ -1,5 +1,9 @@
 import datetime
+import json
+import pickle
 from unittest.mock import MagicMock
+
+import pytest
 
 import config
 import radio
@@ -281,3 +285,55 @@ def test_get_target_date_new_intervals():
     today = datetime.date(2026, 5, 20)
     assert radio.get_target_date(today, 15) == datetime.date(2011, 5, 20)
     assert radio.get_target_date(today, 25) == datetime.date(2001, 5, 20)
+
+
+def test_radio_module_does_not_bind_pickle():
+    """radio must not import pickle: pickle.load on untrusted data is CWE-502.
+
+    Chart data is loaded as JSON only. The name 'pickle' must not be present
+    in the radio module namespace so no code path can deserialize pickle data.
+    """
+    assert not hasattr(radio, "pickle")
+
+
+def test_load_charts_rejects_pickle(monkeypatch, tmp_path):
+    """load_charts() must not deserialize .pkl data (CWE-502).
+
+    CHART_DATA_PATH is environment-controlled. A pickle payload that runs code
+    when deserialized must therefore never be executed by load_charts(); the
+    unsafe file is ignored and JSON-only loading fails closed.
+    """
+    marker = tmp_path / "executed"
+
+    class Payload:
+        def __reduce__(self):
+            # Runs during unpickling: proves whether the payload was executed.
+            return (marker.write_text, ("executed",))
+
+    malicious = tmp_path / "evil.pkl"
+    malicious.write_bytes(pickle.dumps(Payload()))
+    assert not marker.exists()
+
+    monkeypatch.setattr(config, "CHART_DATA_PATH", str(malicious))
+    monkeypatch.setattr(
+        config, "CHART_DATA_FALLBACK_PATH", str(tmp_path / "nonexistent.js")
+    )
+
+    with pytest.raises(FileNotFoundError):
+        radio.load_charts()
+
+    assert not marker.exists(), "pickle payload must never be deserialized"
+
+
+def test_load_charts_loads_json(monkeypatch, tmp_path):
+    """load_charts() still loads chart data from a JSON file (regression)."""
+    chart = {"charts": {"2020-01-01": [1, 2, 3]}, "songs": {"1": {"title": "S"}}}
+    data_file = tmp_path / "charts.js"
+    data_file.write_text(json.dumps(chart), encoding="utf-8")
+    monkeypatch.setattr(config, "CHART_DATA_PATH", str(data_file))
+    monkeypatch.setattr(
+        config, "CHART_DATA_FALLBACK_PATH", str(tmp_path / "nonexistent.js")
+    )
+
+    loaded = radio.load_charts()
+    assert loaded == chart
